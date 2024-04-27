@@ -118,7 +118,11 @@ En el marco del desarrollo del landing page de MyEvent y la creación de wirefra
           <p>
             <strong>TB1</strong>
               <p>
-                  Se realizó una investigación que sustente de forma concreta la solución planteada al problema y se analizaron los casos que afecta a dos segmentos (clientes y organizadores de eventos), de forma simultánea se fue desarrollando la solución y apartados del presente proyecto, manteniendo las buenas prácticas de desarrollo, implementación y comunicación.
+                  Nuestro equipo, compuesto por cinco integrantes, se embarcó en un proyecto ambicioso de desarrollo de un producto web utilizando Angular. Para abordar este desafío, llevamos a cabo una exhaustiva investigación con el objetivo de fundamentar de manera sólida la solución planteada al problema identificado. Este proceso de investigación incluyó un análisis detallado de los casos que afectan a dos segmentos clave: los clientes y los organizadores de eventos.
+
+Durante el transcurso de nuestra investigación, nos sumergimos en la comprensión de las necesidades y desafíos enfrentados por estos dos segmentos de usuarios. Esto nos permitió obtener una visión integral de los problemas existentes y nos proporcionó la base necesaria para desarrollar una solución efectiva y orientada a satisfacer las demandas de ambos grupos de manera simultánea.
+
+Siguiendo las mejores prácticas de desarrollo de software, implementamos un enfoque iterativo y colaborativo en el desarrollo de la solución. Esto implicó la creación de diferentes iteraciones del producto, donde cada versión fue refinada y mejorada en respuesta a los comentarios y las necesidades emergentes de nuestros usuarios
               </p>
           </p>
         </td>
