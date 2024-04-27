@@ -617,6 +617,12 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
         <li>Personalización e integración con redes sociales para organizadores de eventos</li>
         <li>Recomendaciones personalizadas y opciones de pago seguras para clientes</li>
   </ul>
+  <h3>Anlsis estadistico</h3>
+  <ul>
+        <li>A continuacion mostramos los principales problemas que nuestros entrevistados consideran en un servicio de venta de entradas:</li>
+        <img src="./imagenes/analisisEstadistico1.png">
+      <p>Descripcion: </p>
+  </ul>
 
 <p>Estos puntos resaltan la importancia de garantizar la seguridad, ofrecer opciones de personalización y conveniencia, e integrar características sociales y analíticas en una plataforma de venta de entradas.</p>
 
