@@ -617,7 +617,7 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
         <li>Personalización e integración con redes sociales para organizadores de eventos</li>
         <li>Recomendaciones personalizadas y opciones de pago seguras para clientes</li>
   </ul>
-  <h3>Anlsis estadistico</h3>
+  <h3>Análsis estadístico</h3>
   <ul>
         <li>A continuacion mostramos los principales problemas que nuestros entrevistados consideran en un servicio de venta de entradas:</li>
         <img src="./imagenes/analisisEstadistico1.png">
@@ -1912,6 +1912,13 @@ documentar.</p>
 <h4>5.2.1.8 Team Collaboration Insights during Sprint</h4>
 <img src="./imagenes/commits.png">
 <img src="./imagenes/insights.png">
+
+<h1>CONCLUSIONES</h1>
+<h1>ANEXOS</h1>
+<ul>
+    <li>Marches Parra, J., & Granados Romero, A. (2022). Plataforma de compra y venta de entradas para eventos integrada en la tecnología blockchain. [Trabajo final de grado, Grau en Enginyeria Informàtica (Pla 2018), Escola Politècnica Superior d'Enginyeria de Vilanova i la Geltrú]. Universitat Politècnica de Catalunya. http://hdl.handle.net/2117/378090</li>
+</ul>
+
 
 
 
