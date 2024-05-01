@@ -547,6 +547,8 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
     <tr><td>Link de la entrevista: <a href="https://youtu.be/LGgSQhsjqQI?si=h8IUovq9bNTRS-5z">https://youtu.be/LGgSQhsjqQI?si=h8IUovq9bNTRS-5z</a></td></tr>
   </table>
 
+  
+
 
 <h3>Segmento Cliente</h3>
 <h4>Nombre: Flavio Vásquez Dorothy</h4>
@@ -575,6 +577,18 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
     <tr><td>Link de la entrevista: <a href="https://youtu.be/VWth4gYwdHs">https://youtu.be/VWth4gYwdHs</a></td></tr>
   </table>
 
+<h4>Nombre: Alvaro Calderon Cristobal</h4>
+<h4>Edad: 20 años</h4>
+<h4>Ubicación: Huancayo</h4>
+<table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/EntrevistaCalde.png" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">La entrevista proporcionó una visión detallada sobre las preferencias y experiencias de un asiduo asistente a eventos en vivo, desde conciertos hasta festivales. El entrevistado reveló una frecuencia notable en su asistencia a estos eventos, aproximadamente una vez al mes, con una inclinación hacia artistas o géneros musicales específicos. Su motivación para comprar entradas se basa en el interés artístico y la disponibilidad de compañía. Destacó la importancia de la reputación y la transparencia en los precios al elegir dónde comprar entradas, así como la conveniencia del proceso de compra.
+
+El entrevistado compartió experiencias pasadas, incluyendo problemas técnicos durante el proceso de compra y la ocurrencia de cargos ocultos, lo que subraya la importancia de mejorar la transparencia y la funcionalidad en las plataformas de venta de entradas. Además, expresó el deseo de acceder a información detallada sobre eventos y opciones de entradas, así como la posibilidad de recibir recompensas por su fidelidad como cliente. La seguridad y la privacidad en línea también fueron aspectos cruciales, destacando la necesidad de medidas sólidas para proteger la información personal y financiera durante las transacciones en línea. En resumen, la entrevista proporcionó una comprensión exhaustiva de las expectativas y preocupaciones de un consumidor exigente en el mercado de eventos en vivo.</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=n-AxQBOF04A&ab">https://www.youtube.com/watch?v=n-AxQBOF04A&ab</a></td></tr>
+  </table>
 
 
 
