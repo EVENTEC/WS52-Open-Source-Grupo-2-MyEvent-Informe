@@ -188,6 +188,15 @@ En el contexto del desarrollo de un proyecto en ingeniería, se llevó a cabo un
             <strong>TP</strong>
                     <p>Durante el desarrollo del proyecto de elaboración de flujos para la aplicación web de eventos y venta de entradas en Angular, se evidenció una habilidad destacada para comunicar oralmente ideas y resultados de manera objetiva. Durante las reuniones de equipo y presentaciones ante diferentes especialidades y niveles jerárquicos, se demostró una capacidad sólida para transmitir información de manera clara y concisa. La comunicación fue efectiva tanto con colegas del equipo de desarrollo como con otros departamentos, lo que facilitó la comprensión y colaboración en el proyecto. </p>
     </li>
+        <li><strong>Piero Jhoynner Muñoz Salcedo</strong>
+            <p>
+                <strong>TB1</strong>
+                <p>
+En el marco del desarrollo del landing page y la creación de mockups, redacté documentación detallada que comunicó de forma efectiva y concisa el diseño, la estructura y la funcionalidad del proyecto, facilitando la colaboración y la toma de decisiones informadas dentro del equipo de desarrollo.</p>
+            </p>
+            <strong>TP</strong>
+                    <p>Durante la definición y desarrollo de las epics de las User Stories, se comunicó de manera efectiva y objetiva las metas, funcionalidades y requisitos de cada epic a todo el equipo. Esto aseguró una comprensión clara y alineada con los objetivos del proyecto en cada fase de desarrollo, facilitando la planificación, implementación y evaluación de las User Stories asociadas a cada epic.</p>
+    </li>
                 </ul>
         </td>
         <td>
