@@ -2402,7 +2402,7 @@ documentar.</p>
 <p>El deployment de nuestro Front-end se ha desarrollado en Netlify</p>
 <img src="./imagenes/deployNetlify.png" >
 <img src="./imagenes/deployNetlify2.png" >
-<p>Enlace al proyecto desplegado: https://grupo-1-artisania-deployment.web.app </p>
+<p>Enlace al proyecto desplegado: https://github.com/EVENTEC/WS52-Open-Source-Grupo-2-MyEvent-FrontEnd </p>
 
 <h3>5.2.2.6 Services Documentation Evidence for Sprint Review</h3>
 Debido a que estamos en la etapa de desarrollo del frontend de la aplicación web. No se está aplicando el servicio de Apis para la demostración de los datos, en su lugar se esta haciendo uso de una fake API.
