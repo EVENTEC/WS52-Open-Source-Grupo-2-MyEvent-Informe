@@ -1344,7 +1344,6 @@ Claro, aquí tienes el análisis utilizando etiquetas HTML `<p>` para los párra
 </table>
 
 <h4>Historias Técnicas</h4>
-
 <table>
   <thead>
     <tr>
@@ -1359,7 +1358,7 @@ Claro, aquí tienes el análisis utilizando etiquetas HTML `<p>` para los párra
     <tr>
       <td>TS01</td>
       <td>Configuración de datos de Usuarios</td>
-      <td>Como desarrollador, necesito configurar un archivo json para almacenar la información de cada usuario, como su nombre, correo y contraseña deseada.</td>
+      <td>Como desarrollador, necesito configurar un archivo JSON para almacenar la información de cada usuario, como su nombre, correo y contraseña deseada.</td>
       <td>- Se debe poder almacenar correctamente la información de cada usuario en un archivo JSON.</td>
       <td>EP01</td>
     </tr>
