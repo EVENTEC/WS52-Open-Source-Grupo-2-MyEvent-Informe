@@ -117,6 +117,8 @@ En el marco del desarrollo del landing page de MyEvent y la creación de wirefra
                   <p>
                     <strong>TB1</strong>
                     <p>De acuerdo al objetivo en las etapas de análisis de competidores y desarrollo de estrategias se mantuvo una comunicación efectiva con los diversos usuarios involucrados en las etapas de investigación, análisis y estudio. Asimismo, se presentaron los resultados de forma clara en las secciones de los empathy maps y as-is scenario mapping. </p>
+                    <strong>TP</strong>
+                    <p>Durante el proyecto, logré comunicar mis ideas y resultados de manera objetiva a diferentes audiencias. En las etapas de corrección, desarrollo, implementación y despliegue mantuve una comunicación efectiva con usuarios de diversas especialidades y niveles jerárquicos. Presenté los resultados de manera clara en secciones como los apartados de visualización principales, adaptándome a las necesidades de cada grupo. Este enfoque contribuyó al éxito general del proyecto.</p>
                   </p>
                 </li>   
                 <li><strong>Alessandro Joaquin Bernardo Eusebio</strong>
@@ -148,7 +150,10 @@ Siguiendo las mejores prácticas de desarrollo de software, implementamos un enf
                 <p>
                     <strong>TB1</strong>
                     <p>De acuerdo al objetivo en las etapas de análisis de competidores y desarrollo de estrategias se mantuvo una presentación de la información óptima con los diversos usuarios involucrados en las etapas de investigación, análisis y estudio. Asimismo, se presentaron los resultados escritos de forma clara en las secciones de los empathy maps y as-is scenario mapping.</p>
-                </p>
+                    <strong>TP</strong>
+<p>Durante el proyecto, me enfoqué en comunicar mis ideas y resultados de manera objetiva a diversas audiencias. Durante las etapas de corrección, desarrollo, implementación y despliegue, mantuve una comunicación efectiva con usuarios de diferentes especialidades y niveles jerárquicos. Destaqué los resultados de forma clara en secciones clave, como los apartados de visualización principales, adaptándome a las necesidades específicas de cada grupo. Este enfoque contribuyó significativamente al éxito general del proyecto.</p>
+
+</p>
                 </li>
                 <li><strong>Luis Mario Gonzales Anaya</strong>
                     <p>
