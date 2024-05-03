@@ -508,7 +508,7 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 
   <table style="border: 1px solid gray;">
     <tr>
-        <td><img src="./imagenes/raulquispe.npg" alt="Descripción de la imagen"></td>
+        <td><img src="./imagenes/raulquispe.png" alt="Descripción de la imagen"></td>
     </tr>
     <tr><td class="justificado">El entrevistado asiste a eventos como conciertos, festivales o espectáculos en vivo varias veces al mes, siendo motivado principalmente por la calidad de los artistas o el tipo de evento, así como por la ubicación y el ambiente del lugar. Valora la confiabilidad del servicio al elegir dónde comprar sus entradas, buscando plataformas conocidas y seguras debido a experiencias negativas previas. Desea ver en una plataforma de venta de entradas recomendaciones personalizadas, mapas de asientos detallados y opciones como saltar colas y participar en actividades interactivas. Considera crucial tener acceso a información detallada sobre los eventos y las entradas disponibles. Aprueba la posibilidad de obtener recompensas o descuentos por asistir a eventos regularmente y prefiere comprar entradas a través de una plataforma de venta de entradas debido a su conveniencia y capacidad para comparar precios. La seguridad y la conveniencia en las opciones de pago son fundamentales, así como medidas de seguridad y privacidad en línea, como la protección de datos personales y la autenticación de dos factores.
 </td></tr>
