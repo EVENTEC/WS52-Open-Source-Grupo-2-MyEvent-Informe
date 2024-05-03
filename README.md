@@ -2369,50 +2369,6 @@ documentar.</p>
         <td>Merge de la creacion de eventos en la rama</td>
         <td>Commits on May 2, 2024</td>
     </tr>
-        <tr>
-        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
-        <td>main</td>
-        <td>e70a368</td>
-        <td>Create the-footer.component.vue</td>
-        <td>Creación de componente Footer general</td>
-        <td>25/04/2024</td>
-    </tr>
-        <tr>
-        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
-        <td>main</td>
-        <td>c9e2f6d</td>
-        <td>Create reset-password.component.vue</td>
-        <td>Creación de componente para cambiar contraseña si se requiere</td>
-        <td>25/04/2024</td>
-    </tr>
-      </tr>
-        <tr>
-        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
-        <td>main</td>
-        <td>122d6da</td>
-        <td>Create the-login.component.vue</td>
-        <td>Creación de componente para iniciar sesión</td>
-        <td>25/04/2024</td>
-    </tr>
-      </tr>
-        <tr>
-        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
-        <td>main</td>
-        <td>e80ef0b</td>
-        <td>Create the-register.component.vue</td>
-        <td>Creación de componente de registro de usuarios</td>
-        <td>25/04/2024</td>
-    </tr>
-      </tr>
-        <tr>
-        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
-        <td>main</td>
-        <td>c8b0adf</td>
-        <td>Create parameters.component.vue</td>
-        <td>Creación de componente de parámetros para los productos de la web</td>
-        <td>26/04/2024</td>
-    </tr>
-          </tr>     
 </table>
 <h1>CONCLUSIONES</h1>
 <h1>ANEXOS</h1>
