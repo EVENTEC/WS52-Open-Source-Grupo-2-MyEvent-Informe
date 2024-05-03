@@ -63,8 +63,22 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
         </td>
         <td>Se formuló una solución para abordar la oportunidad identificada y se procedió a desarrollar los primeros cinco capítulos del proyecto, desde la Introducción hasta la Implementación del Producto, Validación y Despliegue. De esta manera, hemos completado la fase inicial del proyecto según la estructura indicada en este informe.</td>
     </tr>
-</table>
+    <tr>
+        <td><strong>TP</strong></td>
+        <td>3 de mayo de 2024</td></td>
+        <td>
+            <ul>
+                <li>Michael Stefano Carmelino Dueñas</li>
+                <li>Luis Mario Gonzales Anaya</li>
+                <li>Piero Jhoynner Muñoz Salcedo</li>
+                <li>Luis Alejandro Zárate Gamarra</li>
+                <li>Alessandro Joaquin Bernardo Eusebio</li>
 
+</ul>
+        </td>
+        <td>Se implementaron cambios basados en los comentarios recibidos en la retroalimentación de la TB1. Estos cambios se reflejaron en las secciones de análisis de la problemática, registros y análisis de usuario. Además, se definieron épicas globales e historias técnicas relacionadas con el backend. En cuanto al desarrollo, se completó el segundo sprint, centrándose en la implementación inicial del frontend de la aplicación. Esta implementación proporciona una vista general para el usuario, con todas las disposiciones y validaciones necesarias para la administración y gestión completa de los procesos principales de la aplicación.</td>
+    </tr>
+</table>
 <h1 style="color: red;">STUDENT OUTCOME</h1>
 
 <table style="width: 100%;">
