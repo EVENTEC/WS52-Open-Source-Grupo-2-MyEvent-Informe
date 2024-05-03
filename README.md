@@ -2129,7 +2129,291 @@ documentar.</p>
 <h4>5.2.1.8 Team Collaboration Insights during Sprint</h4>
 <img src="./imagenes/commits.png">
 <img src="./imagenes/insights.png">
-
+<h3>5.2.2.1 Sprint planning 2</h3>
+<table>
+    <tr>
+      <th>Sprint # </th>
+      <th>Sprint 2 </th>
+    </tr>
+    <tr>
+      <td><strong>Sprint Planning Background</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Date</th>
+      <th>2024/04/22</th>
+    </tr>
+    <tr>
+      <th>Time</th>
+      <th>18:00 PM</th>
+    </tr>
+    <tr>
+      <th>Location</th>
+      <th>Discord</th>
+    </tr>
+    <tr>
+      <th>Prepared by</th>
+      <th>Luis Alejandro, Zárate Gamarra</th>
+    </tr>
+    <tr>
+      <th>Attendess (to planning meeting)</th>
+      <th>Alessandro Joaquin Bernardo Eusebio - u202113640
+        Luis Alejandro, Zárate Gamarra	 - U20181H198
+        Carmelino Dueñas, Michael Stefano	 - U202212760 
+        Gonzales Anaya, Luis Mario	 - u20201C585
+        Piero Jhoynner, Muñoz Salcedo	 - u202224446
+   </th>
+    </tr>
+    <tr>
+      <th>Sprint 1 Review Summary</th>
+      <th>Correcciones y término del desarrollo de las tareas que corresponden al Sprint 1 </th>
+    </tr>
+    <tr>
+      <th>Sprint 1 Retrospective Summary</th>
+      <th>Ciertas faltas de organización en el equipo, escasa informacion en el needfinding</th>
+    </tr>
+    <tr>
+      <th>Sprint Goal & User Stories</th>
+      <th></th>
+    </tr>
+    <tr>
+      <th>Sprint 2 Goal</th>
+      <th>Se creó el repositorio de Front end de nuestra aplicación y se llegó a desplegar el proyecto </th>
+    </tr>
+    <tr>
+      <th>Sprint 2 Velocity</th>
+      <th>2 semanas </th>
+    </tr>
+    <tr>
+      <th>Sum of Story Point</th>
+      <th>5</th>
+    </tr>
+  </table>
+  <h3>5.2.2.2 Sprint Backlog 2</h3>
+<table>
+    <tr>
+     <th>Sprint #</th>
+     <th>Sprint 2</th>
+   </tr>
+    <tr>
+     <th>User Story</th>
+     <th></th>
+     <th>Work-Item/Task</th>
+   </tr>
+   <tr>
+     <th>Id</th>
+     <th>Title</th>
+     <th>Id</th>
+     <th>Title </th>
+     <th>Description</th>
+     <th>Estimation(Hours)</th>
+     <th>Assigned To</th>
+     <th>Status (To-do / InProcess / ToReview / Done)</th>
+   </tr>
+   <tr>
+     <th>US-01</th>
+     <th>Visualizar la vista de inicio de la aplicacion</th>
+     <th>W-01</th>
+     <th>Vista inicial de la aplicación </th>
+     <th>Como usuario nuevo que accede a la aplicación por primera vez,
+        Quiero poder ver la vista de inicio de la aplicación,
+        Para poder familiarizarme con la interfaz y las opciones disponibles.
+     <th>2 hours</th>
+     <th>Michael</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th>US-02</th>
+     <th>Visualizar la vista de inicio de sesion</th>
+     <th>W-02</th>
+     <th>Iniciar sesion</th>
+     <th>Como usuario nuevo que desea utilizar el servicio,
+       Quiero poder ver la opción de iniciar sesión en el sitio web o aplicación,
+       Para acceder a todas las funcionalidades y personalizar mi experiencia según mis preferencias y necesidades.</th>
+     <th>2 hours</th>
+     <th>Luis</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th>US-03</th>
+     <th>Visualizar la vista registro /th>
+     <th>W-03</th>
+     <th>Registro de usuario</th>
+     <th>Como usuario nuevo interesado en utilizar la aplicación,
+        Quiero poder ver la vista de registro de usuario,
+        Para poder crear una cuenta y comenzar a utilizar todas las funcionalidades disponibles.
+     <th>2 hours</th>
+     <th>Mario</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th>US-04</th>
+     <th>Visualizar el calendario de eventos futuros</th>
+     <th>W-04</th>
+     <th>Calendario de eventos</th>
+     <th>Como usuario de la aplicación,
+        Quiero poder acceder y visualizar el calendario de eventos futuros,
+        Para poder planificar y organizarme con anticipación según las fechas y detalles de los eventos próximos.
+     </th>
+     <th>2 hours</th>
+     <th>Piero</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th>US-05</th>
+     <th>Visualizacion de la sección para añadir evento</th>
+     <th>W-05</th>
+     <th>Registrar un evento</th>
+     <th>Como usuario de la aplicación,
+        Quiero poder acceder y visualizar la sección para añadir evento,
+        Para poder crear nuevos eventos y agregarlos al calendario con los detalles necesarios.
+        <th>2 hours</th>
+     <th>Alessandro</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th>US-06</th>
+     <th>Visualización de la seccion del detalle del evento</th>
+     <th>W-06</th>
+     <th>Detalle de evento</th>
+     <th>CComo usuario de la aplicación,
+        Quiero poder acceder y visualizar la sección de detalle del evento,
+        Para obtener información detallada sobre un evento específico, incluidos la fecha, la hora, la ubicación y cualquier otra información relevante.
+    </th>
+     <th>1 hours</th>
+     <th>Michael</th>
+     <th>Done</th>
+   </tr>
+ 
+   <tr>
+     <th>US-07</th>
+     <th>Visualización de la notificacion de transacción</th>
+     <th>W-06</th>
+     <th>Notificación de transacción</th>
+     <th>Como usuario de la aplicación,
+        Quiero poder recibir y visualizar notificaciones de transacciones,
+        Para estar al tanto de las actualizaciones importantes relacionadas con mis actividades financieras, como pagos realizados, recibidos o cualquier otro tipo de transacción.
+    </th>
+     <th>1 hours</th>
+     <th>Luis</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th>US-08</th>
+     <th>Visualización de la confirmación de la compra del boleto</th>
+     <th>W-06</th>
+     <th>Confirmación de la compra del boleto</th>
+     <th>Como usuario que realiza la compra de un boleto,
+        Quiero poder ver la confirmación de la compra del boleto,
+        Para asegurarme de que la transacción se haya completado con éxito y tener un registro de mi compra.
+        <th>1 hours</th>
+     <th>Mario</th>
+     <th>Done</th>
+   </tr>
+ </table>
+ <h3>5.2.2.3 Development Evidence for Sprint Review</h3>
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
+        <td>feature/notifications</td>
+        <td>841ef6dd1515f226a07bb977ee8892adad260c96</td>
+        <td>feat: Agregar vistas de notificacion de compra de entradas a eventos</td>
+        <td>Agregar la vistas de notificaciones de compra de entradas a los eventos</td>
+        <td>Commits on Apr 30, 2024</td>
+    </tr>
+    <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
+        <td>feature/notifcaciones</td>
+        <td>676f1701e3b29cfe15c7e1806aa1b7f5b769f702</td>
+        <td>feat: Agregar creacion de eventos</td>
+        <td>Creacion del componente de creacion de eventos hacia el fake API</td>
+        <td>Commits on May 2, 2024</td>
+    </tr>
+    <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
+        <td>feature/create-event</td>
+        <td>df92b59f91fc971fd669716f5d0096b6bad2457c</td>
+        <td>feat: Se agregó el componente home</td>
+        <td>Creación de componente home </td>
+        <td>Commits on Apr 28, 2024</td>
+    </tr>
+        <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
+        <td>feature/loginregistercomplete</td>
+        <td>80dd7fde062e88f54d4c9f13b9f86c18b0dd2819</td>
+        <td>feat: se agregó funcionalidad al botón login e inicialización en el apartado del catálogo</td>
+        <td>Creacion del boton de login e inicialización del apartado del catalogo</td>
+        <td>Commits on May 1, 2024</td>
+    </tr>
+        <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
+        <td>feature/notification</td>
+        <td>841ef6dd1515f226a07bb977ee8892adad260c96</td>
+        <td>feat: Agregar vistas de notificacion de compra de entradas a eventos</td>
+        <td>Creación de componente de notificacion de la compra del boleto</td>
+        <td>Commits on Apr 30, 2024</td>
+    </tr>
+        <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
+        <td>feature/notification</td>
+        <td>676f1701e3b29cfe15c7e1806aa1b7f5b769f702</td>
+        <td>feat: Agregar creacion de eventos</td>
+        <td>Merge de la creacion de eventos en la rama</td>
+        <td>Commits on May 2, 2024</td>
+    </tr>
+        <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
+        <td>main</td>
+        <td>e70a368</td>
+        <td>Create the-footer.component.vue</td>
+        <td>Creación de componente Footer general</td>
+        <td>25/04/2024</td>
+    </tr>
+        <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
+        <td>main</td>
+        <td>c9e2f6d</td>
+        <td>Create reset-password.component.vue</td>
+        <td>Creación de componente para cambiar contraseña si se requiere</td>
+        <td>25/04/2024</td>
+    </tr>
+      </tr>
+        <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
+        <td>main</td>
+        <td>122d6da</td>
+        <td>Create the-login.component.vue</td>
+        <td>Creación de componente para iniciar sesión</td>
+        <td>25/04/2024</td>
+    </tr>
+      </tr>
+        <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
+        <td>main</td>
+        <td>e80ef0b</td>
+        <td>Create the-register.component.vue</td>
+        <td>Creación de componente de registro de usuarios</td>
+        <td>25/04/2024</td>
+    </tr>
+      </tr>
+        <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
+        <td>main</td>
+        <td>c8b0adf</td>
+        <td>Create parameters.component.vue</td>
+        <td>Creación de componente de parámetros para los productos de la web</td>
+        <td>26/04/2024</td>
+    </tr>
+          </tr>     
+</table>
 <h1>CONCLUSIONES</h1>
 <h1>ANEXOS</h1>
 <ul>
