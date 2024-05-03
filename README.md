@@ -195,15 +195,7 @@ En el contexto del desarrollo de un proyecto en ingeniería, se llevó a cabo un
             <strong>TB1</strong>
               <p>Se realizó una investigación que sustente de forma concreta la solución planteada al problema y se analizaron los casos que afecta a dos segmentos (clientes y organizadores de eventos), de forma simultánea se fue desarrollando la solución y apartados del presente proyecto, manteniendo las buenas prácticas de escritura, presentación y entrega </p>
           </p>
-           <li><strong>Piero Jhoynner Muñoz Salcedo</strong></li>
-                <p>
-                    <strong>TB1</strong>
-                    <p>
-En el marco del desarrollo del landing page y la creación de mockups, redacté documentación detallada que comunicó de forma efectiva y concisa el diseño, la estructura y la funcionalidad del proyecto, facilitando la colaboración y la toma de decisiones informadas dentro del equipo de desarrollo.
-                  </p>
-                 <strong>TP</strong>
-                    <p>Durante la definición y desarrollo de las epics de las User Stories, se comunicó de manera efectiva y objetiva las metas, funcionalidades y requisitos de cada epic a todo el equipo. Esto aseguró una comprensión clara y alineada con los objetivos del proyecto en cada fase de desarrollo, facilitando la planificación, implementación y evaluación de las User Stories asociadas a cada epic.</p>
-                  </p>
+           
         </td>
           
         </tr>
