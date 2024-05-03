@@ -1343,6 +1343,129 @@ Claro, aquí tienes el análisis utilizando etiquetas HTML `<p>` para los párra
   </tbody>
 </table>
 
+<h4>Historias Técnicas</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Criterios de aceptación</th>
+      <th>Relacionado con (Epic ID)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TS01</td>
+      <td>Configuración de datos de Usuarios</td>
+      <td>Como desarrollador, necesito configurar un archivo json para almacenar la información de cada usuario, como su nombre, correo y contraseña deseada.</td>
+      <td>- Se debe poder almacenar correctamente la información de cada usuario en un archivo JSON.</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Implementación del Registro de Usuarios</td>
+      <td>Como desarrollador, debo implementar la funcionalidad que permita a los usuarios registrarse, incluyendo diseño e interfaz atractivo para ingresar la información al archivo JSON.</td>
+      <td>- Los usuarios pueden completar el registro proporcionando su información personal válida.</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td>Desarrollo del Módulo de Inicio de Sesión</td>
+      <td>Como desarrollador, debo implementar la funcionalidad que permita a los usuarios iniciar sesión con sus credenciales registradas.</td>
+      <td>- Los usuarios pueden iniciar sesión con éxito usando su correo electrónico y contraseña válidos.<br>- Los usuarios reciben un mensaje de error claro si intentan iniciar sesión con credenciales incorrectas.</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS04</td>
+      <td>Manejo de Errores de Inicio de Sesión</td>
+      <td>Como desarrollador, debo implementar una lógica que informe a los usuarios sobre errores al intentar iniciar sesión con credenciales incorrectas.</td>
+      <td>- Se muestra un mensaje de error claro cuando las credenciales de inicio de sesión son incorrectas.</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS05</td>
+      <td>Muestreo de contraseñas</td>
+      <td>Como desarrollador, debo implementar una funcionalidad que permita a los usuarios ver u ocultar su contraseña mientras la ingresan en el registro o inicio de sesión.</td>
+      <td>- Los usuarios pueden optar por mostrar u ocultar su contraseña mientras la ingresan.</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS06</td>
+      <td>Implementación Repetir contraseña</td>
+      <td>Como desarrollador, debo implementar una lógica que requiera que los usuarios ingresen su contraseña dos veces durante el registro para confirmación.</td>
+      <td>- Durante el registro, los usuarios deben ingresar su contraseña dos veces y ambas deben coincidir para confirmación.</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS07</td>
+      <td>Configuración de datos de Eventos</td>
+      <td>Como desarrollador, necesito configurar un archivo JSON para almacenar la información de cada evento, incluyendo nombre, fecha, ubicación, descripción, etc.</td>
+      <td>- Se debe poder almacenar correctamente la información de cada evento en un archivo JSON.</td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>TS08</td>
+      <td>Diseño e Implementación del Formulario de Creación de Eventos</td>
+      <td>Como desarrollador, debo diseñar e implementar un formulario de interfaz de usuario para que los organizadores completen los detalles de un nuevo evento.</td>
+      <td>- Los organizadores pueden completar todos los detalles del evento en el formulario de creación de eventos.</td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>TS09</td>
+      <td>Validación de Datos del Formulario</td>
+      <td>Como desarrollador, debo implementar la validación de datos para asegurar que los detalles ingresados en el formulario de creación de eventos sean correctos y completos.</td>
+      <td>- Se valida que todos los campos requeridos en el formulario estén completos y sean válidos antes de enviar los datos del evento.</td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>TS10</td>
+      <td>Envío de datos</td>
+      <td>Como desarrollador, debo implementar la lógica para enviar los datos del nuevo evento creado al archivo JSON.</td>
+      <td>- Los datos del evento son enviados y almacenados correctamente en el archivo JSON de eventos.</td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>TS11</td>
+      <td>Diseño e Implementación de la Interfaz de Usuario para Explorar Eventos</td>
+      <td>Como desarrollador, debo diseñar e implementar una interfaz de usuario que permita a los usuarios explorar y visualizar los eventos registrados.</td>
+      <td>- Los usuarios pueden navegar y ver los eventos disponibles en la interfaz de exploración de eventos.</td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>TS12</td>
+      <td>Implementación del Proceso de Pago</td>
+      <td>Como desarrollador, debo implementar el proceso de pago para que los usuarios puedan comprar entradas utilizando diferentes métodos de pago.</td>
+      <td>- Los usuarios pueden completar la compra de entradas usando métodos de pago como American Express, PayPal, BCP, etc.<br>- Se presenta un formulario para que los usuarios ingresen la información necesaria para el pago.</td>
+      <td>EP03</td>
+    </tr>
+    <tr>
+      <td>TS13</td>
+      <td>Implementación de Visualización de Detalles de Eventos</td>
+      <td>Como desarrollador, debo implementar la funcionalidad que permita a los usuarios ver detalles completos de un evento individual.</td>
+      <td>- Los usuarios pueden hacer clic en un evento para ver sus detalles completos, incluyendo descripción, fecha, ubicación, categoría, etc.</td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>TS14</td>
+      <td>Implementación de Transacción</td>
+      <td>Como desarrollador, debo implementar una interfaz que muestre a los usuarios los detalles de una transacción después de completar la compra.</td>
+      <td>- Después de realizar una compra, los usuarios pueden ver los detalles de la transacción, incluyendo estado, nombre del comercio, fecha y hora de pago, ID de transacción, método de pago utilizado y costo total.</td>
+      <td>EP03</td>
+    </tr>
+    <tr>
+      <td>TS15</td>
+      <td>Manejo de datos de la transacción</td>
+      <td>Como desarrollador, debo implementar una lógica que proporcione información precisa sobre las transacciones a los usuarios.</td>
+      <td>- Los datos de las transacciones se manejan correctamente y se muestran de manera clara para los usuarios.</td>
+      <td>EP03</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 <h2>3.3 Impact Mapping</h2>
   <img src="./imagenes/impactMapping/Impact Mapping.jpg"/>
 
