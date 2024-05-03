@@ -1008,9 +1008,13 @@ Claro, aquí tienes el análisis utilizando etiquetas HTML `<p>` para los párra
       <td>US01</td>
       <td>Autenticación de usuario</td>
       <td>Como usuario Quiero registrarme e iniciar sesión Para acceder a la aplicación MyEvent</td>
-      <td>El usuario puede registrar una cuenta nueva con su información personal.
-          El usuario puede iniciar sesión con su nombre de usuario y contraseña.
-          El usuario recibirá un mensaje de error si el inicio de sesión falla.</td>
+      <td>- Dado que un usuario desea crear una cuenta nueva, cuando proporciona su información personal válida, entonces 
+      la cuenta se registra con éxito.
+      - Dado que un usuario desea iniciar sesión, cuando ingresa su nombre de usuario y contraseña válidos, entonces 
+      accede a la aplicación MyEvent.
+      - Dado que un usuario intenta iniciar sesión con credenciales incorrectas, entonces recibe un mensaje de error 
+      indicando que el inicio de sesión ha fallado.
+.</td>
       <td>EP01</td>
     </tr>
     <tr>
