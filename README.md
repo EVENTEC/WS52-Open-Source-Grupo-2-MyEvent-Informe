@@ -679,7 +679,7 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 
 <table style="border: 1px solid gray;">
     <tr>
-        <td><img src="./imagenes/entrevista piero.png" alt="Descripción de la imagen"></td>
+        <td><img src="./imagenes/entrevista piero.PNG" alt="Descripción de la imagen"></td>
     </tr>
     <tr><td class="justificado">La entrevista proporcionó una visión detallada sobre las preferencias y experiencias de un asiduo asistente a eventos en vivo, desde conciertos hasta festivales. El entrevistado reveló una frecuencia notable en su asistencia a estos eventos, aproximadamente una vez al mes, con una inclinación hacia artistas o géneros musicales específicos. Su motivación para comprar entradas se basa en el interés artístico y la disponibilidad de compañía. Destacó la importancia de la reputación y la transparencia en los precios al elegir dónde comprar entradas, así como la conveniencia del proceso de compra.
 
