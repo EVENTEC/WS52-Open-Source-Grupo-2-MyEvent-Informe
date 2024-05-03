@@ -689,7 +689,7 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
     <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=n-AxQBOF04A&ab">https://www.youtube.com/watch?v=n-AxQBOF04A&ab</a></td></tr>
   </table>
 
-  <h4>Nombre: Renato Nazario</h4>
+  <h4>Nombre: Renato Nazario Begazo</h4>
 <h4>Entrevistador: Piero Jhoynner Muñoz Salcedo</h4>
 <details>
   <summary>Detalles:</summary>
@@ -704,10 +704,8 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
     <tr>
         <td><img src="./imagenes/entrevista piero.PNG" alt="Descripción de la imagen"></td>
     </tr>
-    <tr><td class="justificado">La entrevista proporcionó una visión detallada sobre las preferencias y experiencias de un asiduo asistente a eventos en vivo, desde conciertos hasta festivales. El entrevistado reveló una frecuencia notable en su asistencia a estos eventos, aproximadamente una vez al mes, con una inclinación hacia artistas o géneros musicales específicos. Su motivación para comprar entradas se basa en el interés artístico y la disponibilidad de compañía. Destacó la importancia de la reputación y la transparencia en los precios al elegir dónde comprar entradas, así como la conveniencia del proceso de compra.
-
-En la entrevista renato nos comenta que frecuenta muchos eventos al mes, ya sea eventos universitarios, conciertos o dicotecas. El afirma que le motiva y le llama atención las ofertas o descuentos para adquirir sus entradas. Indica que a la hora de comprar quisiera que la plataforma de venta de entradas entradas sea seguro e integro. Comenta que el unico inconveniente que tiene con las compra de entradas en plataformas es la saturación de esta. Ademas, Le parecería factible que se pueda visualizar la disponibilidad de las entradas en tiempo real en la plataforma. Considera importante obtener información detallada e intuitiva en las plataformas de venta de entradas. Es muy importante para el considerar la seguridad de pago a la hora de ingresar sus datos, ademas, le gustaria que hayan diversos metodos de pago. Respecto a las medidas de seguridad, considera muy seguro el pago efectivo o paypal, ya que este metodo de pago evitaria compartir sus datos finacieros por paginas que no les genera total seguridad.</td></tr>
-    <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=n-AxQBOF04A&ab">https://www.youtube.com/watch?v=n-AxQBOF04A&ab</a></td></tr>
+    <tr><td class="justificado">En la entrevista renato nos comenta que frecuenta muchos eventos al mes, ya sea eventos universitarios, conciertos o dicotecas. El afirma que le motiva y le llama atención las ofertas o descuentos para adquirir sus entradas. Indica que a la hora de comprar quisiera que la plataforma de venta de entradas entradas sea seguro e integro. Comenta que el unico inconveniente que tiene con las compra de entradas en plataformas es la saturación de esta. Ademas, Le parecería factible que se pueda visualizar la disponibilidad de las entradas en tiempo real en la plataforma. Considera importante obtener información detallada e intuitiva en las plataformas de venta de entradas. Es muy importante para el considerar la seguridad de pago a la hora de ingresar sus datos, ademas, le gustaria que hayan diversos metodos de pago. Respecto a las medidas de seguridad, considera muy seguro el pago efectivo o paypal, ya que este metodo de pago evitaria compartir sus datos finacieros por paginas que no les genera total seguridad.</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=6nz1Y9Z7brA">https://www.youtube.com/watch?v=6nz1Y9Z7brA</a></td></tr>
   </table>
 
 
