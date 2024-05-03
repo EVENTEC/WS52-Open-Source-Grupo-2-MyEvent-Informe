@@ -2006,7 +2006,7 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
 
 <h2>4.7 Software Object-Oriented Design</h2>
 <h3>4.7.1 Class Diagrams</h3>
-<img src="./imagenes/DiagramaClases.png"/>
+<img src="./imagenes/DiagramaClases2.png"/>
 <h3>4.7.2 Class Dictionary</h3>
 
 <td><strong>Usuario</strong></td>
@@ -2061,7 +2061,7 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
 
 <h2>4.8 Database Design</h2>
 <h3>4.8.1 Database Diagram</h3>
-<img src="./imagenes/DiagramaBaseDatos.png"/>
+<img src="./imagenes/DiagramaBaseDatos2.png"/>
     
 <h1>CAPÍTULO V: PRODUCT IMPLEMENTATION</h1>
 <h2>5.1 Software Configuration Management</h2>
