@@ -125,7 +125,7 @@ En el marco del desarrollo del landing page de MyEvent y la creación de wirefra
                   <p>
                     <strong>TB1</strong>
                     <p>Durante las fases de elaboración de los journey maps y análisis de entrevistas al segmento organizador de eventos, se mantuvo una comunicación fluida y efectiva con los diversos usuarios involucrados en estas actividades. Se realizaron entrevistas exhaustivas para comprender las necesidades y expectativas del segmento objetivo, y los resultados se presentaron de manera clara y concisa en los journey maps y en el análisis correspondiente. Además, durante la elaboración del prototipo de la aplicación web y la creación del capítulo 5 sobre la implementación del producto, se continuó esta comunicación eficaz, asegurando que los usuarios estuvieran involucrados en el proceso y que los resultados se presentaran de forma accesible y comprensible en el prototipo y en el documento final.</p>
-                    <strong>TB2</strong>
+                    <strong>TP</strong>
 <p>La capacidad para comunicar de manera escrita ideas y resultados de forma objetiva fue fundamental en el proceso de desarrollo del proyecto de elaboración de flujos para la aplicación web de eventos y venta de entradas en Angular. A través de la redacción de documentación técnica detallada, informes de progreso y correos electrónicos claros y concisos, se logró mantener a todos los miembros del equipo informados y alineados con los objetivos del proyecto.</p>
                 </li> 
             </ul>
@@ -169,7 +169,7 @@ Siguiendo las mejores prácticas de desarrollo de software, implementamos un enf
                 <p>
 En el contexto del desarrollo de un proyecto en ingeniería, se llevó a cabo una comunicación objetiva y clara de ideas y resultados a audiencias de diversas especialidades y niveles jerárquicos. Durante la elaboración de los journey maps y el análisis de las entrevistas al segmento organizador de eventos, se transmitieron los hallazgos de manera precisa y sin sesgos, adaptando el lenguaje técnico según la audiencia. Del mismo modo, al desarrollar el prototipo de la aplicación web y al redactar el capítulo 5 sobre la implementación del producto, se mantuvo una comunicación que permitió la comprensión tanto a expertos en ingeniería como a aquellos con menos experiencia en el área, asegurando la objetividad y la claridad en la presentación de los resultados y las ideas.</p>
             </p>
-            <strong>TB2</strong>
+            <strong>TP</strong>
                     <p>Durante el desarrollo del proyecto de elaboración de flujos para la aplicación web de eventos y venta de entradas en Angular, se evidenció una habilidad destacada para comunicar oralmente ideas y resultados de manera objetiva. Durante las reuniones de equipo y presentaciones ante diferentes especialidades y niveles jerárquicos, se demostró una capacidad sólida para transmitir información de manera clara y concisa. La comunicación fue efectiva tanto con colegas del equipo de desarrollo como con otros departamentos, lo que facilitó la comprensión y colaboración en el proyecto. </p>
     </li>
                 </ul>
