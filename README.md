@@ -493,10 +493,19 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 </ol>
 
 <h3>2.2.2 Registro de entrevistas</h3>
+
 <h3>Segmento Organizador de evento</h3>
 <h4>Nombre: Jordy Muñoz Salcedo</h4>
-<h4>Edad: 24 años</h4>
-<h4>Ubicación: Cercado de Lima</h4>
+<h4>Entrevistador: Piero Jhoynner Muñoz Salcedo</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 24 años</li>
+    <li>Ubicación: Cercado de Lima</li>
+  </ul>
+</details><br>
+
   <table style="border: 1px solid gray;">
     <tr>
         <td><img src="./imagenes/fotoentrevistajordy.JPG" alt="Descripción de la imagen"></td>
@@ -508,6 +517,15 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 
 
 <h4>Nombre: Joaquin Paredes Angeles</h4>
+<h4>Entrevistador: Alessandro Joaquin Bernardo Eusebio</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 21 años</li>
+    <li>Ubicación: Cercado de Lima</li>
+  </ul>
+</details><br>
 
   <table style="border: 1px solid gray;">
     <tr>
@@ -519,8 +537,16 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 
 <h3>Segmento Organizador de Eventos</h3>
 <h4>Nombre: Jesús Espinoza</h4>
-<h4>Edad: 19 años</h4>
-<h4>Ubicación: Pueblo Libre</h4>
+<h4>Entrevistador: Michael Stefano Carmelino Dueñas</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 19 años</li>
+    <li>Ubicación: Pueblo Libre</li>
+  </ul>
+</details><br>
+
 <table style="border: 1px solid gray;">
     <tr>
         <td><img src="./imagenes/entrevistaJesus.png" alt="Descripción de la imagen"></td>
@@ -536,8 +562,15 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 
 <h3>Segmento Cliente</h3>
 <h4>Nombre: Marco Eduardo Colca Chipana</h4>
-<h4>Edad: 23 años</h4>
-<h4>Ubicación: Lince</h4>
+<h4>Entrevistador: Luis Alejandro Zárate Gamarra</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 23 años</li>
+    <li>Ubicación: Lince</li>
+  </ul>
+</details><br>
 
 <table style="border: 1px solid gray;">
     <tr>
@@ -552,8 +585,16 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 
 <h3>Segmento Cliente</h3>
 <h4>Nombre: Flavio Vásquez Dorothy</h4>
-<h4>Edad: 19 años</h4>
-<h4>Ubicación: Cercado de Lima</h4>
+<h4>Entrevistador: Michael Stefano Carmelino Dueñas</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 19 años</li>
+    <li>Ubicación: Cercado de Lima</li>
+  </ul>
+</details><br>
+
 
 <table style="border: 1px solid gray;">
     <tr>
@@ -567,8 +608,16 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 
 <h3>Segmento Cliente</h3>
 <h4>Nombre: Lizbeth Estela Gamboa Cabrera</h4>
-<h4>Edad: 20 años</h4>
-<h4>Ubicación: Los Olivos</h4>
+<h4>Entrevistador: Luis Mario Gonzales Anaya</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Femenino</li>
+    <li>Edad: 20 años</li>
+    <li>Ubicación: Los Olivos</li>
+  </ul>
+</details><br>
+
 <table style="border: 1px solid gray;">
     <tr>
         <td><img src="./imagenes/Liz Gamboa.png" alt="Descripción de la imagen"></td>
@@ -578,8 +627,16 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
   </table>
 
 <h4>Nombre: Alvaro Calderon Cristobal</h4>
-<h4>Edad: 20 años</h4>
-<h4>Ubicación: Huancayo</h4>
+<h4>Entrevistador: Alessandro Joaquin Bernardo Eusebio</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 20 años</li>
+    <li>Ubicación: Huancayo</li>
+  </ul>
+</details><br>
+
 <table style="border: 1px solid gray;">
     <tr>
         <td><img src="./imagenes/EntrevistaCalde.png" alt="Descripción de la imagen"></td>
