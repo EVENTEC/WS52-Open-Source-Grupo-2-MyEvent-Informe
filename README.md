@@ -15,7 +15,7 @@
 
 ---
 
-## Informe de TB1
+## Informe de TP
 
 **Startup:** Eventec
 
