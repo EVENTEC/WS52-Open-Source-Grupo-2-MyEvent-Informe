@@ -17,6 +17,8 @@
 
 ## Informe de TP
 
+## Grupo 2
+
 **Startup:** Eventec
 
 **Producto:** MyEvent
