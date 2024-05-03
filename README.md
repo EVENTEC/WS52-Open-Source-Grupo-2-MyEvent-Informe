@@ -2418,7 +2418,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 
 <h3>5.2.2.8 Team Collaboration Insights during Sprint</h3>
 <p align="justify">
-  Durante el Sprint actual, nos dispusimos a abordar las distintas mejoras para Artisania. Empezamos con la creación de la plataforma principal en Vue. Para ello, dividimos las tareas para trabajar de manera eficiente y centrarnos en áreas específicas, con el fin de optimizar el tiempo y los recursos. Debido a esto, la participación de los miembros del equipo se ve reflejado en los commits realizados en el repositorio de trabajo:
+  Durante el Sprint actual, nos dispusimos a abordar las distintas mejoras para MyEvent. Empezamos con la creación de la plataforma principal en Angular. Para ello, dividimos las tareas para trabajar de manera eficiente y centrarnos en áreas específicas, con el fin de optimizar el tiempo y los recursos. Debido a esto, la participación de los miembros del equipo se ve reflejado en los commits realizados en el repositorio de trabajo:
 </p>
 
 <img src="./imagenes/Contributors1.png" width="600" height="350">
