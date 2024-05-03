@@ -136,7 +136,16 @@ En el marco del desarrollo del landing page de MyEvent y la creación de wirefra
 <p>La capacidad para comunicar de manera escrita ideas y resultados de forma objetiva fue fundamental en el proceso de desarrollo del proyecto de elaboración de flujos para la aplicación web de eventos y venta de entradas en Angular. A través de la redacción de documentación técnica detallada, informes de progreso y correos electrónicos claros y concisos, se logró mantener a todos los miembros del equipo informados y alineados con los objetivos del proyecto.</p>
                 </li> 
             </ul>
-                </li>    
+                </li>
+    <li><strong>Piero Jhoynner Muñoz Salcedo</strong></li>
+                <p>
+                    <strong>TB1</strong>
+                    <p>
+En el marco del desarrollo del landing page y la creación de mockups, redacté documentación detallada que comunicó de forma efectiva y concisa el diseño, la estructura y la funcionalidad del proyecto, facilitando la colaboración y la toma de decisiones informadas dentro del equipo de desarrollo.
+                  </p>
+                 <strong>TP</strong>
+                    <p>Durante la definición y desarrollo de las epics de las User Stories, se comunicó de manera efectiva y objetiva las metas, funcionalidades y requisitos de cada epic a todo el equipo. Esto aseguró una comprensión clara y alineada con los objetivos del proyecto en cada fase de desarrollo, facilitando la planificación, implementación y evaluación de las User Stories asociadas a cada epic.</p>
+                  </p>
             </ul>
         </td>
         <td>
