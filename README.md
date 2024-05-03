@@ -739,8 +739,6 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 
 <h3>2.2.3 Análisis de entrevistas</h3>
 
-Claro, aquí tienes el análisis utilizando etiquetas HTML `<p>` para los párrafos:
-
 <h3>Organizador de Eventos:</h3>
     <ul>
         <li>Se destacan los desafíos actuales del mercado de eventos, como la saturación y la incertidumbre en la asistencia.</li>
