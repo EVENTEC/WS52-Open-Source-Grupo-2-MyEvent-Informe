@@ -2389,6 +2389,41 @@ documentar.</p>
         <td>Commits on May 2, 2024</td>
     </tr>
 </table>
+<h3>5.2.2.4 Testing Suite Evidence for Sprint Review</h3>
+<p align="justify">
+  Dado que estamos en la fase de diseño del prototipo de la aplicación web, aún no es posible llevar a cabo pruebas exhaustivas. Sin embargo, estamos evaluando diversas herramientas y metodologías para garantizar que, una vez implementada, nuestra aplicación web sea robusta y libre de errores.
+</p>
+
+<h3>5.2.2.5 Software Deployment Evidence for Sprint Review</h3>
+<p>El proyecto se trabajo en un repositorio dentro de nuestra organización</p>
+<img src="./imagenes/repoFront.png" >
+<p>Enlace al repositorio del proyecto: https://github.com/WX53-Grupo-1-Aplicaciones-Web/WX53-Grupo-1-Aplicaciones-Web-FrontEnd</p>
+
+<p>El deployment de nuestro Front-end se ha desarrollado en Netlify</p>
+<img src="./imagenes/deployNetlify.png" >
+<img src="./imagenes/deployNetlify2.png" >
+<p>Enlace al proyecto desplegado: https://grupo-1-artisania-deployment.web.app </p>
+
+<h3>5.2.2.6 Services Documentation Evidence for Sprint Review</h3>
+Debido a que estamos en la etapa de desarrollo del frontend de la aplicación web. No se está aplicando el servicio de Apis para la demostración de los datos, en su lugar se esta haciendo uso de una fake API.
+
+<h3>5.2.2.7 Execution Evidence for Sprint Review</h3>
+<img src="./imagenes/1.png">
+<img src="./imagenes/2.png">
+<img src="./imagenes/3.png">
+<img src="./imagenes/4.png">
+<img src="./imagenes/5.png">
+<img src="./imagenes/6.png">
+
+
+<h3>5.2.2.8 Team Collaboration Insights during Sprint</h3>
+<p align="justify">
+  Durante el Sprint actual, nos dispusimos a abordar las distintas mejoras para Artisania. Empezamos con la creación de la plataforma principal en Vue. Para ello, dividimos las tareas para trabajar de manera eficiente y centrarnos en áreas específicas, con el fin de optimizar el tiempo y los recursos. Debido a esto, la participación de los miembros del equipo se ve reflejado en los commits realizados en el repositorio de trabajo:
+</p>
+
+<img src="./imagenes/Contributors1.png" width="600" height="350">
+<img src="./imagenes/Contributors2.png" width="600" height="350">
+<img src="./imagenes/Traffic.png" width="600" height="300">
 <h1>CONCLUSIONES</h1>
 <h1>ANEXOS</h1>
 <ul>
