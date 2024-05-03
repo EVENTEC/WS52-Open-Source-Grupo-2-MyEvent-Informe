@@ -2397,12 +2397,12 @@ documentar.</p>
 <h3>5.2.2.5 Software Deployment Evidence for Sprint Review</h3>
 <p>El proyecto se trabajo en un repositorio dentro de nuestra organización</p>
 <img src="./imagenes/repoFront.png" >
-<p>Enlace al repositorio del proyecto: https://github.com/WX53-Grupo-1-Aplicaciones-Web/WX53-Grupo-1-Aplicaciones-Web-FrontEnd</p>
+<p>Enlace al repositorio del proyecto: https://github.com/EVENTEC/WS52-Open-Source-Grupo-2-MyEvent-FrontEnd</p>
 
 <p>El deployment de nuestro Front-end se ha desarrollado en Netlify</p>
 <img src="./imagenes/deployNetlify.png" >
 <img src="./imagenes/deployNetlify2.png" >
-<p>Enlace al proyecto desplegado: https://github.com/EVENTEC/WS52-Open-Source-Grupo-2-MyEvent-FrontEnd </p>
+<p>Enlace al proyecto desplegado: https://master--myevent-frontend-grupo2.netlify.app/ </p>
 
 <h3>5.2.2.6 Services Documentation Evidence for Sprint Review</h3>
 Debido a que estamos en la etapa de desarrollo del frontend de la aplicación web. No se está aplicando el servicio de Apis para la demostración de los datos, en su lugar se esta haciendo uso de una fake API.
