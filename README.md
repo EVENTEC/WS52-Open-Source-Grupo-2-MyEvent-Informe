@@ -99,6 +99,10 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
                         desarrollé tambíen el product backlog y la pogramación del Landing Page, demostrando la coordianción y liderazgo que tengo tanto como para poder realizar reuniones
                         separación de partes y un trabajo igualitario para todos.
                     </p>
+                <strong>TP</strong>
+                    <p>Durante el proyecto, logré la corrección de ciertos apartados del informe, además de agregar la tabla de Historias Técnicas que se requería para este entregable. En el apartado de Angular, logré realizar
+                    la interfaz de inicio de sesión y de registro, con sus respectivas funcionalidades y almacenamiento de los datos en un json. Coordiné reuniones con mis compañeros para la repartición en el tema de correciones, dando a conocer mis habilidades de coordinación y comunicación con el equipo.
+                    </p>
                   </p>
                 <li><strong>Luis Mario Gonzales Anaya</strong></li>
                 <p>
@@ -148,6 +152,15 @@ Siguiendo las mejores prácticas de desarrollo de software, implementamos un enf
             <td><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</strong></td>
             <td>
                 <ul style="list-style-type: none;">
+                <li><strong>Michael Stefano Carmelino Dueñas</strong>
+                <p>
+                    <strong>TB1</strong>
+                    <p>
+En el contexto del proyecto, desempeñé un papel fundamental en la elaboración del To-Be Scenario Mapping, la creación de User Stories y la realización de entrevistas a cada segmento objetivo. Además, fui responsable del desarrollo del product backlog y la programación del Landing Page. Durante este proceso, demostré habilidades de coordinación y liderazgo al organizar reuniones, asignar tareas equitativamente y garantizar un trabajo colaborativo entre todos los miembros del equipo. La comunicación de estos avances se llevó a cabo de manera clara y objetiva, adaptando el lenguaje técnico según la audiencia y asegurando la comprensión tanto de expertos en la materia como de aquellos con menos experiencia en el área.</p>
+                    <strong>TP</strong>
+                    <p>En el transcurso del proyecto, desempeñé un rol crucial al corregir secciones específicas del informe y al incorporar la tabla de Historias Técnicas necesaria para este entregable. En el área de Angular, me encargué de desarrollar la interfaz de inicio de sesión y registro, junto con sus funcionalidades correspondientes, incluyendo el almacenamiento de datos en formato JSON. Asimismo, coordiné reuniones con mis compañeros para distribuir las tareas de corrección, destacando así mis habilidades de coordinación y comunicación efectiva dentro del equipo. Esta comunicación se realizó de manera clara y objetiva, adaptando el lenguaje técnico según la audiencia para garantizar la comprensión generalizada de los avances y logros alcanzados durante el proyecto.</p>
+</p>
+                </li>
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
                 <p>
                     <strong>TB1</strong>
