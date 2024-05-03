@@ -356,7 +356,7 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 <p><span>Hypothesis</span> 5: Si se simplifica el proceso de compra de boletos con información clara sobre precios y disponibilidad, así como una seguridad de transacción mejorada, entonces los usuarios experimentarán menos frustración y mayor confianza al realizar compras de boletos, lo que en última instancia llevará a tasas de conversión más altas.</p>
 <h4>1.2.2.4 Lean UX Canvas</h4>
    
-<img src="./imagenes/Lean%20UX%20Canvas.png"> 
+<img src="./imagenes/Lean%20UX%20Canvas.jpg"> 
 
 <h2>1.3 Segmentos objetivo</h2>
 <p>MyEvent está diseñado para atender a dos segmentos clave en la industria del entretenimiento en vivo. El primero se compone de entusiastas de la música y los eventos en vivo, que buscan una experiencia sin complicaciones al adquirir entradas para conciertos, festivales y espectáculos locales. Para este segmento se considerará la conveniencia, la variedad de eventos disponibles y la seguridad en las transacciones en línea. El segundo segmento lo conforman los organizadores de eventos y propietarios de locales. Este grupo buscan una plataforma confiable y eficiente para vender y gestionar las entradas de sus eventos. Priorizan herramientas que les permitan alcanzar a su audiencia objetivo de manera efectiva, gestionar fácilmente el proceso de venta de entradas y obtener información detallada sobre la asistencia y las preferencias de los asistentes. Al comprender las necesidades únicas de estos dos tipos de usuarios, MyEvent se posiciona como una solución integral que ofrece una experiencia fluida tanto para los compradores de entradas como para los organizadores de eventos.</p>
