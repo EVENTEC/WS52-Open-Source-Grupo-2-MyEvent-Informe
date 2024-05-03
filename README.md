@@ -1774,6 +1774,8 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
 <br>
 <h2>4.5 Web Applications Prototyping</h2>
 <p><strong>Enlace al prototipo de la aplicación web: </strong>https://www.figma.com/proto/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mockup%2Fwireframe?type=design&node-id=173-443&t=XHaNL054rBg1ANC0-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=173%3A443</p>
+<p><strong>Enlace al prototipo de la aplicación mobile: </strong>https://www.figma.com/proto/VsGGV9OHCnbJSWwbjAs4Kh/mobile-browser-segmento-1?type=design&node-id=1-503&t=ecQ7MFMPhzSouaT9-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A503</p>
+
 
 <h2>4.6 Domain-Driven Software Architecture</h2>
 <h3>4.6.1 Software Architecture Context Diagram</h3>
