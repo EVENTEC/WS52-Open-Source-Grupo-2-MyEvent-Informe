@@ -671,6 +671,9 @@ El entrevistado compartió experiencias pasadas, incluyendo problemas técnicos 
 
 
 <h3>2.2.3 Análisis de entrevistas</h3>
+
+Claro, aquí tienes el análisis utilizando etiquetas HTML `<p>` para los párrafos:
+
 <h3>Organizador de Eventos:</h3>
     <ul>
         <li>Se destacan los desafíos actuales del mercado de eventos, como la saturación y la incertidumbre en la asistencia.</li>
@@ -709,6 +712,24 @@ El entrevistado compartió experiencias pasadas, incluyendo problemas técnicos 
         <li>Personalización e integración con redes sociales para organizadores de eventos</li>
         <li>Recomendaciones personalizadas y opciones de pago seguras para clientes</li>
   </ul>
+
+<p>En el análisis de las preferencias y expectativas de los jóvenes respecto a su ocio nocturno, es importante considerar los hallazgos de investigaciones como las realizadas por el Injuve y el Centro Reina Sofía sobre Adolescencia y Juventud. Estos estudios indican que, a lo largo de la última década, la sensación de ruptura con el tiempo ordinario ha sido el significado más destacado para la noche del fin de semana, identificado por casi la mitad de los jóvenes encuestados. Sin embargo, se observa un aumento en el número de jóvenes que consideran que salir de noche es similar a hacerlo durante el día, lo que podría indicar una transformación en las percepciones sobre el ocio nocturno. Según datos proporcionados, en 2003, un 13,8% estaba de acuerdo con esta afirmación, pasando en 2015 a un 15% (<em>Fuente: Elaboración propia a partir de datos del Injuve y del Centro Reina Sofía sobre Adolescencia y Juventud</em>).</p>
+
+<p>Este cambio en las percepciones podría tener implicaciones significativas para la industria de eventos y venta de entradas, ya que afectaría las motivaciones de los jóvenes para asistir a eventos nocturnos. Además, los datos sugieren que la sensación de libertad ha ido ganando importancia en los últimos años, lo que podría reflejar una evolución en las expectativas y prioridades de los jóvenes en relación con su tiempo de ocio. Según los datos recabados, la sensación de libertad se situó como el segundo significado más relevante en 2015, con un 47% de los encuestados que la identificaron como importante (<em>Fuente: Elaboración propia a partir de datos del Centro Reina Sofía sobre Adolescencia y Juventud</em>).</p>
+
+<img src="./imagenes/analisis1.png">
+
+<p>En este contexto, es crucial considerar cómo estas tendencias pueden influir en la planificación y promoción de eventos, así como en el diseño de plataformas de venta de entradas. Por ejemplo, los organizadores de eventos podrían adaptar sus estrategias de marketing para destacar la sensación de libertad y la oportunidad de experimentar algo diferente durante la noche. Asimismo, las plataformas de venta de entradas podrían incorporar características que mejoren la personalización y la integración con redes sociales, lo que podría atraer a un público joven que valora la conexión digital y la expresión individual.</p>
+
+<img src="./imagenes/analisis2.png">
+
+<p>En resumen, comprender las expectativas cambiantes de los jóvenes respecto a su ocio nocturno es fundamental para adaptarse a las tendencias del mercado y satisfacer las necesidades de los clientes. Las investigaciones citadas proporcionan una base sólida para entender estas dinámicas y orientar las estrategias de negocio en la industria del entretenimiento y los eventos.</p>
+
+<img src="./imagenes/analisis3.png">
+<img src="./imagenes/analisis4.png">
+
+<p>Estos puntos resaltan la importancia de garantizar la seguridad, ofrecer opciones de personalización y conveniencia, e integrar características sociales y analíticas en una plataforma de venta de entradas. Además, destacan la relevancia de considerar las preferencias cambiantes de los jóvenes en relación con su ocio nocturno, como lo sugieren los datos proporcionados por el Injuve y el Centro Reina Sofía sobre Adolescencia y Juventud.</p>
+  
   <h3>Análsis estadístico</h3>
   <ul>
         <li>A continuacion mostramos los principales problemas que nuestros entrevistados consideran en un servicio de venta de entradas:</li>
