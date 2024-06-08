@@ -1425,77 +1425,77 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
       <td>US01</td>
       <td>Creación de Cuenta</td>
       <td>Como usuario nuevo, quiero poder crear una cuenta ingresando mis datos para acceder a MyEvent.</td>
-      <td>3</td>
+      <td></td>
     </tr>
     <tr>
       <td>2</td>
       <td>US02</td>
       <td>Opción de Rol al Registrarse y Confirmación</td>
       <td>Como usuario nuevo, quiero poder seleccionar mi rol (organizador o comprador) al registrarme en MyEvent.</td>
-      <td>5</td>
+      <td></td>
     </tr>
     <tr>
       <td>3</td>
       <td>US03</td>
       <td>Iniciar Sesión con Correo y Contraseña</td>
       <td>Como usuario registrado, quiero poder iniciar sesión utilizando mi correo electrónico y contraseña en MyEvent.</td>
-      <td>3</td>
+      <td></td>
     </tr>
     <tr>
       <td>4</td>
       <td>EP04</td>
       <td>Visualización de Opciones para Usuarios no Premium</td>
       <td>Como usuario estándar, quiero poder ver las ventajas y costos de la membresía premium en MyEvent.</td>
-      <td>8</td>
+      <td></td>
     </tr>
     <tr>
       <td>5</td>
       <td>US05</td>
       <td>Visualización de Perfil de Usuario</td>
       <td>Como usuario registrado, quiero poder ver mi perfil en MyEvent para gestionar mis datos personales.</td>
-      <td>5</td>
+      <td></td>
     </tr>
     <tr>
       <td>6</td>
       <td>US06</td>
       <td>Gestión de Sesión y Contraseña</td>
       <td>Como usuario registrado, quiero poder cerrar sesión y cambiar mi contraseña en MyEvent para mantener la seguridad de mi cuenta.</td>
-      <td>3</td>
+      <td></td>
     </tr>
     <tr>
       <td>7</td>
       <td>US07</td>
       <td>Detalles del evento</td>
       <td>Como usuario interesado en un evento, quiero poder ver todos los detalles relevantes del mismo, incluyendo la fecha, hora, lugar, artistas o participantes, descripción del evento y opciones de boletos disponibles, para tomar una decisión informada sobre mi asistencia.</td>
-      <td>2</td>
+      <td></td>
     </tr>
     <tr>
       <td>8</td>
       <td>US08</td>
       <td>Compra de boletos</td>
       <td>Como usuario que desea asistir a un evento, quiero poder seleccionar la cantidad y el tipo de boletos que deseo comprar, ingresar mis datos personales, seleccionar el método de pago y completar la transacción de compra de manera segura y sin problemas.</td>
-      <td>3</td>
+      <td></td>
     </tr>
     <tr>
       <td>9</td>
       <td>US09</td>
       <td>Compra exitosa</td>
       <td>Como usuario que ha realizado una compra de boletos, quiero recibir una confirmación clara y visualmente atractiva de que mi pago ha sido exitoso, incluyendo detalles como el número de orden, la cantidad de boletos comprados y cualquier información adicional relevante, para tener la tranquilidad de que mi compra ha sido procesada correctamente.</td>
-      <td>5</td>
+      <td></td>
     </tr>
     <tr>
       <td>10</td>
       <td>US10</td>
       <td>Rechazo de transacción</td>
       <td>Como usuario que ha intentado realizar una compra de boletos, quiero ser notificado de manera clara y comprensible en caso de que mi pago haya sido rechazado, incluyendo información sobre el motivo del rechazo y posibles acciones que pueda tomar para resolver el problema, para poder intentar nuevamente realizar la compra de manera exitosa o buscar alternativas de pago.</td>
-      <td>3</td>
+      <td></td>
     </tr>
   <tr>
       <td>11</td>
       <td>US11</td>
       <td>Validaciones de información</td>
       <td>Como usuario que está completando el proceso de compra de boletos, quiero que se realicen validaciones en tiempo real de los datos que ingreso, incluyendo la detección de errores en campos como el correo electrónico, número de tarjeta de crédito, fecha de vencimiento, etc., para poder corregir cualquier error de manera rápida y precisa antes de finalizar la transacción.</td>
-      <td>3</td>
+      <td></td>
     </tr>
     <tr>
       <td>12</td>
@@ -1509,119 +1509,119 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
       <td>US13</td>
       <td>Retirar Entrada de la Reventa</td>
       <td>Como un cliente que ha publicado una entrada para reventa quiero poder retirar la entrada del mercado de reventa en cualquier momento, para poder utilizarla si cambio de opinión.</td>
-      <td>3</td>
+      <td></td>
     </tr>
     <tr>
       <td>14</td>
       <td>US14</td>
       <td>Buscar Entradas Disponibles para Reventa</td>
       <td>Como un cliente que busca entradas para un evento, quiero poder buscar entradas disponibles para reventa en la plataforma, para tener la oportunidad de asistir al evento aunque las entradas oficiales estén agotadas.</td>
-      <td>5</td>
+      <td></td>
     </tr>
     <tr>
       <td>15</td>
       <td>US15</td>
       <td>Ver Información Detallada de la Entrada</td>
       <td>Como un cliente interesado en comprar una entrada revendida, quiero ver información detallada de la entrada (como la ubicación del asiento y el precio), para tomar una decisión informada antes de comprar.</td>
-      <td>3</td>
+      <td></td>
     </tr>
     <tr>
       <td>16</td>
       <td>US16</td>
       <td>Comprar una Entrada Revendida</td>
       <td>Como un cliente que ha encontrado una entrada adecuada quiero poder comprar la entrada revendida de forma segura a través de la plataforma, para asegurar mi lugar en el evento.</td>
-      <td>2</td>
+      <td></td>
     </tr>
     <tr>
       <td>17</td>
       <td>US17</td>
       <td>Recibir Confirmación y Entradas Digitales</td>
       <td>Como un cliente que ha comprado una entrada revendida, quiero recibir una confirmación inmediata y las entradas digitales para tener la tranquilidad de que mi compra fue exitosa y poder asistir al evento.</td>
-      <td>2</td>
+      <td></td>
     </tr>
     <tr>
       <td>18</td>
       <td>US18</td>
       <td>Crear evento</td>
       <td>Como organizador de eventos quiero poder crear un nuevo evento ingresando información básica como título, descripción, fecha y hora, para que los usuarios puedan conocer los detalles principales del evento.</td>
-      <td>1</td>
+      <td></td>
     </tr>
     <tr>
       <td>19</td>
       <td>US19</td>
       <td>Definir ubicación del evento</td>
       <td>Como organizador de eventos quiero poder establecer la ubicación del evento mediante una dirección física o un enlace a un evento virtual, para que los asistentes sepan dónde se llevará a cabo.</td>
-      <td>3</td>
+      <td></td>
     </tr>
     <tr>
       <td>20</td>
       <td>US20</td>
       <td>Gestionar entradas</td>
       <td>Como organizador de eventos quiero poder definir diferentes tipos de entradas con precios, cantidades y descripciones, para ofrecer opciones de compra adaptadas a las necesidades de los asistentes.</td>
-      <td>2</td>
+      <td></td>
     </tr>
     <tr>
       <td>21</td>
       <td>US21</td>
       <td>Añadir imágenes y multimedia</td>
       <td>Como organizador de eventos quiero poder subir imágenes y videos promocionales para el evento, para atraer más asistentes y proporcionar una visión clara de lo que pueden esperar.  </td>
-      <td>3</td>
+      <td></td>
     </tr>
     <tr>
       <td>22</td>
       <td>US22</td>
       <td>Configurar opciones de privacidad</td>
       <td>Como organizador de eventos quiero poder establecer si el evento es público o privado y definir las restricciones de acceso, para controlar quién puede ver y unirse al evento.</td>
-      <td>5</td>
+      <td></td>
     </tr>
     <tr>
       <td>23</td>
       <td>US23</td>
       <td>Enviar invitaciones</td>
       <td>Como organizador de eventos quiero poder enviar invitaciones a contactos específicos por correo electrónico o mediante un enlace directo, para asegurarme de que las personas clave estén informadas y puedan asistir.</td>
-      <td>3</td>
+      <td></td>
     </tr>
     <tr>
       <td>24</td>
       <td>US24</td>
       <td>Publicar y compartir el evento</td>
       <td>Como organizador de eventos quiero poder publicar el evento y compartirlo en redes sociales, para aumentar la visibilidad del evento y atraer a más asistentes.</td>
-      <td>3</td>
+      <td></td>
     </tr>
     <tr>
       <td>25</td>
       <td>US25</td>
       <td>Detalle de subscripción</td>
       <td>Como comprador de boletos de la plataforma quisiera poder vizualizar los detalles de la compra de subscripcion premium para aprovechar los beneficios que ofrece este y saber si me beneficia su adquisicion</td>
-      <td>3</td>
+      <td></td>
     </tr>
     <tr>
       <td>26</td>
       <td>US26</td>
       <td>Compra de subscripción</td>
       <td>Como comprador de boletos quisiera comprar la subscripcion premium, ingresando mis datos de manera segura, para acceder a beneficios unicos de la plataforma</td>
-      <td>3</td>
+      <td></td>
     </tr>
     <tr>
       <td>27</td>
       <td>US27</td>
       <td>Notificación de renovación</td>
       <td>Como comprador de boletos quisiera recibir notificaciones de renovacion de membresia 7 dias antes de que caduque, para estar al tanto de ella y poder renovarla a tiempo.</td>
-      <td>2</td>
+      <td></td>
     </tr>
       <tr>
       <td>28</td>
       <td>US28</td>
       <td>Renovar subscripción</td>
       <td>Como comprador de boletos quisiera renovar la subcripcion premium mediante la ventana de mi perfil o ventana de notificaciones para seguir disfrutando de los beneficios de la plataforma</td>
-      <td>2</td>
+      <td></td>
     </tr>
       <tr>
       <td>29</td>
       <td>US29</td>
       <td>Cancelar subscripción</td>
       <td>Como comprador de boletos quisiera cancelar la subscripcion premium mediante la ventana de mi perfil y dejar de tener beneficios unicos en la plataforma</td>
-      <td>2</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
