@@ -2633,11 +2633,11 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
       <th>Corregir frontend e implementar las nuevas user storys, creación y realización del 50% del backend</th>
     </tr>
     <tr>
-      <th>Sprint 2 Goal</th>
+      <th>Sprint 3 Goal</th>
       <th>Se creó el repositorio del Backend de nuestra aplicación y se llegó a desplegar el proyecto </th>
     </tr>
     <tr>
-      <th>Sprint 2 Velocity</th>
+      <th>Sprint 3 Velocity</th>
       <th>3 semanas </th>
     </tr>
     <tr>
