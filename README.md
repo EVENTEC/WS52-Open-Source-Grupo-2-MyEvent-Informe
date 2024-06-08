@@ -2654,6 +2654,78 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 <img src="./imagenes/Contributors1.png" width="600" height="350">
 <img src="./imagenes/Contributors2.png" width="600" height="350">
 <img src="./imagenes/Traffic.png" width="600" height="300">
+
+<h3>5.2.3 Sprint 3</h3>
+
+<table>
+    <tr>
+      <th>Sprint # </th>
+      <th>Sprint 2 </th>
+    </tr>
+    <tr>
+      <td><strong>Sprint Planning Background</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Date</th>
+      <th>2024/05/20</th>
+    </tr>
+    <tr>
+      <th>Time</th>
+      <th>18:00 PM</th>
+    </tr>
+    <tr>
+      <th>Location</th>
+      <th>Discord</th>
+    </tr>
+    <tr>
+      <th>Prepared by</th>
+      <th>Luis Alejandro, Zárate Gamarra</th>
+    </tr>
+    <tr>
+      <th>Attendess (to planning meeting)</th>
+      <th>Alessandro Joaquin Bernardo Eusebio - u202113640
+        Luis Alejandro, Zárate Gamarra	 - U20181H198
+        Carmelino Dueñas, Michael Stefano	 - U202212760 
+        Gonzales Anaya, Luis Mario	 - u20201C585
+        Piero Jhoynner, Muñoz Salcedo	 - u202224446
+   </th>
+    </tr>
+    <tr>
+      <th>Sprint 2 Review Summary</th>
+      <th>Correcciones y término del desarrollo de las tareas que corresponden al Sprint 2 </th>
+    </tr>
+    <tr>
+      <th>Sprint 2 Retrospective Summary</th>
+      <th>Cambios de user storys, épicas. Escasa cantidad de user storys realizadas.</th>
+    </tr>
+    <tr>
+      <th>Sprint Goal & User Stories</th>
+      <th>Corregir frontend e implementar las nuevas user storys, creación y realización del 50% del backend</th>
+    </tr>
+    <tr>
+      <th>Sprint 2 Goal</th>
+      <th>Se creó el repositorio del Backend de nuestra aplicación y se llegó a desplegar el proyecto </th>
+    </tr>
+    <tr>
+      <th>Sprint 2 Velocity</th>
+      <th>3 semanas </th>
+    </tr>
+    <tr>
+      <th>Sum of Story Point</th>
+      <th>5</th>
+    </tr>
+  </table>
+
+
+<h3>5.2.3.1 Sprint Planning 3</h3>
+<h3>5.2.3.2 Sprint Backlog 3</h3>
+<h3>5.2.3.3 Development Evidence for Sprint Review</h3>
+<h3>5.2.3.4 Testin Suite Evidence for Sprint Review</h3>
+<h3>5.2.3.5 Execytuib Evidence for Sprint Review</h3>
+<h3>5.2.3.6 Services Documentation Evidence for Sprint Review</h3>
+<h3>5.2.3.7 Software Deployment Evidence for Sprint Review</h3>
+<h3>5.2.3.8 Team Collaboration Insights during Sprint</h3>
 <h1>CONCLUSIONES</h1>
 <p>Durante el desarrollo del front end para la aplicación de venta de entradas de eventos "MyEvent", se demostró un compromiso sólido con la implementación eficiente y efectiva de soluciones utilizando tecnología Angular. La elección de utilizar fake APIs a través de db.json para simular el comportamiento de las APIs reales fue una estrategia inteligente que permitió un desarrollo ágil y centrado en los requisitos del cliente. Esta decisión también facilitó la colaboración entre los desarrolladores al proporcionar un entorno controlado y predecible para probar y validar el front end.
 
