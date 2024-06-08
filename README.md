@@ -1171,7 +1171,18 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
     <td>Recibir Confirmación y Entradas Digitales</td>
     <td>Como un cliente que ha comprado una entrada revendida, quiero recibir una confirmación inmediata y las entradas digitales para tener la tranquilidad de que mi compra fue exitosa y poder asistir al evento.</td>
     <td>-Dado que el cliente ha completado exitosamente la compra de una entrada revendida, cuando el pago es procesado correctamente, entonces la plataforma enviará una confirmación inmediata al correo electrónico del cliente junto con las entradas digitales adjuntas.<br>-Dado que el cliente ha completado la compra de una entrada revendida, cuando el pago es procesado pero ocurre un error en el envío de la confirmación o las entradas digitales, entonces la plataforma mostrará un mensaje de error y enviará una notificación al equipo de soporte para resolver el problema, y el cliente será informado del retraso en la entrega de sus entradas digitales.
-        Dado que soy un usuario premium que no realizo compras aún, cuando ingrese al apartado de recomendaciones, entonces vere un mensaje que no hay recomendaciones y se me sugerira explorar el catálogo<br>
+<br>
+  </td>
+    <td>EP03</td>
+  </tr>
+
+
+    <tr>
+    <td>US17</td>
+    <td>Recibir Confirmación y Entradas Digitales</td>
+    <td>Como un cliente que ha comprado una entrada revendida, quiero recibir una confirmación inmediata y las entradas digitales para tener la tranquilidad de que mi compra fue exitosa y poder asistir al evento.</td>
+    <td>-Dado que el cliente ha completado exitosamente la compra de una entrada revendida, cuando el pago es procesado correctamente, entonces la plataforma enviará una confirmación inmediata al correo electrónico del cliente junto con las entradas digitales adjuntas.<br>-Dado que el cliente ha completado la compra de una entrada revendida, cuando el pago es procesado pero ocurre un error en el envío de la confirmación o las entradas digitales, entonces la plataforma mostrará un mensaje de error y enviará una notificación al equipo de soporte para resolver el problema, y el cliente será informado del retraso en la entrega de sus entradas digitales.
+<br>
   </td>
     <td>EP03</td>
   </tr>
