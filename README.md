@@ -1228,7 +1228,41 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
     <td>-Dado que el organizador de eventos ha iniciado sesión en la plataforma y ha completado todos los detalles del evento, cuando el organizador selecciona la opción de publicar el evento, la plataforma lo muestra públicamente en la lista de eventos disponibles para los usuarios, y ofrece la opción de compartir el evento en redes sociales.<br>-Dado que el organizador de eventos ha iniciado sesión en la plataforma y ha completado todos los detalles del evento, cuando el organizador intenta publicar el evento pero ocurre un error técnico o falta algún detalle esencial, entonces la plataforma mostrará un mensaje de error indicando que el evento no se pudo publicar, y se proporcionarán instrucciones para corregir el problema y volver a intentarlo.
     <td>EP04</td>
   </tr>
-  
+  <tr>
+    <td>US25</td>
+    <td>Detalle de subscripción</td>
+    <td></td>
+    <td></td>
+    <td>EP05</td>
+  </tr>
+   <tr>
+    <td>US26</td>
+    <td>Compra de subscripción</td>
+    <td></td>
+    <td></td>
+    <td>EP05</td>
+  </tr>
+   <tr>
+    <td>US27</td>
+    <td>Notificación de renovación</td>
+    <td></td>
+    <td></td>
+    <td>EP05</td>
+  </tr>
+   <tr>
+    <td>US28</td>
+    <td>Renovar subscripción</td>
+    <td></td>
+    <td></td>
+    <td>EP05</td>
+  </tr>
+   <tr>
+    <td>US29</td>
+    <td>Cancelar subscripción</td>
+    <td></td>
+    <td></td>
+    <td>EP05</td>
+  </tr>
   </tr>
     </tbody>
   </table>
