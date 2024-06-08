@@ -997,7 +997,7 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
       <tr>
      <td>EP02</td>
       <td>
-</td> Como comprador de entradas, quiero una plataforma optimizada que me permita acceder a información detallada de los eventos y comprar mis entradas de manera intuitiva, para mejorar mi experiencia de compra y asegurarme de tener toda la información necesaria.
+ Como comprador de entradas, quiero una plataforma optimizada que me permita acceder a información detallada de los eventos y comprar mis entradas de manera intuitiva, para mejorar mi experiencia de compra y asegurarme de tener toda la información necesaria.</td>
         </tr>
       <tr>
      <td>EP03</td>
