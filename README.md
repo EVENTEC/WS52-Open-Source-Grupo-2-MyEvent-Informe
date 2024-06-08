@@ -996,23 +996,20 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
         </tr>
       <tr>
      <td>EP02</td>
-      <td>Como organizador de eventos, quiero poder crear eventos, así como gestionar el proceso de ventas y finanzas de manera eficiente a través de la plataforma.
-</td> 
+      <td>
+</td> Como comprador de entradas, quiero una plataforma optimizada que me permita acceder a información detallada de los eventos y comprar mis entradas de manera intuitiva, para mejorar mi experiencia de compra y asegurarme de tener toda la información necesaria.
         </tr>
       <tr>
      <td>EP03</td>
-      <td>Como comprador de entradas, quiero una plataforma optimizada para acceder a información detallada de los eventos, al proceso de compra, en caso suceda, al reembolso o transferencia de mis entradas y a una comunicación intuitiva.</td> 
+      <td>Como comprador de entradas, quiero visualizar, publicar y adquirir entradas de reventa de manera eficiente y segura a través de la plataforma, para maximizar la flexibilidad y el valor de mis compras de entradas.</td> 
         </tr>
       <tr>
      <td>EP04</td>
-      <td>Como comprador de entradas frecuente, quiero acceso a beneficios, descuentos y recompensas por mi lealtad en la plataforma al adquirir entradas.</td> 
+      <td>Como organizador de eventos, quiero tener la capacidad de crear, gestionar y personalizar eventos a través de la plataforma para ofrecer una experiencia única y bien estructurada a los asistentes.
+</td> 
         </tr>
       <tr>
      <td>EP05</td>
-      <td>Como usuario de la plataforma, quiero poder crear un perfil de revendedor que respalde mi integridad para acceder a beneficios unicos.</td> 
-        </tr>
-       <tr>
-     <td>EP06</td>
       <td>Como comprador de entradas, quiero tener acceso a una subscripción premium para acceder a beneficios únicos y personalizables, y contenido exclusivo de la plataforma.</td> 
         </tr>
 </tbody>
