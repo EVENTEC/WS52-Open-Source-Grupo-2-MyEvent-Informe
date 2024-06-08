@@ -1231,36 +1231,51 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
   <tr>
     <td>US25</td>
     <td>Detalle de subscripción</td>
-    <td></td>
-    <td></td>
+    <td>Como comprador de boletos de la plataforma quisiera poder vizualizar los detalles de la compra de subscripcion premium para aprovechar los beneficios que ofrece este y saber si me beneficia su adquisiscion </td>
+    <td>-Dado que el comprador de boletos ha iniciado sesion en la plataforma, cuando ingresa a la ventana de inicio, emerge directamente una ventana de "Adquiere Premium", entonces el comprador de boletos puede vizualizar todos los beneficios que ofrece esta membresia
+    <br>-Dado que el comprador de boletos ha iniciado sesion en la plataforma, cuando ingresa a la ventana de inicio, no emerge ninguna ventana de "Adquiere Premium", entonces el comprador de boletos no puede vizualizar todos los beneficios que ofrece esta membresia</td>
     <td>EP05</td>
   </tr>
    <tr>
     <td>US26</td>
     <td>Compra de subscripción</td>
-    <td></td>
-    <td></td>
+    <td>Como comprador de boletos quisiera comprar la subscripcion premium, ingresando mis datos de manera segura, para acceder a beneficios unicos de la plataforma</td>
+    <td>-Dado que el usuario ha iniciado sesión en su cuenta y ha seleccionado la opción de compra de suscripción premium, cuando proporciona sus datos de pago de manera segura a través de un método de pago confiable, entonces el sistema procesa la transacción con éxito y otorga al usuario acceso inmediato a los beneficios premium de la plataforma.<br>
+        
+-Dado que el usuario ha iniciado sesión en su cuenta y ha seleccionado la opción de compra de suscripción premium, si el sistema presenta problemas de seguridad durante la entrada de los datos de pago, como una página web no segura o una falta de certificados de seguridad, o si la transacción no se completa con éxito debido a errores de procesamiento, entonces el usuario no puede comprar la suscripción premium y no obtiene acceso a los beneficios únicos de la plataforma.<br>
+        
+-Dado que el usuario ha iniciado sesión en su cuenta y se encuentra en el inicio, cuando emerge la pantalla de "Adquiere Premium", entonces puede accerder al boton de comprar y  proporcionar sus datos de pago de manera a travez de un metodo de pago confiable, y obtener beneficios premium de la plataforma.
+
+
+
+</td>
     <td>EP05</td>
   </tr>
    <tr>
     <td>US27</td>
     <td>Notificación de renovación</td>
-    <td></td>
-    <td></td>
+    <td>Como comprador de boletos quisiera recibir notificaciones de renovacion de membresia 7 dias antes de que caduque, para estar al tanto de ella y poder renovarla a tiempo.</td>
+    <td>-Dado que el usuario tiene una membresía activa que está por caducar en los próximos 7 días, cuando se acerca la fecha de vencimiento, el sistema envía automáticamente una notificación por mensaje dentro de la aplicación, informando al usuario sobre la próxima fecha de caducidad y proporcionando una opcion para renovar la membresía antes de que expire.<br>-Dado que el usuario tiene una membresía activa que está por caducar en los próximos 7 días, si el sistema no envía ninguna notificación al usuario sobre la fecha de vencimiento inminente o si la notificación se envía tarde, después de que la membresía haya caducado, entonces el usuario no está informado oportunamente y puede perder la oportunidad de renovar la membresía antes de que expire.</td>
     <td>EP05</td>
   </tr>
    <tr>
     <td>US28</td>
     <td>Renovar subscripción</td>
-    <td></td>
-    <td></td>
+    <td>Como comprador de boletos quisiera renovar la subcripcion premium mediante la ventana de mi perfil o ventana de notificaciones para seguir disfrutando de los beneficios de la plataforma</td>
+    <td>-Dado que el usuario tiene una suscripción premium que está a punto de caducar o ya ha caducado, cuando accede a su perfil o recibe una notificación de renovación, el sistema le proporciona una opción clara y fácil de renovar la suscripción premium. Al confirmar la renovación, el sistema procesa la transacción con éxito y otorga al usuario acceso continuo a los beneficios de la plataforma premium.
+        
+<br>-Dado que el usuario tiene una suscripción premium que está a punto de caducar o ya ha caducado, si el sistema no ofrece una opción visible para renovar la suscripción en el perfil del usuario o si no envía una notificación clara sobre la necesidad de renovación, entonces el usuario puede perder la oportunidad de renovar a tiempo y se queda sin acceso a los beneficios de la plataforma premium.
+
+</td>
     <td>EP05</td>
   </tr>
    <tr>
     <td>US29</td>
     <td>Cancelar subscripción</td>
-    <td></td>
-    <td></td>
+    <td>Como comprador de boletos quisiera cancelar la subscripcion premium mediante la ventana de mi perfil y dejar de tener beneficios unicos en la pltaforma</td>
+    <td>-Dado que el usuario ha iniciado sesión en su cuenta, cuando accede a la ventana de su perfil, entonces se le presenta una opción clara y visible para cancelar la suscripción. Al confirmar la cancelación, el sistema detiene los pagos de la suscripción y retira al usuario de los beneficios premium de la plataforma.</td>
+       
+<br>-Dado que el usuario ha iniciado sesión en su cuenta, si el sistema no ofrece una opción para cancelar la suscripción premium en la ventana de perfil del usuario, entonces el usuario no puede cancelar la suscripción de manera efectiva.
     <td>EP05</td>
   </tr>
   </tr>
