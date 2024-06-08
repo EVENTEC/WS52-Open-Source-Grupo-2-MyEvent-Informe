@@ -2724,8 +2724,6 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 <h3>5.2.3.3 Development Evidence for Sprint Review</h3>
 <h3>5.2.3.4 Testin Suite Evidence for Sprint Review</h3>
 <h3>5.2.3.5 Execution Evidence for Sprint Review</h3>
-<h3>5.2.3.6 Services Documentation Evidence for Sprint Review</h3>
-<h3>5.2.3.7 Software Deployment Evidence for Sprint Review</h3>
 <img src="./imagenes/sprint3/1.png">
 <img src="./imagenes/sprint3/2.png">
 <img src="./imagenes/sprint3/3.png">
@@ -2735,6 +2733,9 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 <img src="./imagenes/sprint3/7.png">
 <img src="./imagenes/sprint3/8.png">
 <img src="./imagenes/sprint3/9.png">
+<h3>5.2.3.6 Services Documentation Evidence for Sprint Review</h3>
+<h3>5.2.3.7 Software Deployment Evidence for Sprint Review</h3>
+
 <h3>5.2.3.8 Team Collaboration Insights during Sprint</h3>
 <h2>5.3 Validation Interviews</h2>
     <h3>5.3.1. Diseño de Entrevistas.</h3>
