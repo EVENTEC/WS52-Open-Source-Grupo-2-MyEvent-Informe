@@ -2574,6 +2574,13 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 <img src="./imagenes/sprint3/7.png">
 <img src="./imagenes/sprint3/8.png">
 <img src="./imagenes/sprint3/9.png">
+<img src="./imagenes/sprint3/10.png">
+<img src="./imagenes/sprint3/11.png">
+<img src="./imagenes/sprint3/12.png">
+<img src="./imagenes/sprint3/13.png">
+<img src="./imagenes/sprint3/14.png">
+<img src="./imagenes/sprint3/15.png">
+<img src="./imagenes/sprint3/16.png">
 <h3>5.2.3.6 Services Documentation Evidence for Sprint Review</h3>
 <h3>5.2.3.7 Software Deployment Evidence for Sprint Review</h3>
 
