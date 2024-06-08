@@ -1130,54 +1130,53 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 
   <tr>
     <td>US12</td>
-    <td>Notificacion de renovación</td>
-    <td>Como cliente premuim deseo poder recibir una notificacion cuando mi suscripcion esté a punto de expirar</td>
-    <td>-Dado que soy un cliente premium en MyEvent, cuando mi suscripción esté a punto de expirar, entonces debo recibir una notificación clara y oportuna que me informe sobre la proximidad de la fecha de vencimiento de mi suscripción. Esta notificación debe proporcionarme detalles específicos sobre la fecha exacta de expiración de mi suscripción y cualquier acción que deba tomar para renovarla o extenderla.<br>
+    <td>Publicar una Entrada para Reventa</td>
+    <td>Como un cliente que ya no puede asistir a un evento quiero poder publicar mis entradas en modo reventa en la plataforma, para que pueda recuperar parte o todo el dinero que gasté en la entrada.<br>
    </td>
-    <td>EP05</td>
+    <td>EP03</td>
   </tr>
   <tr>
     <td>US13</td>
-    <td>Acceso renovación de membresia premium</td>
-    <td>Como cliente premuim quiero tener a disposición un boton de renovar suscripción en las opciones de mi perfil</td>
+    <td>Retirar Entrada de la Reventa</td>
+    <td>Como un cliente que ha publicado una entrada para reventa quiero poder retirar la entrada del mercado de reventa en cualquier momento, para poder utilizarla si cambio de opinión.</td>
     <td>-Dado que el cliente ha iniciado sesión en su cuenta y tiene una suscripción activa, cuando accede a las opciones de su perfil, entonces debe visualizar claramente un botón identificado como "Renovar Suscripción".<br>
    </td>
-    <td>EP05</td>
+    <td>EP03</td>
   </tr>
   <tr>
     <td>US14</td>
-    <td>Descuento en compra de entradas</td>
-    <td>Como usuario premium, quiero recibir un descuento del 5% en la compra de entradas de algun evento, para disfrutar de ahorros exclusivos y hacer mi experiencia gratificante</td>
+    <td>Buscar Entradas Disponibles para Reventa</td>
+    <td>Como un cliente que busca entradas para un evento, quiero poder buscar entradas disponibles para reventa en la plataforma, para tener la oportunidad de asistir al evento aunque las entradas oficiales estén agotadas.</td>
     <td>-Dado que el usuario es premium, cuando selecciono las entradas para el evento que deseo y me encuentro en el proceso de compra, entonces podré observar el descuento aplicado al recibo generado<br>
     <td>-Dado que el usuario es premium, cuando selecciono las entradas para el evento que deseo y me encuentro en el proceso de compra, entonces se me notificará si el descuento no podra ser aplicado por problemas del servidor o excepciones<br>
     </td>
-    <td>EP05</td>
+    <td>EP03</td>
   </tr>
   <tr>
     <td>US15</td>
-    <td>Notificaciones de cambios instantaneos</td>
-    <td>Como usuario premuim deseo recibir notificaciones instantaneas, sobre los cambios en los horarios de los eventos, cancelaciones, cambios de ultimo minuto, para evitar inconvenientes</td>
+    <td>Ver Información Detallada de la Entrada</td>
+    <td>Como un cliente interesado en comprar una entrada revendida, quiero ver información detallada de la entrada (como la ubicación del asiento y el precio), para tomar una decisión informada antes de comprar.</td>
     <td>- Dado que el cliente es premuim, cuando exista algun cambio con respecto al evento al que va asistir, se le notificara inmediatamente sobre este cambio<br></td>
-    <td>EP05</td>
+    <td>EP03</td>
   </tr>
   <tr>
     <td>US16</td>
-    <td>Atención prioritaria en el servicio al cliente</td>
-    <td>Como usuario premium, quiero recibir atencion prioritaria en el servicio al cliente, con tiempos de asistencia rápidos y personalizados</td>
+    <td>Comprar una Entrada Revendida</td>
+    <td>Como un cliente que ha encontrado una entrada adecuada quiero poder comprar la entrada revendida de forma segura a través de la plataforma, para asegurar mi lugar en el evento.</td>
     <td>-Dado que el usuario es premium y tiene una consulta, cuando envie una solicitud  de atencion al cliente su solicitud sera respondida en menos de 24 horas y recibire asistencia personalizada.<br>
         <td>-Dado que el usuario es premium y tiene una consulta y se tenga problemas para atender su solicitud, cuando envie una solicitud  de atencion al cliente se le notificara que se esta teniendo problemas para recepcionar su solicitud.<br>
 
     </td>
-    <td>EP05</td>
+    <td>EP03</td>
   </tr>
   <tr>
     <td>US17</td>
-    <td>Recomendacion personalizada sobre eventos</td>
-    <td>Como usuario premium quiero recibir recomendaciones personalizadas basado en mi historial de compras y preferencias de entretenimiento.</td>
+    <td>Recibir Confirmación y Entradas Digitales</td>
+    <td>Como un cliente que ha comprado una entrada revendida, quiero recibir una confirmación inmediata y las entradas digitales para tener la tranquilidad de que mi compra fue exitosa y poder asistir al evento.</td>
     <td>-Dado que soy un usuario premium con un historial de compras, cuando accedo a mi cuenta veré una seccion de recomendaciones personalizadas en mi panel y podre seleccionarlos para observarlas.<br>
         Dado que soy un usuario premium que no realizo compras aún, cuando ingrese al apartado de recomendaciones, entonces vere un mensaje que no hay recomendaciones y se me sugerira explorar el catálogo<br>
   </td>
-    <td>EP05</td>
+    <td>EP03</td>
   </tr>
   </tr>
     </tbody>
