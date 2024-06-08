@@ -1133,6 +1133,7 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
     <td>Publicar una Entrada para Reventa</td>
     <td>Como un cliente que ya no puede asistir a un evento quiero poder publicar mis entradas en modo reventa en la plataforma, para que pueda recuperar parte o todo el dinero que gasté en la entrada.<br>
    </td>
+      <td> **</td>
     <td>EP03</td>
   </tr>
   <tr>
@@ -1148,8 +1149,6 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
     <td>Buscar Entradas Disponibles para Reventa</td>
     <td>Como un cliente que busca entradas para un evento, quiero poder buscar entradas disponibles para reventa en la plataforma, para tener la oportunidad de asistir al evento aunque las entradas oficiales estén agotadas.</td>
     <td>-Dado que el usuario es premium, cuando selecciono las entradas para el evento que deseo y me encuentro en el proceso de compra, entonces podré observar el descuento aplicado al recibo generado<br>
-    <td>-Dado que el usuario es premium, cuando selecciono las entradas para el evento que deseo y me encuentro en el proceso de compra, entonces se me notificará si el descuento no podra ser aplicado por problemas del servidor o excepciones<br>
-    </td>
     <td>EP03</td>
   </tr>
   <tr>
@@ -1164,9 +1163,6 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
     <td>Comprar una Entrada Revendida</td>
     <td>Como un cliente que ha encontrado una entrada adecuada quiero poder comprar la entrada revendida de forma segura a través de la plataforma, para asegurar mi lugar en el evento.</td>
     <td>-Dado que el usuario es premium y tiene una consulta, cuando envie una solicitud  de atencion al cliente su solicitud sera respondida en menos de 24 horas y recibire asistencia personalizada.<br>
-        <td>-Dado que el usuario es premium y tiene una consulta y se tenga problemas para atender su solicitud, cuando envie una solicitud  de atencion al cliente se le notificara que se esta teniendo problemas para recepcionar su solicitud.<br>
-
-    </td>
     <td>EP03</td>
   </tr>
   <tr>
