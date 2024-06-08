@@ -1057,7 +1057,7 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
         <td>EP01</td>
       </tr>
       <tr>
-        <td>US-04</td>
+        <td>US04</td>
         <td>Visualización de Opciones para Usuarios no Premium</td>
         <td>Como usuario estándar, quiero poder ver las ventajas y costos de la membresía premium en MyEvent.</td>
         <td>- Dado que soy un usuario estándar en MyEvent, cuando accedo a la sección de membresía premium, entonces debo poder ver claramente las ventajas adicionales que ofrece la membresía premium, así como los costos asociados con ella.<br>
@@ -1175,13 +1175,60 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
   </td>
     <td>EP03</td>
   </tr>
+  
  <tr>
-    <td>US16</td>
-    <td>Comprar una Entrada Revendida</td>
-    <td>Como un cliente que ha encontrado una entrada adecuada quiero poder comprar la entrada revendida de forma segura a través de la plataforma, para asegurar mi lugar en el evento.</td>
-    <td>-Dado que el cliente ha iniciado sesión en la plataforma y ha seleccionado una entrada revendida para comprar, cuando el cliente procede al pago y completa correctamente toda la información requerida, entonces la plataforma procesará el pago de forma segura y confirmará la compra, y el cliente recibirá una notificación de confirmación junto con los detalles de la entrada adquirida.<br>-Dado que el cliente ha iniciado sesión en la plataforma y ha seleccionado una entrada revendida para comprar, cuando el cliente procede al pago pero ocurre un error en el procesamiento del pago, entonces la plataforma mostrará un mensaje de error indicando que no se pudo completar la compra, y el cliente no será cargado hasta que se resuelva el problema y el pago sea procesado correctamente.
-    <td>EP03</td>
+    <td>US18</td>
+    <td>Crear evento</td>
+    <td>Como organizador de eventos quiero poder crear un nuevo evento ingresando información básica como título, descripción, fecha y hora, para que los usuarios puedan conocer los detalles principales del evento.</td>
+    <td>-Dado que el organizador de eventos ha iniciado sesión en la plataforma y accede a la sección de creación de eventos, cuando el organizador completa correctamente toda la información básica requerida (título, descripción, fecha y hora) y envía el formulario, entonces la plataforma creará el nuevo evento y mostrará un mensaje de confirmación indicando que el evento ha sido creado exitosamente.
+<br>-Dado que el organizador de eventos ha iniciado sesión en la plataforma y accede a la sección de creación de eventos, cuando el organizador intenta crear un nuevo evento pero deja algún campo obligatorio incompleto o introduce información inválida, entonces la plataforma mostrará un mensaje de error indicando los campos que necesitan ser corregidos, y no se permitirá la creación del evento hasta que se corrija la información.
+    <td>EP04</td>
   </tr>
+ <tr>
+    <td>US19</td>
+    <td>Definir ubicación del evento</td>
+    <td>Como organizador de eventos quiero poder establecer la ubicación del evento mediante una dirección física o un enlace a un evento virtual, para que los asistentes sepan dónde se llevará a cabo.</td>
+    <td>-Dado que el organizador de eventos ha iniciado sesión en la plataforma y está creando o editando un evento, cuando el organizador establece la ubicación del evento mediante una dirección física o un enlace a un evento virtual y guarda los cambios, entonces la plataforma actualizará la información del evento y mostrará un mensaje de confirmación indicando que la ubicación ha sido establecida correctamente.<br>-Dado que el organizador de eventos ha iniciado sesión en la plataforma y está creando o editando un evento, cuando el organizador intenta establecer la ubicación del evento pero introduce una dirección física inválida o un enlace a un evento virtual incorrecto, entonces la plataforma mostrará un mensaje de error indicando que la ubicación es inválida, y no se permitirá guardar los cambios hasta que se corrija la información.
+    <td>EP04</td>
+  </tr>
+   <tr>
+    <td>US20</td>
+    <td>Gestionar entradas</td>
+    <td> Como organizador de eventos quiero poder definir diferentes tipos de entradas con precios, cantidades y descripciones, para ofrecer opciones de compra adaptadas a las necesidades de los asistentes.</td>
+    <td>-Dado que el organizador de eventos ha iniciado sesión en la plataforma y accede a la sección de gestión de entradas, cuando el organizador define un nuevo tipo de entrada especificando su nombre, precio, cantidad disponible y una descripción opcional, y guarda los cambios, entonces la plataforma registrará el nuevo tipo de entrada correctamente y lo mostrará en la lista de opciones disponibles para los asistentes.<br>-Dado que el organizador de eventos ha iniciado sesión en la plataforma y accede a la sección de gestión de entradas, cuando el organizador intenta definir un nuevo tipo de entrada pero deja algún campo obligatorio incompleto o introduce información inválida, entonces la plataforma mostrará un mensaje de error indicando los campos que necesitan ser corregidos, y no se permitirá la creación del nuevo tipo de entrada hasta que se corrija la información.
+    <td>EP04</td>
+  </tr>
+   <tr>
+    <td>US21</td>
+    <td>Añadir imágenes y multimedia</td>
+    <td> Como organizador de eventos quiero poder subir imágenes y videos promocionales para el evento, para atraer más asistentes y proporcionar una visión clara de lo que pueden esperar.
+ </td>
+    <td>-Dado que el organizador de eventos ha iniciado sesión en la plataforma y accede a la sección de gestión de medios, cuando el organizador sube una imagen o video promocional para el evento y guarda los cambios, entonces la plataforma registrará el archivo multimedia correctamente y lo mostrará en la página del evento para que los usuarios lo vean.<br>-Dado que el organizador de eventos ha iniciado sesión en la plataforma y accede a la sección de gestión de medios, cuando el organizador intenta subir una imagen o video pero el archivo es demasiado grande o no tiene un formato válido, entonces la plataforma mostrará un mensaje de error indicando que el archivo no se pudo cargar, y no se permitirá guardar los cambios hasta que se corrija el problema con el archivo multimedia.
+    <td>EP04</td>
+  </tr>
+   <tr>
+    <td>US22</td>
+    <td>Configurar opciones de privacidad</td>
+    <td>Como organizador de eventos quiero poder establecer si el evento es público o privado y definir las restricciones de acceso, para controlar quién puede ver y unirse al evento.
+ </td>
+    <td>-Dado que el organizador de eventos ha iniciado sesión en la plataforma y está configurando un nuevo evento, cuando el organizador elige la opción de privacidad y selecciona entre público o privado, y define las restricciones de acceso como la necesidad de una invitación o una contraseña, y guarda los cambios, entonces la plataforma registrará la configuración de privacidad correctamente y aplicará las restricciones de acceso según lo especificado.<br>-Dado que el organizador de eventos ha iniciado sesión en la plataforma y está configurando un nuevo evento, cuando el organizador intenta guardar la configuración de privacidad pero deja algún campo obligatorio incompleto o introduce opciones inválidas, entonces la plataforma mostrará un mensaje de error indicando los campos que necesitan ser corregidos, y no se permitirá guardar los cambios hasta que se corrija la información.
+    <td>EP04</td>
+  </tr>
+   <tr>
+    <td>US23</td>
+    <td>Enviar invitaciones</td>
+    <td>Como organizador de eventos quiero poder enviar invitaciones a contactos específicos por correo electrónico o mediante un enlace directo, para asegurarme de que las personas clave estén informadas y puedan asistir.</td>
+    <td>-Dado que el organizador de eventos ha iniciado sesión en la plataforma y está gestionando las invitaciones para un evento, cuando el organizador selecciona la opción de enviar invitaciones y elige enviarlas por correo electrónico o generar un enlace directo, y proporciona los correos electrónicos de los contactos específicos o genera el enlace, y confirma el envío, entonces la plataforma enviará las invitaciones correctamente a los contactos seleccionados o generará el enlace directo para compartir.<br>-Dado que el organizador de eventos ha iniciado sesión en la plataforma y está gestionando las invitaciones para un evento, cuando el organizador intenta enviar invitaciones pero deja algún campo obligatorio incompleto o introduce direcciones de correo electrónico inválidas, entonces la plataforma mostrará un mensaje de error indicando los campos que necesitan ser corregidos, y no se enviarán las invitaciones hasta que se corrija la información.
+    <td>EP04</td>
+  </tr>
+   <tr>
+    <td>US24</td>
+    <td>Publicar y compartir el evento</td>
+    <td>Como organizador de eventos quiero poder publicar el evento y compartirlo en redes sociales, para aumentar la visibilidad del evento y atraer a más asistentes.</td>
+    <td>-Dado que el organizador de eventos ha iniciado sesión en la plataforma y ha completado todos los detalles del evento, cuando el organizador selecciona la opción de publicar el evento, la plataforma lo muestra públicamente en la lista de eventos disponibles para los usuarios, y ofrece la opción de compartir el evento en redes sociales como Facebook, Twitter, y LinkedIn.<br>-Dado que el organizador de eventos ha iniciado sesión en la plataforma y ha completado todos los detalles del evento, cuando el organizador intenta publicar el evento pero ocurre un error técnico o falta algún detalle esencial, entonces la plataforma mostrará un mensaje de error indicando que el evento no se pudo publicar, y se proporcionarán instrucciones para corregir el problema y volver a intentarlo.
+    <td>EP04</td>
+  </tr>
+  
   </tr>
     </tbody>
   </table>
