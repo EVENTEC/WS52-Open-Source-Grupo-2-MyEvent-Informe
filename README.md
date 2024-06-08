@@ -1133,14 +1133,14 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
     <td>Publicar una Entrada para Reventa</td>
     <td>Como un cliente que ya no puede asistir a un evento quiero poder publicar mis entradas en modo reventa en la plataforma, para que pueda recuperar parte o todo el dinero que gasté en la entrada.<br>
    </td>
-      <td> **</td>
+      <td>-Dado que el cliente ha iniciado sesión en la plataforma y posee una entrada válida para el evento, cuando el cliente accede a la opción de publicar entradas para reventa y completa correctamente toda la información requerida (precio, detalles del evento, etc.), entonces la plataforma mostrará un mensaje de confirmación indicando que la entrada ha sido publicada exitosamente, y la entrada se mostrará en la lista de entradas disponibles para reventa.<br>-Dado que el cliente ha iniciado sesión en la plataforma y posee una entrada válida para el evento, cuando el cliente intenta publicar una entrada para reventa pero deja algún campo obligatorio incompleto o introduce información inválida, entonces la plataforma mostrará un mensaje de error indicando los campos que necesitan ser corregidos, y no se permitirá la publicación de la entrada hasta que se corrija la información.</td>
     <td>EP03</td>
   </tr>
   <tr>
     <td>US13</td>
     <td>Retirar Entrada de la Reventa</td>
     <td>Como un cliente que ha publicado una entrada para reventa quiero poder retirar la entrada del mercado de reventa en cualquier momento, para poder utilizarla si cambio de opinión.</td>
-    <td>-Dado que el cliente ha iniciado sesión en su cuenta y tiene una suscripción activa, cuando accede a las opciones de su perfil, entonces debe visualizar claramente un botón identificado como "Renovar Suscripción".<br>
+    <td>-Dado que el cliente ha iniciado sesión en la plataforma y ha publicado una entrada para reventa, cuando el cliente selecciona la opción de retirar la entrada del mercado de reventa y confirma su acción, entonces la plataforma mostrará un mensaje de confirmación indicando que la entrada ha sido retirada exitosamente, y la entrada ya no estará disponible para otros usuarios en el mercado de reventa.<br>-Dado que el cliente ha iniciado sesión en la plataforma y ha publicado una entrada para reventa, cuando el cliente intenta retirar la entrada del mercado de reventa pero ocurre un error técnico o la entrada ya ha sido vendida, entonces la plataforma mostrará un mensaje de error indicando que no se pudo completar la acción, y la entrada permanecerá en el mercado de reventa hasta que se resuelva el problema o se confirme su venta.
    </td>
     <td>EP03</td>
   </tr>
@@ -1148,28 +1148,29 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
     <td>US14</td>
     <td>Buscar Entradas Disponibles para Reventa</td>
     <td>Como un cliente que busca entradas para un evento, quiero poder buscar entradas disponibles para reventa en la plataforma, para tener la oportunidad de asistir al evento aunque las entradas oficiales estén agotadas.</td>
-    <td>-Dado que el usuario es premium, cuando selecciono las entradas para el evento que deseo y me encuentro en el proceso de compra, entonces podré observar el descuento aplicado al recibo generado<br>
+    <td>-Dado que el cliente ha iniciado sesión en la plataforma y está buscando entradas para un evento específico, cuando el cliente introduce los detalles del evento en el buscador de entradas de reventa y realiza la búsqueda, entonces la plataforma mostrará una lista de todas las entradas disponibles para reventa correspondientes al evento buscado, y el cliente podrá ver detalles como el precio y la ubicación de los asientos.<br>-Dado que el cliente ha iniciado sesión en la plataforma y está buscando entradas para un evento específico, cuando el cliente introduce los detalles del evento en el buscador de entradas de reventa y realiza la búsqueda, entonces la plataforma mostrará un mensaje indicando que no se encontraron entradas disponibles para reventa si no hay ninguna entrada correspondiente al evento buscado.
     <td>EP03</td>
   </tr>
   <tr>
     <td>US15</td>
     <td>Ver Información Detallada de la Entrada</td>
     <td>Como un cliente interesado en comprar una entrada revendida, quiero ver información detallada de la entrada (como la ubicación del asiento y el precio), para tomar una decisión informada antes de comprar.</td>
-    <td>- Dado que el cliente es premuim, cuando exista algun cambio con respecto al evento al que va asistir, se le notificara inmediatamente sobre este cambio<br></td>
+    <td>-Dado que el cliente ha iniciado sesión en la plataforma y ha encontrado una entrada de su interés, cuando el cliente selecciona la entrada para ver más detalles, entonces la plataforma mostrará información detallada de la entrada, incluyendo la ubicación del asiento, el precio, y cualquier otra información relevante.
+<br>-Dado que el cliente ha iniciado sesión en la plataforma y ha encontrado una entrada de su interés, cuando el cliente selecciona la entrada para ver más detalles pero ocurre un error técnico, entonces la plataforma mostrará un mensaje de error indicando que no se pudo cargar la información detallada de la entrada.</td>
     <td>EP03</td>
   </tr>
   <tr>
     <td>US16</td>
     <td>Comprar una Entrada Revendida</td>
     <td>Como un cliente que ha encontrado una entrada adecuada quiero poder comprar la entrada revendida de forma segura a través de la plataforma, para asegurar mi lugar en el evento.</td>
-    <td>-Dado que el usuario es premium y tiene una consulta, cuando envie una solicitud  de atencion al cliente su solicitud sera respondida en menos de 24 horas y recibire asistencia personalizada.<br>
+    <td>-Dado que el cliente ha iniciado sesión en la plataforma y ha seleccionado una entrada revendida para comprar, cuando el cliente procede al pago y completa correctamente toda la información requerida, entonces la plataforma procesará el pago de forma segura y confirmará la compra, y el cliente recibirá una notificación de confirmación junto con los detalles de la entrada adquirida.<br>-Dado que el cliente ha iniciado sesión en la plataforma y ha seleccionado una entrada revendida para comprar, cuando el cliente procede al pago pero ocurre un error en el procesamiento del pago, entonces la plataforma mostrará un mensaje de error indicando que no se pudo completar la compra, y el cliente no será cargado hasta que se resuelva el problema y el pago sea procesado correctamente.
     <td>EP03</td>
   </tr>
   <tr>
     <td>US17</td>
     <td>Recibir Confirmación y Entradas Digitales</td>
     <td>Como un cliente que ha comprado una entrada revendida, quiero recibir una confirmación inmediata y las entradas digitales para tener la tranquilidad de que mi compra fue exitosa y poder asistir al evento.</td>
-    <td>-Dado que soy un usuario premium con un historial de compras, cuando accedo a mi cuenta veré una seccion de recomendaciones personalizadas en mi panel y podre seleccionarlos para observarlas.<br>
+    <td>-Dado que el cliente ha completado exitosamente la compra de una entrada revendida, cuando el pago es procesado correctamente, entonces la plataforma enviará una confirmación inmediata al correo electrónico del cliente junto con las entradas digitales adjuntas.<br>-Dado que el cliente ha completado la compra de una entrada revendida, cuando el pago es procesado pero ocurre un error en el envío de la confirmación o las entradas digitales, entonces la plataforma mostrará un mensaje de error y enviará una notificación al equipo de soporte para resolver el problema, y el cliente será informado del retraso en la entrega de sus entradas digitales.
         Dado que soy un usuario premium que no realizo compras aún, cuando ingrese al apartado de recomendaciones, entonces vere un mensaje que no hay recomendaciones y se me sugerira explorar el catálogo<br>
   </td>
     <td>EP03</td>
