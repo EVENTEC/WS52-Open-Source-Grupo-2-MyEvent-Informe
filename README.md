@@ -1273,9 +1273,9 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
     <td>US29</td>
     <td>Cancelar subscripción</td>
     <td>Como comprador de boletos quisiera cancelar la subscripcion premium mediante la ventana de mi perfil y dejar de tener beneficios unicos en la pltaforma</td>
-    <td>-Dado que el usuario ha iniciado sesión en su cuenta, cuando accede a la ventana de su perfil, entonces se le presenta una opción clara y visible para cancelar la suscripción. Al confirmar la cancelación, el sistema detiene los pagos de la suscripción y retira al usuario de los beneficios premium de la plataforma.</td>
+    <td>-Dado que el usuario ha iniciado sesión en su cuenta, cuando accede a la ventana de su perfil, entonces se le presenta una opción clara y visible para cancelar la suscripción. Al confirmar la cancelación, el sistema detiene los pagos de la suscripción y retira al usuario de los beneficios premium de la plataforma.
        
-<br>-Dado que el usuario ha iniciado sesión en su cuenta, si el sistema no ofrece una opción para cancelar la suscripción premium en la ventana de perfil del usuario, entonces el usuario no puede cancelar la suscripción de manera efectiva.
+<br>-Dado que el usuario ha iniciado sesión en su cuenta, si el sistema no ofrece una opción para cancelar la suscripción premium en la ventana de perfil del usuario, entonces el usuario no puede cancelar la suscripción de manera efectiva.</td>
     <td>EP05</td>
   </tr>
   </tr>
