@@ -2722,7 +2722,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 <h3>5.2.3.2 Sprint Backlog 3</h3>
 <h3>5.2.3.3 Development Evidence for Sprint Review</h3>
 <h3>5.2.3.4 Testin Suite Evidence for Sprint Review</h3>
-<h3>5.2.3.5 Execytuib Evidence for Sprint Review</h3>
+<h3>5.2.3.5 Execution Evidence for Sprint Review</h3>
 <h3>5.2.3.6 Services Documentation Evidence for Sprint Review</h3>
 <h3>5.2.3.7 Software Deployment Evidence for Sprint Review</h3>
 <h3>5.2.3.8 Team Collaboration Insights during Sprint</h3>
