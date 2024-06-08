@@ -78,6 +78,21 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
 
 </ul>
         </td>
+        <td>Se replanteó la presentación para la interfaz del cliente siguiendo las pautas deifinidas en la retroalimentación. Asimismo, se desarrolló de forma parcial funciones del backend consumidas directamente en el frontend.</td>
+    </tr>
+    <tr>
+        <td><strong>TB2</strong></td>
+        <td>8 de junio de 2024</td></td>
+        <td>
+            <ul>
+                <li>Michael Stefano Carmelino Dueñas</li>
+                <li>Luis Mario Gonzales Anaya</li>
+                <li>Piero Jhoynner Muñoz Salcedo</li>
+                <li>Luis Alejandro Zárate Gamarra</li>
+                <li>Alessandro Joaquin Bernardo Eusebio</li>
+
+</ul>
+        </td>
         <td>Se implementaron cambios basados en los comentarios recibidos en la retroalimentación de la TB1. Estos cambios se reflejaron en las secciones de análisis de la problemática, registros y análisis de usuario. Además, se definieron épicas globales e historias técnicas relacionadas con el backend. En cuanto al desarrollo, se completó el segundo sprint, centrándose en la implementación inicial del frontend de la aplicación. Esta implementación proporciona una vista general para el usuario, con todas las disposiciones y validaciones necesarias para la administración y gestión completa de los procesos principales de la aplicación.</td>
     </tr>
 </table>
