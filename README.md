@@ -2657,6 +2657,10 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 
 <h3>5.2.3 Sprint 3</h3>
 
+
+
+
+<h3>5.2.3.1 Sprint Planning 3</h3>
 <table>
     <tr>
       <th>Sprint # </th>
@@ -2716,9 +2720,6 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
       <th>5</th>
     </tr>
   </table>
-
-
-<h3>5.2.3.1 Sprint Planning 3</h3>
 <h3>5.2.3.2 Sprint Backlog 3</h3>
 <h3>5.2.3.3 Development Evidence for Sprint Review</h3>
 <h3>5.2.3.4 Testin Suite Evidence for Sprint Review</h3>
