@@ -1018,329 +1018,170 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <h4>Historias de Usuarios</h4>
 
 <table>
-  <thead>
-    <tr>
-      <th>Story ID</th>
-      <th>Título</th>
-      <th>Descripción</th>
-      <th>Criterios de aceptación</th>
-      <th>Relacionado con (Epic ID)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>US01</td>
-      <td>Autenticación de usuario</td>
-      <td>Como usuario Quiero registrarme e iniciar sesión Para acceder a la aplicación MyEvent</td>
-      <td>-Dado que el usuario desea crear una cuenta nueva, cuando proporciona su información personal válida, entonces 
-      la cuenta se registra con éxito.<br>
-      -Dado que el usuario desea iniciar sesión, cuando ingresa su nombre de usuario y contraseña válidos, entonces 
-      accede a la aplicación MyEvent.<br>
-      -Dado que el usuario intenta iniciar sesión con credenciales incorrectas, entonces recibe un mensaje de error 
-      indicando que el inicio de sesión ha fallado.
+    <thead>
+      <tr>
+        <th>Story ID</th>
+        <th>Título</th>
+        <th>Descripción</th>
+        <th>Criterios de aceptación</th>
+        <th>Relacionado con (Epic ID)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US01</td>
+        <td>Creación de Cuenta</td>
+        <td>Como usuario nuevo, quiero poder crear una cuenta ingresando mis datos para acceder a MyEvent.</td>
+        <td>-Dado que soy un usuario nuevo en MyEvent, cuando ingreso mis datos personales en el formulario de registro, entonces debo poder crear una cuenta exitosamente y recibir una confirmación de registro por correo electrónico.<br>
+            -Dado que soy un usuario nuevo en MyEvent y ya he creado una cuenta, cuando intento iniciar sesión utilizando las credenciales que proporcioné al registrarme, entonces debo poder acceder a MyEvent y ver mi perfil personalizado con la opción de gestionar mis eventos y ajustes de cuenta.<br>
+   </td>
+        <td>EP01</td>
+      </tr>
+      <tr>
+        <td>US02</td>
+        <td>Opción de Rol al Registrarse y Confirmación</td>
+        <td>Como usuario nuevo, quiero poder seleccionar mi rol (organizador o comprador) al registrarme en MyEvent.</td>
+        <td>- Dado que soy un usuario nuevo en MyEvent, cuando selecciono mi rol como "organizador" durante el registro, entonces debo poder acceder a funciones avanzadas para crear y gestionar eventos.<br>
+            - Dado que soy un usuario nuevo en MyEvent, cuando selecciono mi rol como "comprador" durante el registro, entonces debo poder buscar, explorar y comprar entradas para eventos disponibles en la plataforma.<br>
+            - Dado que soy un usuario nuevo en MyEvent, cuando selecciono un rol no válido durante el registro, como "espectador", entonces debo recibir un mensaje de error indicando que debo seleccionar un rol válido, como "organizador" o "comprador".<br>
+  </td>
+        <td>EP01</td>
+      </tr>
+      <tr>
+        <td>US03</td>
+        <td>Iniciar Sesión con Correo y Contraseña</td>
+        <td>Como usuario registrado, quiero poder iniciar sesión utilizando mi correo electrónico y contraseña en MyEvent.</td>
+        <td>- Dado que soy un usuario registrado en MyEvent, cuando ingreso mi correo electrónico y contraseña válidos en el formulario de inicio de sesión, entonces debo poder acceder a mi cuenta y ver mi perfil personalizado con la opción de gestionar mis eventos y ajustes de cuenta.<br>
+           - Dado que soy un usuario registrado en MyEvent, cuando intento iniciar sesión con un correo electrónico válido pero una contraseña incorrecta, entonces debo recibir un mensaje de error indicando que la contraseña es incorrecta y se me debe dar la opción de restablecerla.<br>
+  </td>
+        <td>EP01</td>
+      </tr>
+      <tr>
+        <td>US-04</td>
+        <td>Visualización de Opciones para Usuarios no Premium</td>
+        <td>Como usuario estándar, quiero poder ver las ventajas y costos de la membresía premium en MyEvent.</td>
+        <td>- Dado que soy un usuario estándar en MyEvent, cuando accedo a la sección de membresía premium, entonces debo poder ver claramente las ventajas adicionales que ofrece la membresía premium, así como los costos asociados con ella.<br>
+            -Dado que soy un usuario estándar en MyEvent, cuando intento acceder a la sección de membresía premium y encuentro que no puedo ver las ventajas y costos, entonces debo recibir un mensaje indicando que necesito registrarme o iniciar sesión para acceder a esa información.<br>
  </td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td>US02</td>
-      <td>Creación de eventos</td>
-      <td>Como organizador de eventos Quiero poder crear y publicar eventos en la plataforma Para promover mi evento y vender entradas</td>
-      <td>-Dado que el organizador desea crear un evento, cuando completa un formulario con los detalles del evento, 
-          entonces el evento se registra en la plataforma.<br>
-         -Dado que el organizador ha completado el formulario de creación de eventos, cuando envía el evento para 
-         revisión y aprobación, entonces el evento es revisado por el administrador.<br>
-         -Dado que el evento ha sido aprobado por el administrador, cuando se muestra en la plataforma, entonces los 
-          usuarios pueden ver y acceder al evento para comprar entradas.<br>
-          -Dado que un organizador intenta crear un evento pero la plataforma no permite completar el formulario con detalles del evento, el organizador no puede publicar el evento y promoverlo en la plataforma.
-</td>
-      <td>EP02</td>
-    </tr>
-    <tr>
-      <td>US03</td>
-      <td>Exploración de eventos</td>
-      <td>Como usuario interesado en eventos Quiero poder buscar y filtrar eventos disponibles Para encontrar eventos que me interesen</td>
-      <td>-Dado que el usuario desea explorar eventos, cuando navega por una lista de eventos, entonces encuentra una 
-         variedad de opciones disponibles.<br>
-         -Dado que el usuario desea encontrar eventos específicos, cuando aplica filtros por categorías como género 
-         musical, ubicación y fecha, entonces obtiene resultados relevantes.<br>
-        -Dado que el usuario quiere obtener más detalles sobre un evento, cuando hace clic en el evento, entonces puede 
-        ver información detallada y decidir si le interesa.<br>
-          -Dado que un usuario intenta buscar eventos utilizando filtros por categorías como género musical, ubicación y fecha, pero los resultados no se muestran correctamente o no coinciden con los filtros aplicados, el usuario no puede encontrar eventos que le interesen.
-</td>
-      <td>EP03</td>
-    </tr>
-    <tr>
-      <td>US04</td>
-      <td>Compra de entradas</td>
-      <td>Como comprador de entradas Quiero poder seleccionar y comprar entradas Para asegurar mi participación en eventos</td>
-      <td>-Dado que el comprador desea adquirir entradas, cuando selecciona las entradas deseadas y las agrega al carrito, entonces puede continuar con el proceso de pago.<br>
--Dado que el comprador quiere completar la compra, cuando elige un método de pago y completa la transacción, entonces recibe confirmación por correo electrónico.<br>
--Dado que el comprador ha realizado una compra, cuando necesita ayuda o tiene preguntas, entonces puede contactar al servicio de atención al cliente para recibir asistencia.<br>
-        -Dado que un comprador intenta seleccionar y comprar entradas, pero al agregar las entradas al carrito se produce un error y no se puede completar el proceso de compra, el comprador no puede asegurar su participación en eventos.
-</td>
-      <td>EP03</td>
-    </tr>
-    <tr>
-      <td>US05</td>
-      <td>Opción Premium para Revendedores</td>
-      <td>Como revendedor Quiero tener una opción premium Para obtener ventajas sobre otros compradores</td>
-      <td>-Dado que el revendedor desea acceder a una opción premium, cuando compra una membresía premium, entonces obtiene beneficios adicionales como acceso anticipado y límites de compra más altos.<br>
--Dado que el revendedor tiene la membresía premium, cuando realiza compras, entonces disfruta de ventajas exclusivas como descuentos especiales y prioridad en el servicio al cliente.<br>
--Dado que el revendedor quiere renovar su membresía premium, cuando vence la membresía actual, entonces puede volver a comprarla fácilmente desde su cuenta.<br>
-          -Dado que un revendedor intenta comprar una membresía premium con acceso anticipado y límites de compra más altos, pero la plataforma no procesa la compra correctamente o no otorga los beneficios adicionales, el revendedor no puede obtener las ventajas prometidas.
-</td>
-      <td>EP05</td>
-    </tr>
-    <tr>
-      <td>US06</td>
-      <td>Transferencia de Entradas</td>
-      <td>Como usuario que ya ha comprado entradas Quiero poder transferirlas a otros usuarios Para permitir que otros disfruten del evento</td>
-      <td>-Dado que el usuario desea transferir entradas, cuando selecciona las entradas que desea transferir, entonces proporciona la información del destinatario.<br>
--Dado que el usuario ha completado la transferencia, cuando el destinatario recibe las entradas transferidas, entonces ambos usuarios reciben confirmación de la transferencia exitosa.<br>
--Dado que el usuario ha transferido entradas, cuando necesita ayuda o tiene preguntas, entonces puede contactar al servicio de atención al cliente para recibir asistencia.<br>
-          -Dado que un usuario que ha comprado entradas intenta transferirlas a otros usuarios, pero el sistema no permite completar la transferencia o muestra un mensaje de error, el usuario no puede permitir que otros disfruten del evento.
-</td>
-      <td>EP03</td>
-    </tr>
-    <tr>
-      <td>US07</td>
-      <td>Membresía de Descuentos Periódicos</td>
-      <td>Como usuario fiel a la plataforma Quiero recibir descuentos especiales periódicamente Para incentivar mi participación continua</td>
-      <td>-Dado que el usuario desea obtener descuentos periódicos, cuando adquiere una membresía de descuentos periódicos, entonces recibe notificaciones sobre descuentos disponibles.<br>
--Dado que el usuario tiene la membresía activa, cuando realiza compras, entonces puede aplicar los descuentos durante el proceso de compra.<br>
--Dado que el usuario quiere renovar la membresía, cuando vence la membresía actual, entonces puede volver a comprarla fácilmente desde su cuenta.<br>
-          -Dado que un usuario con membresía de descuentos periódicos intenta aplicar un descuento durante el proceso de compra, pero el sistema no aplica el descuento correctamente o no lo reconoce, el usuario no puede disfrutar de los beneficios de su membresía.
-</td>
-      <td>EP04</td>
-    </tr>
-        <tr>
-      <td>US08</td>
-      <td>Membresía de Concursos y Sorteos Exclusivos</td>
-      <td>Como miembro de la plataforma, quiero participar en concursos y sorteos exclusivos para ganar entradas gratuitas y experiencias VIP, para disfrutar de beneficios adicionales y experiencias únicas.</td>
-      <td>-Dado que el usuario desea participar en concursos y sorteos, cuando accede a concursos y sorteos exclusivos desde su cuenta, entonces puede ver los premios disponibles.<br>
--Dado que el usuario participa en un concurso o sorteo, cuando sigue las instrucciones proporcionadas, entonces recibe notificaciones sobre los resultados.<br>
--Dado que el usuario gana un premio, cuando recibe la confirmación, entonces puede disfrutar de la experiencia VIP o la entrada gratuita obtenida.<br>
-          -Dado que un usuario con membresía de concursos y sorteos exclusivos intenta participar en un concurso o sorteo, pero la plataforma no le permite acceder o muestra un error al intentar participar, el usuario no puede disfrutar de las ventajas exclusivas de su membresía.
-</td>
-      <td>EP04</td>
-    </tr>
-    <tr>
-      <td>US09</td>
-      <td>Membresía de Contenido Exclusivo</td>
-      <td>Como suscriptor premium, quiero tener acceso a contenido exclusivo relacionado con eventos, como transmisiones en vivo y entrevistas detrás de escena, para disfrutar de una experiencia más completa y enriquecedora.</td>
-      <td>-Dado que el usuario premium desea acceder a contenido exclusivo, cuando inicia sesión en su cuenta premium, entonces puede acceder al contenido especial.<br>
+        <td>EP01</td>
+      </tr>
+      <tr>
+        <td>US05</td>
+        <td>Visualización de Perfil de Usuario</td>
+        <td>Como usuario registrado, quiero poder ver mi perfil en MyEvent para gestionar mis datos personales.</td>
+        <td>- Dado que soy un usuario registrado en MyEvent, cuando inicio sesión en mi cuenta, entonces debo poder acceder a mi perfil donde pueda ver y gestionar mis datos personales, como nombre, dirección de correo electrónico, información de contacto, y cualquier otra información relevante.<br>
+  -Dado que soy un usuario registrado en MyEvent, cuando intento acceder a mi perfil y encuentro que la página no se carga o recibo un mensaje de error, entonces debo recibir asistencia para solucionar el problema o una opción para informar sobre el error.<br>
+ </td>
+        <td>EP01</td>
+      </tr>
+      <tr>
+        <td>US06</td>
+        <td>Gestión de Sesión y Contraseña</td>
+        <td>Como usuario registrado, quiero poder cerrar sesión y cambiar mi contraseña en MyEvent para mantener la seguridad de mi cuenta.</td>
+        <td>- Dado que soy un usuario registrado en MyEvent, cuando estoy en mi cuenta y deseo cerrar sesión, entonces debo poder encontrar una opción clara y accesible para cerrar sesión en cualquier página de la plataforma. Al hacer clic en esta opción, mi sesión actual debe finalizar y debo ser redirigido a la página de inicio de sesión.<br>
+  - Dado que soy un usuario registrado en MyEvent, cuando deseo cambiar mi contraseña por razones de seguridad, entonces debo poder acceder a la configuración de mi cuenta donde encuentre una opción para cambiar mi contraseña. Al seleccionar esta opción, debo ser guiado a través de un proceso seguro que me permita ingresar mi contraseña actual y luego establecer una nueva contraseña. Una vez completado este proceso, mi nueva contraseña debe ser actualizada y aplicada a mi cuenta.<br>
+  </td>
+        <td>EP01</td>
+      </tr> 
+      <!--EP02-->
+      <tr>
+        <td>US07</td>
+        <td>Detalles del evento</td>
+        <td>Como usuario interesado en un evento, quiero poder ver todos los detalles relevantes del mismo, incluyendo la fecha, hora, lugar, artistas o participantes, descripción del evento y opciones de boletos disponibles, para tomar una decisión informada sobre mi asistencia.</td>
+        <td>- Dado que soy un usuario interesado en un evento en MyEvent, cuando accedo a la página del evento, entonces debo poder ver claramente los siguientes detalles: la fecha y hora del evento, el lugar donde se llevará a cabo, los artistas o participantes que estarán presentes, una descripción del evento que me dé una idea de qué esperar y las opciones de boletos disponibles, incluyendo sus precios y categorías.<br>
+  - Dado que soy un usuario interesado en un evento en MyEvent, cuando accedo a la página del evento y no encuentro toda la información relevante, como la fecha, hora, lugar, artistas/participantes, descripción del evento o opciones de boletos disponibles, entonces debo recibir un mensaje de error indicando que la información completa no está disponible.<br>
+    </td>
+        <td>EP02</td>
+      </tr>
+          <tr>
+        <td>US08</td>
+        <td>Compra de boletos</td>
+        <td>Como usuario que desea asistir a un evento, quiero poder seleccionar la cantidad y el tipo de boletos que deseo comprar, ingresar mis datos personales, seleccionar el método de pago y completar la transacción de compra de manera segura y sin problemas.</td>
+        <td>- Dado que soy un usuario interesado en un evento en MyEvent y he seleccionado el evento al que deseo asistir, cuando elijo la cantidad y el tipo de boletos que deseo comprar, ingreso mis datos personales, selecciono el método de pago y completo la transacción de compra, entonces debo poder hacerlo de manera segura y sin problemas, con una interfaz fácil de usar que me guíe a través de cada paso del proceso de compra.<br>
+  -Dado que soy un usuario interesado en un evento en MyEvent y he iniciado el proceso de compra de boletos, cuando encuentro dificultades técnicas, errores de sistema o problemas de seguridad al ingresar mis datos personales o al completar la transacción de pago, entonces debo recibir un mensaje claro que indique el problema y, preferiblemente, una opción para resolverlo o una forma de comunicarme con el soporte técnico para obtener ayuda.<br>
+  </td>
+        <td>EP02</td>
+      </tr>
+      <tr>
+        <td>US09</td>
+        <td>Compra exitosa</td>
+        <td>Como usuario que ha realizado una compra de boletos, quiero recibir una confirmación clara y visualmente atractiva de que mi pago ha sido exitoso, incluyendo detalles como el número de orden, la cantidad de boletos comprados y cualquier información adicional relevante, para tener la tranquilidad de que mi compra ha sido procesada correctamente.
+        </td>
+        <td>-Dado que soy un usuario que ha realizado una compra de boletos en MyEvent, cuando finalizo la transacción de pago con éxito, entonces debo recibir inmediatamente una confirmación clara y visualmente atractiva que indique que mi pago ha sido exitoso.<br>
+            -Dado que soy un usuario que ha realizado una compra de boletos en MyEvent, cuando finalizo la transacción de pago y no recibo una confirmación clara de que mi pago ha sido exitoso, o la confirmación que recibo es confusa o incompleta, entonces debo poder contactar rápidamente al soporte técnico o al servicio al cliente para resolver cualquier problema<br>
+        </td>
+        <td>EP02</td>
+      </tr>
+      <tr>
+        <td>US10</td>
+        <td>Rechazo de transacción</td>
+        <td>Como usuario que ha intentado realizar una compra de boletos, quiero ser notificado de manera clara y comprensible en caso de que mi pago haya sido rechazado, incluyendo información sobre el motivo del rechazo y posibles acciones que pueda tomar para resolver el problema, para poder intentar nuevamente realizar la compra de manera exitosa o buscar alternativas de pago.</td>
+        <td>-Dado que soy un usuario que ha intentado realizar una compra de boletos en MyEvent, cuando mi pago es rechazado, entonces debo recibir una notificación clara y comprensible que me informe sobre el motivo del rechazo. Esta notificación debe proporcionarme información detallada sobre el motivo del rechazo del pago, así como posibles acciones que puedo tomar para resolver el problema, como verificar la información de la tarjeta de crédito, intentar con otro método de pago o contactar a mi proveedor de servicios financieros. Esta notificación debe ayudarme a entender por qué mi pago fue rechazado y qué puedo hacer al respecto.<br>
+         </td>
+        <td>EP02</td>
+  <tr>
+    <td>US11</td>
+    <td>Validaciones de información</td>
+    <td>Como usuario que está completando el proceso de compra de boletos, quiero que se realicen validaciones en tiempo real de los datos que ingreso, incluyendo la detección de errores en campos como el correo electrónico, número de tarjeta de crédito, fecha de vencimiento, etc., para poder corregir cualquier error de manera rápida y precisa antes de finalizar la transacción.</td>
+    <td>-Dado que soy un usuario que está completando el proceso de compra de boletos en MyEvent, cuando ingreso mis datos, como el correo electrónico, número de tarjeta de crédito, fecha de vencimiento, etc., entonces debo recibir validaciones en tiempo real de estos datos.<br>
+  </td>
+    <td>EP02</td>
+  </tr>
 
--Dado que el usuario premium ve una transmisión en vivo, cuando participa en comentarios y comparte el contenido, entonces disfruta de una experiencia enriquecedora y participativa.<br>
+  <tr>
+    <td>US12</td>
+    <td>Notificacion de renovación</td>
+    <td>Como cliente premuim deseo poder recibir una notificacion cuando mi suscripcion esté a punto de expirar</td>
+    <td>-Dado que soy un cliente premium en MyEvent, cuando mi suscripción esté a punto de expirar, entonces debo recibir una notificación clara y oportuna que me informe sobre la proximidad de la fecha de vencimiento de mi suscripción. Esta notificación debe proporcionarme detalles específicos sobre la fecha exacta de expiración de mi suscripción y cualquier acción que deba tomar para renovarla o extenderla.<br>
+   </td>
+    <td>EP05</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Acceso renovación de membresia premium</td>
+    <td>Como cliente premuim quiero tener a disposición un boton de renovar suscripción en las opciones de mi perfil</td>
+    <td>-Dado que el cliente ha iniciado sesión en su cuenta y tiene una suscripción activa, cuando accede a las opciones de su perfil, entonces debe visualizar claramente un botón identificado como "Renovar Suscripción".<br>
+   </td>
+    <td>EP05</td>
+  </tr>
+  <tr>
+    <td>US14</td>
+    <td>Descuento en compra de entradas</td>
+    <td>Como usuario premium, quiero recibir un descuento del 5% en la compra de entradas de algun evento, para disfrutar de ahorros exclusivos y hacer mi experiencia gratificante</td>
+    <td>-Dado que el usuario es premium, cuando selecciono las entradas para el evento que deseo y me encuentro en el proceso de compra, entonces podré observar el descuento aplicado al recibo generado<br>
+    <td>-Dado que el usuario es premium, cuando selecciono las entradas para el evento que deseo y me encuentro en el proceso de compra, entonces se me notificará si el descuento no podra ser aplicado por problemas del servidor o excepciones<br>
+    </td>
+    <td>EP05</td>
+  </tr>
+  <tr>
+    <td>US15</td>
+    <td>Notificaciones de cambios instantaneos</td>
+    <td>Como usuario premuim deseo recibir notificaciones instantaneas, sobre los cambios en los horarios de los eventos, cancelaciones, cambios de ultimo minuto, para evitar inconvenientes</td>
+    <td>- Dado que el cliente es premuim, cuando exista algun cambio con respecto al evento al que va asistir, se le notificara inmediatamente sobre este cambio<br></td>
+    <td>EP05</td>
+  </tr>
+  <tr>
+    <td>US16</td>
+    <td>Atención prioritaria en el servicio al cliente</td>
+    <td>Como usuario premium, quiero recibir atencion prioritaria en el servicio al cliente, con tiempos de asistencia rápidos y personalizados</td>
+    <td>-Dado que el usuario es premium y tiene una consulta, cuando envie una solicitud  de atencion al cliente su solicitud sera respondida en menos de 24 horas y recibire asistencia personalizada.<br>
+        <td>-Dado que el usuario es premium y tiene una consulta y se tenga problemas para atender su solicitud, cuando envie una solicitud  de atencion al cliente se le notificara que se esta teniendo problemas para recepcionar su solicitud.<br>
 
--Dado que el usuario premium quiere ver entrevistas detrás de escena, cuando accede al contenido exclusivo, entonces obtiene información adicional sobre eventos y artistas.<br>
--Dado que un usuario con membresía de contenido exclusivo intenta acceder al contenido especial disponible solo para suscriptores premium, pero la plataforma no le permite ver el contenido o muestra un mensaje de error al intentar acceder, el usuario no puede disfrutar de la experiencia completa de su membresía.
-</td>
-      <td>EP06</td>
-    </tr>
-    <tr>
-      <td>US10</td>
-      <td>Membresía de Prioridad en Servicio al Cliente</td>
-      <td>Como usuario premium, quiero recibir atención prioritaria en el servicio al cliente, con tiempos de respuesta más rápidos y asistencia personalizada, para sentirme valorado y apoyado como cliente leal.  </td>
-      <td>-Dado que el usuario premium desea atención prioritaria, cuando contacta al servicio al cliente, entonces recibe tiempos de respuesta más rápidos y asistencia personalizada.<br>
-
--Dado que el usuario premium tiene consultas o problemas, cuando utiliza canales exclusivos como líneas telefónicas dedicadas, entonces recibe soporte de manera eficiente.<br>
-
--Dado que el usuario premium quiere sentirse valorado, cuando recibe seguimiento y atención continua, entonces se siente satisfecho con el servicio al cliente.<br>
--Dado que un usuario premium intenta comunicarse con el servicio al cliente a través de canales exclusivos, como líneas telefónicas o correos electrónicos dedicados, pero no recibe respuestas rápidas o el servicio no está disponible, el usuario no puede recibir la atención prioritaria prometida.
-</td>
-      <td>EP06</td>
-<tr>
-  <td>US11</td>
-  <td>Membresía de Descuentos en Futuras Compras</td>
-  <td>Como usuario habitual de la plataforma, quiero recibir descuentos para futuras compras de entradas Para incentivar mi lealtad y continuar utilizando el servicio</td>
-  <td>-Dado que el usuario acumula compras, cuando alcanza un número determinado de entradas compradas, entonces recibe un cupón de descuento para su próxima compra.<br>
-
--Dado que el usuario tiene un cupón de descuento, cuando realiza la próxima compra, entonces aplica el cupón para obtener un descuento en el precio.<br>
-
--Dado que el usuario quiere seguir acumulando descuentos, cuando continúa comprando entradas, entonces sigue recibiendo beneficios por su lealtad.
-</td>
-  <td>EP04</td>
-</tr>
-<tr>
-  <td>US12</td>
-  <td>Entradas Gratis para Eventos Seleccionados</td>
-  <td>Como usuario frecuente de la plataforma, quiero tener la oportunidad de obtener entradas gratuitas Para disfrutar de eventos sin costo adicional y fomentar mi fidelidad</td>
-  <td>-Dado que el usuario acumula un cierto número de compras, cuando alcanza el umbral establecido, entonces recibe una entrada gratuita para un evento específico.<br>
--Dado que el usuario tiene una entrada gratuita, cuando selecciona el evento al que desea asistir, entonces puede canjear la entrada gratuita durante el proceso de compra.<br>
--Dado que el usuario quiere disfrutar de beneficios adicionales, cuando asiste al evento con una entrada gratuita, entonces fortalece su lealtad a la plataforma.<br>
-      -Dado que un usuario frecuente intenta canjear una entrada gratuita para un evento específico de su elección, pero la plataforma no permite el canje o muestra un error al intentar seleccionar la entrada gratuita, el usuario no puede disfrutar del beneficio de su lealtad.
-</td>
-  <td>EP04</td>
-</tr>
-<tr>
-  <td>US13</td>
-  <td>Acceso a Preventas Exclusivas</td>
-  <td>Como usuario frecuente de la plataforma, quiero tener acceso exclusivo a preventas de eventos populares Para asegurar mi participación en eventos de alto demanda</td>
-  <td>-Dado que el usuario acumula acceso a preventas exclusivas, cuando se anuncian eventos populares, entonces puede comprar entradas antes de que estén disponibles para el público general.<br>
--Dado que el usuario tiene acceso a la preventa, cuando realiza la compra durante este período, entonces asegura su participación en eventos con alta demanda.<br>
--Dado que el usuario quiere ser parte de eventos exclusivos, cuando disfruta de la experiencia sin problemas de agotamiento de entradas, entonces aumenta su satisfacción y fidelidad.<br>
-      -Dado que un usuario frecuente intenta comprar entradas antes de que estén disponibles para el público en general durante la preventa, pero la plataforma no le permite acceder a la preventa o muestra un mensaje de error al intentar comprar las entradas, el usuario no puede asegurar su participación en eventos populares.
-</td>
-  <td>EP04</td>
-</tr>
-<tr>
-  <td>US14</td>
-  <td>Puntos de Fidelidad o Programa de Recompensas</td>
-  <td>Como usuario frecuente de la plataforma, quiero acumular puntos de fidelidad por cada compra de entradas Para canjearlos por descuentos, entradas gratuitas u otros beneficios</td>
-  <td>-Dado que un usuario realiza compras de entradas, cuando acumula puntos de fidelidad por cada compra, entonces puede verificar su saldo de puntos desde su cuenta.<br>
--Dado que el usuario tiene suficientes puntos acumulados, cuando decide canjear los puntos por recompensas como descuentos o entradas gratuitas, entonces puede aplicar los puntos durante el proceso de compra.<br>
--Dado que el usuario quiere obtener beneficios adicionales, cuando utiliza sus puntos de fidelidad, entonces disfruta de ventajas exclusivas y se siente incentivado a seguir participando en la plataforma.<br>
-      -Dado que un usuario frecuente intenta canjear puntos por descuentos, entradas gratis u otros beneficios, pero la plataforma no registra correctamente los puntos acumulados o muestra un saldo incorrecto, el usuario no puede aprovechar las recompensas de su lealtad.
-</td>
-  <td>EP04</td>
-</tr>
-<tr>
-  <td>US15</td>
-  <td>Niveles de Entrada con Descuento</td>
-  <td>Como usuario frecuente de la plataforma, quiero acceder a precios especiales de entrada después de realizar cierto número de compras Para disfrutar de beneficios adicionales y promociones exclusivas</td>
-  <td>-Dado que el usuario alcanza niveles de entrada con descuento, cuando realiza un número determinado de compras, entonces accede a precios especiales para ciertos niveles de entrada.<br>
--Dado que un usuario selecciona el nivel de entrada con descuento, cuando completa el proceso de compra, entonces obtiene el beneficio del descuento aplicado.<br>
--Dado que el usuario quiere aprovechar promociones exclusivas, cuando continúa comprando y alcanza nuevos niveles, entonces sigue obteniendo precios especiales y promociones exclusivas.<br>
-      -Dado que un usuario frecuente intenta acceder a precios especiales para ciertos niveles de entrada después de realizar cierto número de compras, pero la plataforma no le ofrece los precios especiales o muestra un error al intentar seleccionar el nivel con descuento, el usuario no puede disfrutar de las promociones exclusivas.
-</td>
-  <td>EP04</td>
-</tr>
-<tr>
-  <td>US16</td>
-  <td>Notificaciones de Eventos y Ofertas</td>
-  <td>Como usuario de la plataforma, quiero recibir notificaciones sobre eventos nuevos y ofertas especiales Para estar al tanto de las últimas novedades y oportunidades</td>
-  <td>-Dado que el usuario desea recibir notificaciones, cuando configura sus preferencias de notificación desde la cuenta, entonces puede optar por recibir notificaciones por correo electrónico o mensajes push.<br>
--Dado que el usuario recibe una notificación sobre un evento nuevo, cuando hace clic en la notificación, entonces accede a detalles adicionales sobre el evento y puede tomar decisiones informadas.<br>
--Dado que el usuario quiere estar al tanto de ofertas especiales, cuando recibe notificaciones sobre descuentos y promociones, entonces puede aprovechar oportunidades exclusivas y mejorar su experiencia en la plataforma.<br>
-      -Dado que un usuario desea recibir notificaciones sobre eventos nuevos y ofertas especiales, pero la plataforma no envía las notificaciones o las envía tarde, el usuario no puede estar al tanto de las últimas novedades y oportunidades.
-</td>
-  <td>EP03</td>
-</tr>
-<tr>
-  <td>US17</td>
-  <td>Integración con Redes Sociales</td>
-  <td>Como usuario de la plataforma, quiero poder compartir eventos y experiencias en mis redes sociales Para ampliar el alcance de la plataforma y compartir intereses con amigos</td>
-  <td>-Dado que el usuario desea compartir eventos, cuando conecta su cuenta de la plataforma con redes sociales como Facebook, Twitter o Instagram, entonces puede compartir detalles de eventos y experiencias.<br>
--Dado que el usuario comparte un evento en redes sociales, cuando sus amigos y seguidores interactúan con la publicación, entonces pueden ver y participar en eventos compartidos.<br>
--Dado que el usuario quiere promover eventos y experiencias, cuando utiliza la integración con redes sociales, entonces amplía el alcance de la plataforma y fortalece la comunidad de usuarios interesados en eventos similares.<br>
-      -Dado que un usuario desea compartir eventos y experiencias en redes sociales, pero la plataforma no permite la integración con redes sociales o muestra un error al intentar compartir contenido, el usuario no puede ampliar el alcance de la plataforma ni compartir intereses con amigos.
-</td>
-  <td>EP03</td>
-</tr>
-<tr>
-  <td>US18</td>
-  <td>Soporte Multilingüe</td>
-  <td>Como usuario de la plataforma, quiero poder acceder a la aplicación en varios idiomas Para facilitar la navegación y comprensión del contenido</td>
-  <td>-Dado que el usuario desea utilizar la plataforma en su idioma preferido, cuando selecciona el idioma desde la configuración de la cuenta, entonces la aplicación se traduce automáticamente.<br>
--Dado que el usuario navega por la aplicación en un idioma específico, cuando todos los textos, botones y mensajes están disponibles en ese idioma, entonces la experiencia de usuario es más intuitiva y fácil de entender.<br>
--Dado que el usuario quiere una experiencia multilingüe, cuando cambia el idioma en cualquier momento, entonces la aplicación se adapta rápidamente sin afectar la funcionalidad y la calidad del contenido.<br>
-      -Dado que un usuario desea acceder a la aplicación en varios idiomas, pero la plataforma no ofrece la opción de seleccionar un idioma preferido o no traduce correctamente todo el contenido, el usuario no puede navegar y comprender el contenido de manera efectiva.
-</td>
-  <td>EP01</td>
-</tr>
-<tr>
-  <td>US19</td>
-  <td>Integración con Mapas y Direcciones</td>
-  <td>Como usuario de la plataforma, quiero tener acceso a información de ubicación y direcciones de eventos Para facilitar la planificación y asistencia a los mismos</td>
-  <td>-Dado que el usuario desea obtener información de ubicación, cuando accede a un evento en la plataforma, entonces puede ver la ubicación del evento en un mapa interactivo.<br>
--Dado que el usuario necesita direcciones, cuando selecciona un evento y elige obtener direcciones, entonces recibe rutas recomendadas y opciones de transporte público cercano.<br>
--Dado que el usuario quiere planificar su asistencia, cuando encuentra información detallada sobre la ubicación, incluyendo estacionamientos y servicios cercanos, entonces puede llegar al evento de manera conveniente y segura.<br>
-      -Dado que un usuario desea tener acceso a información de ubicación y direcciones de eventos, pero la plataforma no muestra la ubicación del evento en un mapa interactivo o no proporciona direcciones recomendadas, el usuario no puede planificar y asistir a los eventos de manera eficiente.
-</td>
-  <td>EP03</td>
-</tr>
-<tr>
-  <td>US20</td>
-  <td>Calificación y Reseñas de Eventos</td>
-  <td>Como usuario de la plataforma, quiero poder calificar y dejar reseñas sobre eventos a los que asistí Para compartir experiencias y ayudar a otros usuarios en su decisión de compra</td>
-  <td>-Dado que el usuario desea calificar un evento, cuando accede a la página de detalles de un evento y selecciona una calificación utilizando una escala de estrellas, entonces su calificación se registra correctamente en la plataforma.<br>
--Dado que un usuario desea dejar una reseña detallada sobre su experiencia en un evento, cuando escribe una reseña en el campo designado de la página de detalles del evento, entonces su reseña se guarda y muestra correctamente para otros usuarios.<br>
--Dado que las calificaciones y reseñas son fundamentales para la toma de decisiones de compra, cuando un usuario busca información sobre un evento, entonces puede ver las calificaciones promedio y leer las reseñas detalladas de otros usuarios interesados en el evento.<br>
-      -Dado que un usuario desea calificar y dejar reseñas sobre eventos a los que asistió para compartir experiencias y ayudar a otros usuarios en su decisión de compra, pero la plataforma no permite a los usuarios calificar eventos o escribir reseñas, los usuarios no pueden compartir sus experiencias ni proporcionar comentarios útiles para otros usuarios.
-</td>
-  <td>EP03</td>
-</tr>
-<tr>
-  <td>US21</td>
-  <td>Asistencia en Vivo y Chat en Línea</td>
-  <td>Como usuario de la plataforma, quiero tener acceso a asistencia en vivo y chat en línea Para resolver consultas rápidamente y recibir ayuda durante la navegación</td>
-  <td>-Dado que el usuario necesita asistencia, cuando accede a la plataforma, entonces puede iniciar una sesión de chat en vivo para recibir respuestas rápidas a preguntas sobre eventos, compras de entradas y problemas técnicos.<br>
--Dado que el usuario requiere ayuda durante la navegación, cuando la asistencia en vivo está disponible durante horas específicas, entonces el usuario puede comunicarse de manera efectiva con el equipo de soporte.<br>
--Dado que el usuario valora la atención al cliente, cuando la asistencia en vivo es accesible desde cualquier página de la aplicación, entonces la experiencia de usuario mejora significativamente.<br>
-      -Dado que un usuario desea recibir asistencia en vivo y utilizar el chat en línea para resolver consultas rápidamente, pero la plataforma no ofrece asistencia en vivo o el servicio de chat en línea no está disponible, el usuario no puede obtener ayuda durante la navegación.
-</td>
-  <td>EP03</td>
-</tr>
-<tr>
-  <td>US22</td>
-  <td>Estadísticas y Análisis de Participación</td>
-  <td>Como organizador de eventos, quiero acceder a estadísticas y análisis detallados sobre la participación en mis eventos Para evaluar su éxito y mejorar la planificación futura</td>
-  <td>-Dado que el organizador necesita evaluar la participación, cuando accede a la plataforma de organizador, entonces puede ver datos de participación como el número de entradas vendidas y perfiles de compradores.<br>
--Dado que el organizador busca mejorar la planificación, cuando accede a informes analíticos sobre la satisfacción de los asistentes y la efectividad de las estrategias de marketing, entonces puede tomar decisiones informadas para futuros eventos.<br>
--Dado que el organizador quiere datos en tiempo real, cuando la plataforma presenta estadísticas de manera clara y comprensible, entonces el organizador puede actuar rápidamente para optimizar la experiencia del evento.<br>
-      -Dado que un organizador de eventos desea acceder a estadísticas y análisis detallados sobre la participación en sus eventos, pero la plataforma no muestra los datos de participación o los informes analíticos no están disponibles, el organizador no puede evaluar el éxito de sus eventos ni mejorar la planificación futura.
-</td>
-  <td>EP02</td>
-</tr>
-<tr>
-  <td>US23</td>
-  <td>Integración con Plataformas de Streaming</td>
-  <td>Como usuario de la plataforma, quiero tener acceso a transmisiones en vivo y contenido exclusivo de eventos Para disfrutar de experiencias virtuales y ampliar mi participación en eventos</td>
-  <td>-Dado que el usuario desea acceder a transmisiones en vivo, cuando busca eventos con esta opción en la plataforma, entonces puede disfrutar de experiencias virtuales desde cualquier ubicación.<br>
--Dado que el usuario quiere contenido exclusivo, cuando accede a contenido relacionado con eventos como entrevistas, sesiones acústicas y contenido detrás de escena, entonces enriquece su experiencia en la plataforma.<br>
--Dado que el usuario busca una experiencia inmersiva, cuando la plataforma integra servicios de streaming populares, entonces el usuario puede participar en eventos de manera virtual y ampliar su participación en eventos de alto interés.<br>
-    -Dado que un usuario desea tener acceso a transmisiones en vivo y contenido exclusivo de eventos a través de la plataforma, pero la integración con plataformas de streaming no funciona correctamente o el contenido no está disponible para su visualización, el usuario no puede disfrutar de experiencias virtuales ni ampliar su participación en eventos.  
-</td>
-  <td>EP03</td>
-</tr>
-<tr>
-  <td>US24</td>
-  <td>Verificación de Identidad para Revendedores</td>
-  <td>Como revendedor de entradas, quiero completar un proceso de verificación de identidad Para garantizar la legitimidad de mis transacciones y proteger la integridad de la plataforma</td>
-  <td>-Dado que el revendedor desea realizar transacciones seguras, cuando proporciona información de identificación oficial como documento de identidad o pasaporte, entonces inicia el proceso de verificación de identidad.<br>
--Dado que la plataforma verifica la identidad, cuando se confirma la legitimidad del revendedor, entonces se habilitan funciones avanzadas como la compra anticipada y límites de compra más altos.<br>
--Dado que el revendedor valora la confidencialidad, cuando la verificación de identidad se realiza de manera segura y cumple con las regulaciones de protección de datos, entonces se fortalece la confianza en la plataforma.<br>
-      -Dado que un revendedor de entradas desea completar un proceso de verificación de identidad, pero la plataforma no permite enviar la información de identificación o la verificación no se procesa correctamente, el revendedor no puede garantizar la legitimidad de sus transacciones ni proteger la integridad de la plataforma.
-</td>
-  <td>EP05</td>
-</tr>
-<tr>
-  <td>US25</td>
-  <td>Integración con Plataformas de Pago Internacionales</td>
-  <td>Como usuario internacional de la plataforma, quiero poder utilizar diferentes métodos de pago Para facilitar la compra de entradas desde cualquier parte del mundo</td>
-  <td>-Dado que el usuario internacional desea pagar de manera conveniente, cuando selecciona su método de pago preferido entre opciones internacionales, entonces puede completar la compra de entradas sin problemas.<br>
--Dado que la plataforma integra pasarelas de pago seguras, cuando admite tarjetas de crédito, transferencias bancarias y monederos electrónicos, entonces los usuarios internacionales tienen opciones flexibles para pagar.<br>
--Dado que el usuario quiere transacciones simplificadas, cuando los pagos se procesan en la moneda local del usuario, entonces se evitan complicaciones relacionadas con las tasas de cambio y conversiones.<br>
-      -Dado que un usuario internacional desea utilizar diferentes métodos de pago para facilitar la compra de entradas desde cualquier parte del mundo, pero la integración con plataformas de pago internacionales no está disponible o no admite ciertos métodos de pago, el usuario no puede completar la compra de entradas.
-</td>
-  <td>EP03</td>
-</tr>
-<tr>
-  <td>US26</td>
-  <td>Reserva de Entradas</td>
-  <td>Como usuario de la plataforma, quiero tener la opción de reservar entradas para eventos populares Para garantizar mi participación antes de la venta general</td>
-  <td>-Dado que el usuario desea asegurar su participación, cuando realiza una reserva para un evento popular, entonces confirma su interés en asistir antes de que las entradas estén disponibles para la venta general.<br>
--Dado que la reserva se confirma mediante un pago inicial, cuando el usuario completa el proceso de reserva y realiza el pago requerido, entonces garantiza su participación en el evento.<br>
--Dado que el usuario busca claridad en el proceso de reserva, cuando recibe instrucciones claras sobre los plazos de pago y las condiciones de la reserva, entonces puede realizar la reserva de manera informada y segura.<br>
-      -Dado que un usuario desea reservar entradas para eventos populares antes de la venta general, pero el sistema no permite realizar la reserva o muestra un error al intentar pagar la reserva inicial, el usuario no puede asegurar su participación en eventos de alto interés.
-</td>
-  <td>EP03</td>
-</tr>
-<tr>
-  <td>US27</td>
-  <td>Reembolso y Política de Devoluciones</td>
-  <td>Como usuario de la plataforma, quiero conocer la política de reembolso y devoluciones Para tomar decisiones informadas sobre mis compras de entradas</td>
-  <td>-Dado que el usuario desea información transparente, cuando la plataforma proporciona detalles claros sobre las condiciones de reembolso y devoluciones, entonces el usuario puede tomar decisiones informadas.<br>
--Dado que el usuario puede solicitar un reembolso dentro de ciertos plazos, cuando la política de reembolso y devoluciones se comunica de manera transparente, entonces se garantiza la satisfacción del cliente.<br>
--Dado que el usuario valora la protección de sus compras, cuando las condiciones de reembolso y devoluciones cumplen con las expectativas del usuario, entonces se fortalece la confianza en la plataforma.<br>
-      -Dado que un usuario desea conocer la política de reembolso y devoluciones para tomar decisiones informadas sobre sus compras de entradas, pero la plataforma no proporciona información clara sobre las condiciones de reembolso o no procesa las solicitudes de reembolso adecuadamente, el usuario no puede sentirse seguro al realizar compras en la plataforma.
-</td>
-  <td>EP03</td>
-</tr>
-
-</tr>
-  </tbody>
-</table>
+    </td>
+    <td>EP05</td>
+  </tr>
+  <tr>
+    <td>US17</td>
+    <td>Recomendacion personalizada sobre eventos</td>
+    <td>Como usuario premium quiero recibir recomendaciones personalizadas basado en mi historial de compras y preferencias de entretenimiento.</td>
+    <td>-Dado que soy un usuario premium con un historial de compras, cuando accedo a mi cuenta veré una seccion de recomendaciones personalizadas en mi panel y podre seleccionarlos para observarlas.<br>
+        Dado que soy un usuario premium que no realizo compras aún, cuando ingrese al apartado de recomendaciones, entonces vere un mensaje que no hay recomendaciones y se me sugerira explorar el catálogo<br>
+  </td>
+    <td>EP05</td>
+  </tr>
+  </tr>
+    </tbody>
+  </table>
 
 <h4>Historias Técnicas</h4>
 <table>
