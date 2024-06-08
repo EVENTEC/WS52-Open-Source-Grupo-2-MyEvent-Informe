@@ -2727,6 +2727,37 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 <h3>5.2.3.6 Services Documentation Evidence for Sprint Review</h3>
 <h3>5.2.3.7 Software Deployment Evidence for Sprint Review</h3>
 <h3>5.2.3.8 Team Collaboration Insights during Sprint</h3>
+<h2>5.3 Validation Interviews</h2>
+    <h3>5.3.1. Diseño de Entrevistas.</h3>
+    <p><strong>Segmento Cliente:</strong></p>
+    <ol>
+        <li>¿Qué tan llamativa te resulta nuestra página web?</li>
+        <li>¿Qué tan fácil te resulta registrarte e iniciar sesión?</li>
+        <li>¿Qué te parece que te muestre al iniciar sesión una oferta para acceder a la versión premium de nuestra aplicación web?</li>
+        <li>¿Puedes encontrar toda la información necesaria sobre un evento al hacer clic en él?</li>
+        <li>¿Qué tan intuitivo te parece el proceso de selección y compra de entradas?</li>
+        <li>¿Has tenido alguna dificultad al intentar transferir entradas a otro usuario?</li>
+        <li>¿Encuentras algunas imperfecciones en nuestra plataforma?</li>
+    </ol>
+    <p><strong>Segmento Organizador:</strong></p>
+    <ol>
+        <li>
+            <p>¿Qué tan intuitivo y sencillo te resultó el proceso de creación de cuenta y gestión de tu perfil? ¿Hay alguna característica o funcionalidad que crees que falta o podría mejorarse?</p>
+        </li>
+        <li>
+            <p>¿Cómo fue tu experiencia al crear y personalizar un evento en la plataforma? ¿Encontraste todas las opciones que necesitabas para ofrecer una experiencia única a los asistentes?</p>
+        </li>
+        <li>
+            <p>¿Qué tan fácil te resultó acceder a la información detallada de los eventos y realizar la compra de entradas? ¿Hubo algún aspecto de la experiencia de compra que te gustaría que fuera diferente o mejorado?</p>
+        </li>
+        <li>
+            <p>¿Qué tipo de estadísticas y análisis te gustaría ver sobre la participación en tus eventos? ¿Cómo crees que esta información te ayudaría a evaluar el éxito de tus eventos y a mejorar la planificación futura?</p>
+        </li>
+        <li>
+            <p>¿Qué te parece la opción de que los clientes puedan revender sus entradas a eventos directamente en la plataforma? ¿Cómo crees que esta funcionalidad impactaría en la asistencia y el manejo de las entradas para los eventos que organizas?</p>
+        </li>
+    </ol>
+
 <h1>CONCLUSIONES</h1>
 <p>Durante el desarrollo del front end para la aplicación de venta de entradas de eventos "MyEvent", se demostró un compromiso sólido con la implementación eficiente y efectiva de soluciones utilizando tecnología Angular. La elección de utilizar fake APIs a través de db.json para simular el comportamiento de las APIs reales fue una estrategia inteligente que permitió un desarrollo ágil y centrado en los requisitos del cliente. Esta decisión también facilitó la colaboración entre los desarrolladores al proporcionar un entorno controlado y predecible para probar y validar el front end.
 
