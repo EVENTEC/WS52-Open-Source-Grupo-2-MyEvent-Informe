@@ -2589,7 +2589,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 <table>
     <tr>
       <th>Sprint # </th>
-      <th>Sprint 2 </th>
+      <th>Sprint 3 </th>
     </tr>
     <tr>
       <td><strong>Sprint Planning Background</strong></td>
