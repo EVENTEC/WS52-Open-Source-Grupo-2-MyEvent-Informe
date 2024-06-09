@@ -143,8 +143,7 @@ En el marco del desarrollo del landing page de MyEvent y la creación de wirefra
                  <strong>TP</strong>
                     <p>Durante el proyecto, participé activamente en sesiones de trabajo en equipo donde compartí actualizaciones, discutí ideas y coordiné acciones con el equipo y partes interesadas. Mi habilidad para comunicar de manera efectiva y adaptar el mensaje según la audiencia facilitó la comprensión y colaboración en el proyecto.</p>
                 
-                <strong>TB2</strong>
-                    <p>Durante el proyecto, participé activamente en sesiones de trabajo en equipo donde compartí actualizaciones, discutí ideas y coordiné acciones con el equipo y partes interesadas. Mi habilidad para comunicar de manera efectiva y adaptar el mensaje según la audiencia facilitó la comprensión y colaboración en el proyecto.</p>
+            
                     
             </p>
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
