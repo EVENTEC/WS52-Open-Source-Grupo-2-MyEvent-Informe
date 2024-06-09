@@ -120,7 +120,7 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
                     <p>Durante el proyecto, logré la corrección de ciertos apartados del informe, además de agregar la tabla de Historias Técnicas que se requería para este entregable. En el apartado de Angular, logré realizar
                     la interfaz de inicio de sesión y de registro, con sus respectivas funcionalidades y almacenamiento de los datos en un json. Coordiné reuniones con mis compañeros para la repartición en el tema de correciones, dando a conocer mis habilidades de coordinación y comunicación con el equipo.
                     </p>
-                  </p>
+                  
                 <li><strong>Luis Mario Gonzales Anaya</strong></li>
                 <p>
                     <strong>TB1</strong>
