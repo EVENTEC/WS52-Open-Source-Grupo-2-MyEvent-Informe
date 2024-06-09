@@ -205,6 +205,11 @@ En el contexto del proyecto, desempeñé un papel fundamental en la elaboración
                         <strong>TB1</strong>
                         <p>En el proyecto de ingeniería, comuniqué de manera objetiva y clara ideas y resultados por escrito a audiencias diversas. Esto incluyó la elaboración de documentos como User Personas, una User Task Matrix, informes de entrevistas y Diagramas de Clases y de Base de Datos. Mi habilidad para transmitir información técnica fue crucial para el éxito del proyecto.</p>
                     </p>
+                    <p>
+                        <strong>TB2</strong>
+                        <p>
+En el proyecto, me encargué de comunicar de forma escrita y objetiva los resultados del desarrollo del frontend para la reventa y compra de boletos a audiencias de diferentes especialidades y niveles jerárquicos. Esto incluyó la redacción de informes detallados sobre el diseño de la interfaz de usuario (UI), la experiencia de usuario (UX) y las medidas de seguridad implementadas. Además, documenté la lógica de los procesos de reventa y compra, demostrando habilidades de comunicación efectiva en un contexto de ingeniería.</p>
+                    </p>
                 </li>
                 <li><strong>Alessandro Joaquin Bernardo Eusebio</strong>
             <p>
