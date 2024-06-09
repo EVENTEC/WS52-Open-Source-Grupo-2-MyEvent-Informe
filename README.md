@@ -3029,6 +3029,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 <img src="./imagenes/sprint3/16.png">
 <h3>5.2.3.6 Services Documentation Evidence for Sprint Review</h3>
 <h3>5.2.3.7 Software Deployment Evidence for Sprint Review</h3>
+<img src="./imagenes/sprint3/SoftwareDeploymentEvidence.png">
 
 <h3>5.2.3.8 Team Collaboration Insights during Sprint</h3>
 <h2>5.3 Validation Interviews</h2>
