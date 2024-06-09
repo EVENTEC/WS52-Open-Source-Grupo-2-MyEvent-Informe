@@ -236,7 +236,7 @@ En el marco del desarrollo del landing page y la creación de mockups, redacté 
             <strong>TP</strong>
                     <p>Durante la definición y desarrollo de las epics de las User Stories, se comunicó de manera efectiva y objetiva las metas, funcionalidades y requisitos de cada epic a todo el equipo. Esto aseguró una comprensión clara y alineada con los objetivos del proyecto en cada fase de desarrollo, facilitando la planificación, implementación y evaluación de las User Stories asociadas a cada epic.</p>
                     <strong>TB2</strong>
-                    <p>En el proyecto MyEvent, el equipo demostró una excepcional capacidad para comunicar de manera clara y objetiva los avances y las decisiones tomadas en el desarrollo del backend. La documentación técnica elaborada fue fundamental para garantizar una comprensión adecuada entre los diferentes equipos y niveles jerárquicos, facilitando así la colaboración efectiva y la toma de decisiones informadas.</p>
+                    <p>En el proyecto MyEvent, el equipo demostró una excepcional capacidad para comunicar de manera clara y objetiva los avances y las decisiones tomadas en el desarrollo del backend. La documentación técnica elaborada fue fundamental para garantizar una comprensión adecuada entre los integrantes del equipo, facilitando así la colaboración efectiva y la toma de decisiones informadas.</p>
     </li>
                 </ul>
         </td>
