@@ -3010,9 +3010,10 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
  </table>
 
 <h3>5.2.3.3 Development Evidence for Sprint Review</h3>
-Frontend:
+<h4>Frontend:</h4>
 <img src="./imagenes/sprint3/CommitFront.PNG">
-Backend:
+
+<h4>Backend:</h4>
 <img src="./imagenes/sprint3/CommitBack.PNG">
 
 <h3>5.2.3.4 Testin Suite Evidence for Sprint Review</h3>
