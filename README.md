@@ -120,7 +120,6 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
                     <p>Durante el proyecto, logré la corrección de ciertos apartados del informe, además de agregar la tabla de Historias Técnicas que se requería para este entregable. En el apartado de Angular, logré realizar
                     la interfaz de inicio de sesión y de registro, con sus respectivas funcionalidades y almacenamiento de los datos en un json. Coordiné reuniones con mis compañeros para la repartición en el tema de correciones, dando a conocer mis habilidades de coordinación y comunicación con el equipo.
                     </p>
-                  
                 <li><strong>Luis Mario Gonzales Anaya</strong></li>
                 <p>
                     <strong>TB1</strong>
@@ -141,7 +140,6 @@ En el marco del desarrollo del landing page de MyEvent y la creación de wirefra
                  <strong>TP</strong>
                     <p>Durante el proyecto, participé activamente en sesiones de trabajo en equipo donde compartí actualizaciones, discutí ideas y coordiné acciones con el equipo y partes interesadas. Mi habilidad para comunicar de manera efectiva y adaptar el mensaje según la audiencia facilitó la comprensión y colaboración en el proyecto.</p>
             </p>
-                
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
                   <p>
                     <strong>TB1</strong>
