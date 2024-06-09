@@ -129,7 +129,7 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
                     </p>
                     <strong>TB2</strong>
                     <p>
-                    En el proyecto, me encargué de comunicar de forma clara y objetiva los conceptos técnicos del desarrollo del frontend para la reventa y compra de boletos a audiencias diversas. Esto implicó presentar el diseño de la interfaz de usuario (UI), la experiencia de usuario (UX), y las medidas de seguridad implementadas. Además, desarrollé y expliqué la lógica de los procesos de reventa y compra, demostrando habilidades de comunicación efectiva en un contexto de ingeniería.
+                   En el proyecto, mi responsabilidad principal fue desarrollar y comunicar los aspectos técnicos relacionados con el acceso a la membresía premium. Esto implicó diseñar y programar la interfaz de usuario (UI) y la experiencia de usuario (UX) específica para la membresía premium. También fui responsable de explicar la lógica de acceso y sus beneficios.
                     </p>
                 </p>
                 <li><strong>Piero Jhoynner Muñoz Salcedo</strong></li>
@@ -139,6 +139,9 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
 En el marco del desarrollo del landing page de MyEvent y la creación de wireframes y mockups, nuestro equipo ha trabajado en colaboración para garantizar que la interfaz y el diseño sean intuitivos y atractivos para nuestros usuarios. Al elaborar los wireframes, nos enfocamos en definir la estructura y disposición de los elementos clave, como la ubicación estratégica de los botones de llamada a la acción, la distribución del contenido y la navegación fluida. Esto nos ha permitido visualizar de manera precisa cómo se organizará la información y cómo interactuarán los usuarios con la página.
                   </p>
                  <strong>TP</strong>
+                    <p>Durante el proyecto, participé activamente en sesiones de trabajo en equipo donde compartí actualizaciones, discutí ideas y coordiné acciones con el equipo y partes interesadas. Mi habilidad para comunicar de manera efectiva y adaptar el mensaje según la audiencia facilitó la comprensión y colaboración en el proyecto.</p>
+
+                <strong>TB2</strong>
                     <p>Durante el proyecto, participé activamente en sesiones de trabajo en equipo donde compartí actualizaciones, discutí ideas y coordiné acciones con el equipo y partes interesadas. Mi habilidad para comunicar de manera efectiva y adaptar el mensaje según la audiencia facilitó la comprensión y colaboración en el proyecto.</p>
                   </p>
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
