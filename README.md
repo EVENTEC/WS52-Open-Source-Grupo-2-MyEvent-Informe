@@ -3084,7 +3084,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
     </tr>
     <tr><td class="justificado">El entrevistado, quien es organizador de eventos, navegó en nuestra plataforma web y de momento nos comenta que le parecio util e intuitivo el inicio de sesion, y facil al momento de registrarse, afirma que podria mejorar añadiendo informacion en su perfil con relacion al historial de eventos pasados. Nos cuenta que tuvo una buena experiencia al momento de crear un evento y considera fundamental las invitaciones por medio de redes sociales. Ademas, considera que la compra de entradas son faciles y estan bien implementadas y lo unico que le gustaria añadir es el guardado de informacion de pago para mayor facilidad al momento de comprar entradas. Por otro lado, le gustaria que hubieran estadisticas detallas de la participacion e interaccion de las personas que asisten a los eventos para que así pueda tomar deciciones mas estrategicas para futuras fechas. Nos indica que la opcion de revender entradas lo considera muy bueno y no cree que el impacto que tiene fuese negativo, ya que esto aseguraria que el evento tenga mas asistentes, sin desperdiciar alguna entrada.
 </td></tr>
-    <tr><td>Link de la entrevista: <a href="[https://youtu.be/r0Uu0f3oFPU](https://youtu.be/zWS4qhYYFmY)">[https://youtu.be/r0Uu0f3oFPU](https://youtu.be/zWS4qhYYFmY)</a></td></tr>
+    <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=zWS4qhYYFmY">https://www.youtube.com/watch?v=zWS4qhYYFmY</a></td></tr>
   </table>  
 
 <h1>CONCLUSIONES</h1>
