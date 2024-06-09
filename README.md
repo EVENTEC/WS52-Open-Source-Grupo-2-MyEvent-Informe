@@ -220,12 +220,7 @@ En el marco del desarrollo del landing page y la creación de mockups, redacté 
             <p>
             <strong>TB1</strong>
               <p>Se realizó una investigación que sustente de forma concreta la solución planteada al problema y se analizaron los casos que afecta a dos segmentos (clientes y organizadores de eventos), de forma simultánea se fue desarrollando la solución y apartados del presente proyecto, manteniendo las buenas prácticas de escritura, presentación y entrega </p>
-          </p>
-           
-        </td>
-          
-        </tr>
-    </tr>
+            </p>
 </table>
 
 
