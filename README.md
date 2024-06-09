@@ -186,6 +186,9 @@ En el contexto del proyecto, desempeñé un papel fundamental en la elaboración
                     <strong>TP</strong>
                     <p>En el transcurso del proyecto, desempeñé un rol crucial al corregir secciones específicas del informe y al incorporar la tabla de Historias Técnicas necesaria para este entregable. En el área de Angular, me encargué de desarrollar la interfaz de inicio de sesión y registro, junto con sus funcionalidades correspondientes, incluyendo el almacenamiento de datos en formato JSON. Asimismo, coordiné reuniones con mis compañeros para distribuir las tareas de corrección, destacando así mis habilidades de coordinación y comunicación efectiva dentro del equipo. Esta comunicación se realizó de manera clara y objetiva, adaptando el lenguaje técnico según la audiencia para garantizar la comprensión generalizada de los avances y logros alcanzados durante el proyecto.</p>
 </p>
+<strong>TB2</strong>
+                    <p>En el contexto de proyecto, realicé un aporte importante en el apartado del Backend, ya que ahora tenmos los registros de los usuarios los cuales se quieran registrar en nuestro aplicativo web, durante el proceso, demostre mis habilidades de aprendizaje rápido y adaptación para los problemas que tuvimos durante las semanas.
+                    </p>
                 </li>
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
                 <p>
