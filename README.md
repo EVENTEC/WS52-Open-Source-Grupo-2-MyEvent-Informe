@@ -3029,11 +3029,40 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
  </table>
 
 <h3>5.2.3.3 Development Evidence for Sprint Review</h3>
-<h4>Frontend:</h4>
-<img src="./imagenes/sprint3/CommitFront.PNG">
-
-<h4>Backend:</h4>
-<img src="./imagenes/sprint3/CommitBack.PNG">
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Frontend-Final</td>
+        <td>feature/login-register</td>
+        <td>988836a83e60f0373c74a16d4e65b8f7764944f3</td>
+        <td>feat: Implementación para que funcione con el backend</td>
+        <td>Arreglo en el manejo de datos</td>
+        <td>Commits on Jun 8, 2024</td>
+    </tr>
+    <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Frontend-Final</td>
+        <td>feature/contact</td>
+        <td>30e9d005088ed29841f60e3c9a68746360db39c5</td>
+        <td>feat: Cambios en la estructura de la vista - Usuario</td>
+        <td>Reorganizacion de carpetas</td>
+        <td>Commits on May 30, 2024</td>
+    </tr>
+    <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Backend</td>
+        <td>main</td>
+        <td>c33472470b7c2531d0b261984bac7ec876268814</td>
+        <td>feat: Creacion de las entidades event, user y sus respectivos archivos de configuracion</td>
+        <td>Creacion de la backend en general</td>
+        <td>Commits on May 30, 2024</td>
+    </tr>
+</table>
 
 <h3>5.2.3.4 Testin Suite Evidence for Sprint Review</h3>
 
