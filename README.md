@@ -3113,7 +3113,164 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
         
 </td></tr>
     <tr><td>Link de la entrevista: <a href="https://youtu.be/pt136hPLp-A">https://youtu.be/pt136hPLp-A</a></td></tr>
-  </table>  
+  </table>
+
+
+<h3>5.3.3 Evaluaciones según heurísticas</h3>
+</head>
+<body>
+<h4 align="center"><b>UX Heuristics & Principles Evaluation</b></h4>
+<h4 align="center"><b>Usability – Inclusive Design – Information Architecture</b></h4>
+<h5><b>CARRERA:</b> Ingeniería de Software</h5>
+<h5><b>CURSO:</b> Desarrollo de Aplicaciones Open Source</h5>
+<h5><b>SECCIÓN:</b> WS52</h5>
+<h5><b>PROFESORES:</b> Todos</h5>
+<h5><b>AUDITOR:</b> Grupo 2</h5>
+<h5><b>CLIENTE(S):</b> Gonzales Anaya, Luis Mario</h5>
+<h4>SITE o APP A EVALUAR:</b></h4>
+    <p>MyEvent</p>
+<h4>TAREAS A EVALUAR:</h5>
+<ol>
+  <li>Creación de una cuenta</li>
+  <li>Inicio de sesión</li>
+  <li>Visualización de opciones para usuarios no premium</li>
+  <li>Visualización de perfil de usuario</li>
+  <li>Gestión de sesión y contraseña</li>
+  <li>Renovación de la suscripción</li>
+  <li>Notificación de cambio de horarios de eventos</li>
+  <li>Atención prioritaria en el servicio al cliente</li>
+  <li>Recomendación personalizada sobre eventos</li>
+</ol>
+<h5>No están incluidas en esta versión de la evaluación las siguientes tareas:</h3>
+<ol>
+  <li>Detalles de los eventos</li>
+  <li>Compra de entradas</li>
+  <li>Reventa de las entradas</li>
+  <li>Compra de entradas revendidas</li>
+  <li>Creación de eventos</li>
+  <li>Gestión de entradas</li>
+  <li>Mandado de invitaciones</li>
+  <li>Publicación de eventos</li>
+</ol>
+<h4>ESCALA DE SEVERIDAD:</h4>
+<p>Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:</p>
+<table>
+  <tr>
+    <th>Nivel</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Problema superficial: puede ser fácilmente superador por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+  </tr>
+</table>
+<h4>TABLA RESUMEN:</h4>
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problema</th>
+    <th>Escala de severidad</th>
+    <th>Heurística/Principio violada(o)</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Opción de “recordarme” en la zona de registro</td>
+    <td>1</td>
+    <td>Usability: Consistencia y estándares</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Las opciones Register y Login permanecen luego de iniciar sesión</td>
+    <td>1</td>
+    <td>Usability: Feedback y estado del sistema</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>No hay zona para actualizar contraseña</td>
+    <td>1</td>
+    <td>Usability: Control y libertad del usuario</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Las opciones de Cancelar y Renovar suscripción aparecen incluso cuando no tienes ninguna.</td>
+    <td>1</td>
+    <td>Usability: Consistencia y estándares</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>La zona de compra de suscripción no acepta números de tarjeta de débito/crédito</td>
+    <td>4</td>
+    <td>Usability: Flexibilidad y eficiencia de uso</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>La zona de renovación de suscripción no acepta números de tarjeta de débito/crédito</td>
+    <td>4</td>
+    <td>Usability: Flexibilidad y eficiencia de uso</td>
+  </tr>
+</table>
+    
+<h4>DESCRIPCIÓN DE PROBLEMAS:</h4>
+<h5>PROBLEMA #1: Opción de “recordarme” en la zona de registro</h5>
+<p>Severidad: 1</p>
+<p>Heurística violada: Usabilidad - Consistencia y estándares</p>
+<p>Problema:<br>
+La opción de “recordarme” no sigue los estándares comunes de usabilidad en la zona de registro, lo que puede causar confusión en los usuarios que están acostumbrados a ver esta opción en la zona de inicio de sesión. Esto afecta la consistencia del diseño de la interfaz y puede reducir la confianza del usuario en el sistema.</p>
+<p>Recomendación:<br>
+Mover la opción de “recordarme” a la zona de inicio de sesión, donde los usuarios esperan encontrarla, asegurando así una experiencia más coherente y alineada con las prácticas estándar de diseño de interfaces de usuario.</p>
+
+<h5>PROBLEMA #2: Las opciones register y login permanecen luego de iniciar sesión</h5>
+<p>Severidad: 1</p>
+<p>Heurística violada: Usabilidad - Feedback y estado del sistema</p>
+<p>Problema:<br>
+Una vez que el usuario ha iniciado sesión, las opciones para "register" y "login" siguen apareciendo en la interfaz. Esto puede causar confusión, ya que el sistema no proporciona un feedback claro del estado actual del usuario. Los usuarios pueden no estar seguros si han iniciado sesión correctamente.</p>
+<p>Recomendación:<br>
+Ocultar las opciones de "register" y "login" después de que el usuario haya iniciado sesión y, en su lugar, mostrar opciones relevantes como "perfil" o "cerrar sesión" para reflejar correctamente el estado del sistema.</p>
+
+<h5>PROBLEMA #3: No hay zona para actualizar contraseña</h5>
+<p>Severidad: 1</p>
+<p>Heurística violada: Usabilidad - Control y libertad del usuario</p>
+<p>Problema:<br>
+No se proporciona una opción para que los usuarios actualicen su contraseña, lo que limita su capacidad para gestionar su información de seguridad. Esto es crucial para la administración de la cuenta y la seguridad personal.</p>
+<p>Recomendación:<br>
+Agregar una sección en la configuración de la cuenta donde los usuarios puedan actualizar su contraseña de manera fácil y segura, proporcionando instrucciones claras y feedback durante el proceso.</p>
+
+<h5>PROBLEMA #4: La opción de cancelar y renovar suscripción aparece incluso cuando no tienes ninguna</h5>
+<p>Severidad: 1</p>
+<p>Heurística violada: Usabilidad - Consistencia y estándares</p>
+<p>Problema:<br>
+La opción para cancelar y renovar suscripción está visible incluso para usuarios que no tienen una suscripción activa. Esto puede causar confusión y lleva a una experiencia inconsistente.</p>
+<p>Recomendación:<br>
+Modificar la interfaz para que la opción de cancelar y renovar suscripción solo sea visible para usuarios con suscripciones activas, mejorando así la claridad y relevancia de las opciones presentadas.</p>
+
+<h5>PROBLEMA #5: La zona de compra de suscripción no acepta números de tarjeta de débito/crédito</h5>
+<p>Severidad: 4</p>
+<p>Heurística violada: Usabilidad - Flexibilidad y eficiencia de uso</p>
+<p>Problema:<br>
+Aunque existe una zona para ingresar números de tarjeta de débito/crédito, al intentar completar la compra, se muestra un cuadro de diálogo indicando que el número de tarjeta es incorrecto. Esto frustra a los usuarios y les impide finalizar la compra, afectando la experiencia de usuario y las conversiones.</p>
+<p>Recomendación:<br>
+Revisar y corregir el proceso de validación de números de tarjeta para asegurarse de que acepta correctamente tarjetas de débito y crédito válidas. Realizar pruebas exhaustivas para garantizar que el sistema reconozca una variedad de tarjetas y proporcionar mensajes de error claros y específicos si hay problemas con los datos ingresados.</p>
+
+<h5>PROBLEMA #6: La zona de renovación de suscripción no acepta números de tarjeta de débito/crédito</h5>
+<p>Severidad: 4</p>
+<p>Heurística violada: Usabilidad - Flexibilidad y eficiencia de uso</p>
+<p>Problema:<br>
+Similar al problema de compra de suscripción, en la zona de renovación de suscripción, aunque hay una opción para ingresar números de tarjeta de débito/crédito, el sistema muestra un cuadro de diálogo indicando que el número de tarjeta es incorrecto al intentar renovar. Esto dificulta la renovación de suscripciones y puede resultar en la pérdida de suscriptores.</p>
+<p>Recomendación:<br>
+Corregir el proceso de validación de números de tarjeta en la zona de renovación de suscripción, asegurándose de que se acepten correctamente tarjetas de débito y crédito válidas. Realizar pruebas para asegurar la funcionalidad y proporcionar mensajes de error claros y útiles para guiar a los usuarios en caso de problemas.</p>
+
     
 <h1>CONCLUSIONES</h1>
 <p>Durante el desarrollo del front end para la aplicación de venta de entradas de eventos "MyEvent", se demostró un compromiso sólido con la implementación eficiente y efectiva de soluciones utilizando tecnología Angular. La elección de utilizar fake APIs a través de db.json para simular el comportamiento de las APIs reales fue una estrategia inteligente que permitió un desarrollo ágil y centrado en los requisitos del cliente. Esta decisión también facilitó la colaboración entre los desarrolladores al proporcionar un entorno controlado y predecible para probar y validar el front end.
