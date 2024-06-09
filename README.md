@@ -145,10 +145,6 @@ En el marco del desarrollo del landing page de MyEvent y la creación de wirefra
               </p>   
             </p>
 
-            <strong>TB2</strong>
-                    <p>
-En el proyecto, mi responsabilidad principal fue desarrollar y comunicar los aspectos técnicos relacionados con el acceso a la membresía premium. Esto implicó diseñar y programar la interfaz de usuario (UI) y la experiencia de usuario (UX) específica para la membresía premium. También fui responsable de explicar la lógica de acceso y sus beneficios a diversas audiencias, demostrando habilidades de comunicación efectiva en un contexto técnico.</p>
-
 
 
 
