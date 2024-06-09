@@ -3228,6 +3228,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 <p>Heurística violada: Usabilidad - Consistencia y estándares</p>
 <p>Problema:<br>
 La opción de “recordarme” no sigue los estándares comunes de usabilidad en la zona de registro, lo que puede causar confusión en los usuarios que están acostumbrados a ver esta opción en la zona de inicio de sesión. Esto afecta la consistencia del diseño de la interfaz y puede reducir la confianza del usuario en el sistema.</p>
+<img src="./imagenes/sprint3/Registro.png">
 <p>Recomendación:<br>
 Mover la opción de “recordarme” a la zona de inicio de sesión, donde los usuarios esperan encontrarla, asegurando así una experiencia más coherente y alineada con las prácticas estándar de diseño de interfaces de usuario.</p>
 
@@ -3236,6 +3237,7 @@ Mover la opción de “recordarme” a la zona de inicio de sesión, donde los u
 <p>Heurística violada: Usabilidad - Feedback y estado del sistema</p>
 <p>Problema:<br>
 Una vez que el usuario ha iniciado sesión, las opciones para "register" y "login" siguen apareciendo en la interfaz. Esto puede causar confusión, ya que el sistema no proporciona un feedback claro del estado actual del usuario. Los usuarios pueden no estar seguros si han iniciado sesión correctamente.</p>
+<img src="./imagenes/sprint3/RegisterLogin.png">
 <p>Recomendación:<br>
 Ocultar las opciones de "register" y "login" después de que el usuario haya iniciado sesión y, en su lugar, mostrar opciones relevantes como "perfil" o "cerrar sesión" para reflejar correctamente el estado del sistema.</p>
 
@@ -3244,6 +3246,7 @@ Ocultar las opciones de "register" y "login" después de que el usuario haya ini
 <p>Heurística violada: Usabilidad - Control y libertad del usuario</p>
 <p>Problema:<br>
 No se proporciona una opción para que los usuarios actualicen su contraseña, lo que limita su capacidad para gestionar su información de seguridad. Esto es crucial para la administración de la cuenta y la seguridad personal.</p>
+<img src="./imagenes/sprint3/Contraseña.png">
 <p>Recomendación:<br>
 Agregar una sección en la configuración de la cuenta donde los usuarios puedan actualizar su contraseña de manera fácil y segura, proporcionando instrucciones claras y feedback durante el proceso.</p>
 
@@ -3252,6 +3255,7 @@ Agregar una sección en la configuración de la cuenta donde los usuarios puedan
 <p>Heurística violada: Usabilidad - Consistencia y estándares</p>
 <p>Problema:<br>
 La opción para cancelar y renovar suscripción está visible incluso para usuarios que no tienen una suscripción activa. Esto puede causar confusión y lleva a una experiencia inconsistente.</p>
+<img src="./imagenes/sprint3/Contraseña.png">
 <p>Recomendación:<br>
 Modificar la interfaz para que la opción de cancelar y renovar suscripción solo sea visible para usuarios con suscripciones activas, mejorando así la claridad y relevancia de las opciones presentadas.</p>
 
@@ -3260,6 +3264,7 @@ Modificar la interfaz para que la opción de cancelar y renovar suscripción sol
 <p>Heurística violada: Usabilidad - Flexibilidad y eficiencia de uso</p>
 <p>Problema:<br>
 Aunque existe una zona para ingresar números de tarjeta de débito/crédito, al intentar completar la compra, se muestra un cuadro de diálogo indicando que el número de tarjeta es incorrecto. Esto frustra a los usuarios y les impide finalizar la compra, afectando la experiencia de usuario y las conversiones.</p>
+<img src="./imagenes/sprint3/Compra.png">
 <p>Recomendación:<br>
 Revisar y corregir el proceso de validación de números de tarjeta para asegurarse de que acepta correctamente tarjetas de débito y crédito válidas. Realizar pruebas exhaustivas para garantizar que el sistema reconozca una variedad de tarjetas y proporcionar mensajes de error claros y específicos si hay problemas con los datos ingresados.</p>
 
@@ -3268,6 +3273,7 @@ Revisar y corregir el proceso de validación de números de tarjeta para asegura
 <p>Heurística violada: Usabilidad - Flexibilidad y eficiencia de uso</p>
 <p>Problema:<br>
 Similar al problema de compra de suscripción, en la zona de renovación de suscripción, aunque hay una opción para ingresar números de tarjeta de débito/crédito, el sistema muestra un cuadro de diálogo indicando que el número de tarjeta es incorrecto al intentar renovar. Esto dificulta la renovación de suscripciones y puede resultar en la pérdida de suscriptores.</p>
+<img src="./imagenes/sprint3/Compra.png">
 <p>Recomendación:<br>
 Corregir el proceso de validación de números de tarjeta en la zona de renovación de suscripción, asegurándose de que se acepten correctamente tarjetas de débito y crédito válidas. Realizar pruebas para asegurar la funcionalidad y proporcionar mensajes de error claros y útiles para guiar a los usuarios en caso de problemas.</p>
 
