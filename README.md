@@ -3063,6 +3063,29 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
             <p>¿Qué te parece la opción de que los clientes puedan revender sus entradas a eventos directamente en la plataforma? ¿Cómo crees que esta funcionalidad impactaría en la asistencia y el manejo de las entradas para los eventos que organizas?</p>
         </li>
     </ol>
+    
+  <h3>5.3.2 Registro de entrevistas</h3>
+
+<h3>Segmento Organizador de Eventos</h3>
+<h4>Nombre: Fernando André Cipriano</h4>
+<h4>Entrevistador: Piero Jhoynner Muñoz Salcedo</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 25 años</li>
+    <li>Ubicación: Cercado de Lima</li>
+  </ul>
+</details><br>
+
+  <table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/raulquispe.png" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">El entrevisto, quien es organizador de eventos, navegó en nuestra plataforma web y de momento nos comenta que le parecio util e intuitvo el inicio de sesion, y facil de registrarse, afirma que podria mejorar añadiendo informacion en perfil en relacion al historial de eventos pasados. Nos cuenta que la tuvo una buena experiencia al momento de crear un evento y considera fundamental las invitaciones por medio de redes sociales. Ademas, considera que la compra de entradas son faciles y estan bien implementadas y lo unico que le gustaria añadir es el guardado de informacion de pago para mayor facilidad al momento de comprar entradas. Por otro lado, le gustaria que hubiera estadistica detalla de la participacion e interaccion de las personas que asisten a los eventos para que pueda tomar deciciones mas estrategicas para futuras fechas. Nos indica que la opcion de revender entradas lo considera muy bueno y no cree que el impacto fuese negativo, ya que esto aseguraria que el evento tenga mas asistentes.
+</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://youtu.be/r0Uu0f3oFPU">https://youtu.be/r0Uu0f3oFPU</a></td></tr>
+  </table>  
 
 <h1>CONCLUSIONES</h1>
 <p>Durante el desarrollo del front end para la aplicación de venta de entradas de eventos "MyEvent", se demostró un compromiso sólido con la implementación eficiente y efectiva de soluciones utilizando tecnología Angular. La elección de utilizar fake APIs a través de db.json para simular el comportamiento de las APIs reales fue una estrategia inteligente que permitió un desarrollo ágil y centrado en los requisitos del cliente. Esta decisión también facilitó la colaboración entre los desarrolladores al proporcionar un entorno controlado y predecible para probar y validar el front end.
