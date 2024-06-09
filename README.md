@@ -120,6 +120,9 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
                     <p>Durante el proyecto, logré la corrección de ciertos apartados del informe, además de agregar la tabla de Historias Técnicas que se requería para este entregable. En el apartado de Angular, logré realizar
                     la interfaz de inicio de sesión y de registro, con sus respectivas funcionalidades y almacenamiento de los datos en un json. Coordiné reuniones con mis compañeros para la repartición en el tema de correciones, dando a conocer mis habilidades de coordinación y comunicación con el equipo.
                     </p>
+                <strong>TB2</strong>
+                    <p>Durante el proyecto, logré la corrección de ciertos apartados del Front-end que nos pidieron hacer después de la entrega del TP, En el apartado del Back-end, me encargué de la creación de la tabla User y las peticiones que se podían realizar en el Postman, tanto como Post, Get, Delete y Put. Logré realizar cambios en el informe y organización de reuniones para verificar los procesos de mis compañeros
+                    </p>
                 <li><strong>Luis Mario Gonzales Anaya</strong></li>
                 <p>
                     <strong>TB1</strong>
