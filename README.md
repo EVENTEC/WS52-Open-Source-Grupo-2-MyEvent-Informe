@@ -3091,6 +3091,29 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
     <img src="./imagenes/VI1.png" width="400" height="200">
     <p><strong>Link del video: </strong> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113640_upc_edu_pe/EYxoxcwfW-xGstj_LsHO4OAB-mEsaPiV-p0wKHfwKRk-8w?e=ofvHp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</p>
     <p>Joaquin como organizador de eventos esta satisfecho con MyEvent, encontrando la plataforma fácil de usar y efectiva. Las sugerencias para mejoras incluyen más opciones de personalización, plantillas prediseñadas para eventos y una opción de 'wishlist' para la compra de entradas. La reventa de entradas es vista como una funcionalidad positiva que puede mejorar la asistencia y la gestión de eventos.</p>
+
+
+    <h3>Segmento Comprador de Entradas</h3>
+<h4>Nombre: Nickol Ariana Sandoval</h4>
+<h4>Entrevistador: Piero Jhoynner Muñoz Salcedo</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Femenino</li>
+    <li>Edad: 22 años</li>
+    <li>Ubicación: Cercado de Lima</li>
+  </ul>
+</details><br>
+
+  <table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/foto entrevista A.PNG" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">La entrevistada indica que la plataforma le parecio fabulosa e intuitiva, ademas detallo que el modo de registrarse le parece muy seguro ya que le piden el DNI como medio de registro, ademas le parecio exelente la vista de adquirir membresia premium, ya que los descuentos hacen llamativo a la plataforma web. Indica que al hacer click en un evento le permite ver toda la informacion de esta para convenserse de su compra, ademas nos comenta que le parece facil la adquisicion entradas, ya que los datos que piden son muy pertinentes. Comenta que nunca tuvo la oportunidad de revender una entrada, pero a partir de la experiencia en la plataforma le transmite mas seguridad que hacerlo por sus redes u otros medios. Lo unico que detalla como una imperfeccion es que se coloquen lo precios generales directamente en cada imagen de evento en la pagina de inicio, ya que esto hace que como comprador de entradas se animen por comprar al ver el precio de la entrada pensando que es una vip pero al ingresar a los detalles del evento solo sea para general.
+        
+</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://youtu.be/pt136hPLp-A">https://youtu.be/pt136hPLp-A</a></td></tr>
+  </table>  
     
 <h1>CONCLUSIONES</h1>
 <p>Durante el desarrollo del front end para la aplicación de venta de entradas de eventos "MyEvent", se demostró un compromiso sólido con la implementación eficiente y efectiva de soluciones utilizando tecnología Angular. La elección de utilizar fake APIs a través de db.json para simular el comportamiento de las APIs reales fue una estrategia inteligente que permitió un desarrollo ágil y centrado en los requisitos del cliente. Esta decisión también facilitó la colaboración entre los desarrolladores al proporcionar un entorno controlado y predecible para probar y validar el front end.
