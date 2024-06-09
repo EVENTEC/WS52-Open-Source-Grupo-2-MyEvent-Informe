@@ -15,7 +15,7 @@
 
 ---
 
-## Informe de TP
+## Informe de TB2
 
 ## Grupo 2
 
@@ -37,7 +37,7 @@ Luis Alejandro Zárate Gamarra  - U20181H198
 Alessandro Joaquin Bernardo Eusebio  - U202113640
 
 
-**Abril - 2024** 
+**Junio - 2024** 
 
 </div>
 
@@ -126,6 +126,10 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
                     <strong>TB1</strong>
                     <p>
                         En el proyecto, me encargué de comunicar de forma clara y objetiva conceptos técnicos a audiencias diversas. Esto implicó presentar User Personas, el User Task Matrix y entrevistar a clientes clave. Además, desarrollé Diagramas de Clases y de Base de Datos, demostrando habilidades de comunicación efectiva en un contexto de ingeniería.
+                    </p>
+                    <strong>TB2</strong>
+                    <p>
+                    En el proyecto, me encargué de comunicar de forma clara y objetiva los conceptos técnicos del desarrollo del frontend para la reventa y compra de boletos a audiencias diversas. Esto implicó presentar el diseño de la interfaz de usuario (UI), la experiencia de usuario (UX), y las medidas de seguridad implementadas. Además, desarrollé y expliqué la lógica de los procesos de reventa y compra, demostrando habilidades de comunicación efectiva en un contexto de ingeniería.
                     </p>
                 </p>
                 <li><strong>Piero Jhoynner Muñoz Salcedo</strong></li>
