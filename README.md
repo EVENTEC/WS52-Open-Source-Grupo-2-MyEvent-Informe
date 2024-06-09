@@ -3093,7 +3093,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
     <p>Joaquin como organizador de eventos esta satisfecho con MyEvent, encontrando la plataforma fácil de usar y efectiva. Las sugerencias para mejoras incluyen más opciones de personalización, plantillas prediseñadas para eventos y una opción de 'wishlist' para la compra de entradas. La reventa de entradas es vista como una funcionalidad positiva que puede mejorar la asistencia y la gestión de eventos.</p>
 
 
-    <h3>Segmento Comprador de Entradas</h3>
+   <h3>Segmento Comprador de Entradas</h3>
 <h4>Nombre: Nickol Ariana Sandoval</h4>
 <h4>Entrevistador: Piero Jhoynner Muñoz Salcedo</h4>
 <details>
