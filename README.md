@@ -3227,7 +3227,68 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 <h3>5.2.3.8 Team Collaboration Insights during Sprint</h3>
 <p>Para el trabajo colaborativo nos ayudamos de la herramienta Github y de las ramas y commits que se podían hacer. Además de los merge que unen toda nuestra parte del trabajo.</p>
 <img src="./imagenes/sprint3/insights-sprint3.png">
+<h3>5.2.4 Sprint 4</h3>
 
+<h3>5.2.3.1 Sprint Planning 4</h3>
+<table>
+    <tr>
+      <th>Sprint # </th>
+      <th>Sprint 4 </th>
+    </tr>
+    <tr>
+      <td><strong>Sprint Planning Background</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Date</th>
+      <th>2024/06/20</th>
+    </tr>
+    <tr>
+      <th>Time</th>
+      <th>18:00 PM</th>
+    </tr>
+    <tr>
+      <th>Location</th>
+      <th>Discord</th>
+    </tr>
+    <tr>
+      <th>Prepared by</th>
+      <th>Luis Alejandro, Zárate Gamarra</th>
+    </tr>
+    <tr>
+      <th>Attendess (to planning meeting)</th>
+      <th>Alessandro Joaquin Bernardo Eusebio - u202113640
+        Luis Alejandro, Zárate Gamarra	 - U20181H198
+        Carmelino Dueñas, Michael Stefano	 - U202212760 
+        Gonzales Anaya, Luis Mario	 - u20201C585
+        Piero Jhoynner, Muñoz Salcedo	 - u202224446
+   </th>
+    </tr>
+    <tr>
+      <th>Sprint 3 Review Summary</th>
+      <th>Correcciones realizadas y término del desarrollo de las tareas que corresponden al Sprint 3 </th>
+    </tr>
+    <tr>
+      <th>Sprint 3 Retrospective Summary</th>
+      <th>Nueva delimitacion de User Storys. Escaso tiempo para el desarrollo del backend de todos los US planteados.</th>
+    </tr>
+    <tr>
+      <th>Sprint Goal & User Stories</th>
+      <th></th>
+    </tr>
+    <tr>
+      <th>Sprint 3 Goal</th>
+      <th>Se definieron las Historias de Usuario a considerar, se completó el desarrollo del backend al 100%, se realizó una integración correcta entre el backend y el frontend, y se desplegó el producto final.</th>
+    </tr>
+    <tr>
+      <th>Sprint 3 Velocity</th>
+      <th>2 semanas </th>
+    </tr>
+    <tr>
+      <th>Sum of Story Point</th>
+      <th></th>
+    </tr>
+  </table>
 <h2>5.3 Validation Interviews</h2>
     <h3>5.3.1. Diseño de Entrevistas.</h3>
     <p><strong>Segmento Cliente:</strong></p>
