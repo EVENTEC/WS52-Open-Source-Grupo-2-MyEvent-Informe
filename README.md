@@ -3229,7 +3229,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 <img src="./imagenes/sprint3/insights-sprint3.png">
 <h3>5.2.4 Sprint 4</h3>
 
-<h3>5.2.3.1 Sprint Planning 4</h3>
+<h3>5.2.4.1 Sprint Planning 4</h3>
 <table>
     <tr>
       <th>Sprint # </th>
@@ -3253,7 +3253,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
     </tr>
     <tr>
       <th>Prepared by</th>
-      <th>Luis Alejandro, Zárate Gamarra</th>
+      <th>Piero Jhoynner Muñoz Salcedo</th>
     </tr>
     <tr>
       <th>Attendess (to planning meeting)</th>
@@ -3270,7 +3270,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
     </tr>
     <tr>
       <th>Sprint 3 Retrospective Summary</th>
-      <th>Nueva delimitacion de User Storys. Escaso tiempo para el desarrollo del backend de todos los US planteados.</th>
+      <th>Nueva delimitacion de User Storys. Escaso tiempo para el desarrollo del backend de todos los US planteados en el anterior sprint.</th>
     </tr>
     <tr>
       <th>Sprint Goal & User Stories</th>
@@ -3289,6 +3289,155 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
       <th></th>
     </tr>
   </table>
+   <h3>5.2.4.2 Sprint Backlog 4</h3>
+<p>El principal objetivo de este Sprint es completar al 100% el backend de las US delimitadas para el correcto funcionamiento del producto</p>
+<table>
+    <tr>
+     <th>Sprint #</th>
+     <th>Sprint 2</th>
+   </tr>
+    <tr>
+     <th>User Story</th>
+     <th></th>
+     <th>Work-Item/Task</th>
+   </tr>
+   <tr>
+     <th>Id</th>
+     <th>Title</th>
+     <th>Id</th>
+     <th>Title </th>
+     <th>Description</th>
+     <th>Estimation(Hours)</th>
+     <th>Assigned To</th>
+     <th>Status (To-do / InProcess / ToReview / Done)</th>
+   </tr>
+   <tr>
+     <th>US03</th>
+     <th>Iniciar sesión con una cuenta</th>
+     <th>W-01</th>
+     <th>Validar datos de usuarios en el backend </th>
+     <th>Validación del usuario sea tanto administrador o comprador para el ingreso a la plataforma.
+     <th>2 hours</th>
+     <th>Michael</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th>US08</th>
+     <th>Compra de boletos</th>
+     <th>W-02</th>
+     <th>Validar datos de pago en el backend</th>
+     <th>Validación de datos y pago en el backend para la compra de boletos</th>
+     <th>2 hours</th>
+     <th>Alessandro</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th>US18</th>
+     <th>Crear evento /th>
+     <th>W-03</th>
+     <th>Validar los datos de creación de eventos en el backend</th>
+     <th>Validación de datos en el backend para la creación de eventos
+     <th>2 hours</th>
+     <th>Luis</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th></th>
+     <th></th>
+     <th>W-04</th>
+     <th>Implementar IAM</th>
+     <th>Implementación de IAM para garantizar la seguridad y el control de acceso adecuado a los recursos
+     </th>
+     <th>2 hours</th>
+     <th>Michael</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th></th>
+     <th></th>
+     <th>W-05</th>
+     <th>Integrar y desplegar el Backend y Frontend</th>
+     <th>Desarrollo y Despliegue de Función Integrada (Backend y Frontend)
+     <th>2 hours</th>
+     <th>Luis</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th></th>
+     <th></th>
+     <th>W-06</th>
+     <th>Elaborar la presentación final</th>
+     <th>Elaboración de presentación para la expocición final
+    </th>
+     <th>1 hours</th>
+     <th>Piero</th>
+     <th>Done</th>
+   </tr>
+ 
+   <tr>
+     <th>US-07</th>
+     <th>Visualización de la notificacion de transacción</th>
+     <th>W-06</th>
+     <th>Notificación de transacción</th>
+     <th>Como usuario de la aplicación,
+        Quiero poder recibir y visualizar notificaciones de transacciones,
+        Para estar al tanto de las actualizaciones importantes relacionadas con mis actividades financieras, como pagos realizados, recibidos o cualquier otro tipo de transacción.
+    </th>
+     <th>1 hours</th>
+     <th>Luis</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th>US-08</th>
+     <th>Visualización de la confirmación de la compra del boleto</th>
+     <th>W-06</th>
+     <th>Confirmación de la compra del boleto</th>
+     <th>Como usuario que realiza la compra de un boleto,
+        Quiero poder ver la confirmación de la compra del boleto,
+        Para asegurarme de que la transacción se haya completado con éxito y tener un registro de mi compra.
+        <th>1 hours</th>
+     <th>Mario</th>
+     <th>Done</th>
+   </tr>
+ </table>
+ 
+<h3>5.2.4.3 Development Evidence for Sprint Review</h3>
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Frontend-Final</td>
+        <td>feature/login-register</td>
+        <td>988836a83e60f0373c74a16d4e65b8f7764944f3</td>
+        <td>feat: Implementación para que funcione con el backend</td>
+        <td>Arreglo en el manejo de datos</td>
+        <td>Commits on Jun 8, 2024</td>
+    </tr>
+    <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Frontend-Final</td>
+        <td>feature/contact</td>
+        <td>30e9d005088ed29841f60e3c9a68746360db39c5</td>
+        <td>feat: Cambios en la estructura de la vista - Usuario</td>
+        <td>Reorganizacion de carpetas</td>
+        <td>Commits on May 30, 2024</td>
+    </tr>
+    <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Backend</td>
+        <td>main</td>
+        <td>c33472470b7c2531d0b261984bac7ec876268814</td>
+        <td>feat: Creacion de las entidades event, user y sus respectivos archivos de configuracion</td>
+        <td>Creacion de la backend en general</td>
+        <td>Commits on May 30, 2024</td>
+    </tr>
+</table>
+
+<h3>5.2.4.4 Testin Suite Evidence for Sprint Review</h3>
 <h2>5.3 Validation Interviews</h2>
     <h3>5.3.1. Diseño de Entrevistas.</h3>
     <p><strong>Segmento Cliente:</strong></p>
