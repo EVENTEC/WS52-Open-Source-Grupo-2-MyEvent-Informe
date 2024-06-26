@@ -95,6 +95,21 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
         </td>
         <td>Se replanteó la presentación para la interfaz del cliente siguiendo las pautas deifinidas en la retroalimentación. Asimismo, se desarrolló de forma parcial funciones del backend consumidas directamente en el frontend.</td>
     </tr>
+    <tr>
+        <td><strong>TF</strong></td>
+        <td>26 de junio de 2024</td></td>
+        <td>
+            <ul>
+                <li>Michael Stefano Carmelino Dueñas</li>
+                <li>Piero Jhoynner Muñoz Salcedo</li>
+                <li>Luis Alejandro Zárate Gamarra</li>
+                <li>Alessandro Joaquin Bernardo Eusebio</li>
+
+</ul>
+        </td>
+        <td>Se realizó la implementación final del backend y frontend. Se validaron los bounded context necesarios según el replanteamiento elegido para poder considerar los objetivos principales de calificación.</td>
+    </tr>
+    
 </table>
 <h1 style="color: red;">STUDENT OUTCOME</h1>
 
@@ -153,6 +168,10 @@ En el marco del desarrollo del landing page de MyEvent y la creación de wirefra
                     <p>De acuerdo al objetivo en las etapas de análisis de competidores y desarrollo de estrategias se mantuvo una comunicación efectiva con los diversos usuarios involucrados en las etapas de investigación, análisis y estudio. Asimismo, se presentaron los resultados de forma clara en las secciones de los empathy maps y as-is scenario mapping. </p>
                     <strong>TP</strong>
                     <p>Durante el proyecto, logré comunicar mis ideas y resultados de manera objetiva a diferentes audiencias. En las etapas de corrección, desarrollo, implementación y despliegue mantuve una comunicación efectiva con usuarios de diversas especialidades y niveles jerárquicos. Presenté los resultados de manera clara en secciones como los apartados de visualización principales, adaptándome a las necesidades de cada grupo. Este enfoque contribuyó al éxito general del proyecto.</p>
+                    <strong>TB2</strong>
+                    <p>Durante el proyecto, logré comunicar mis ideas y resultados de manera objetiva a diferentes audiencias. En las etapas de replanteo, desarrollo, implementación y despliegue mantuve una comunicación efectiva con usuarios de diversas especialidades. Presenté los resultados de manera clara en secciones como los apartados de visualización principales, adaptándome a las necesidades de cada grupo. Este enfoque contribuyó al éxito general del proyecto.</p> 
+                    <strong>TF</strong>
+                    <p>En la fase final del desarrollo del proyecto, logré comunicar mis ideas y resultados de manera objetiva a diferentes audiencias. En las etapas de desarrollo, implementación y despliegue; mantuve una comunicación efectiva con usuarios de diversas especialidades. Presenté los resultados de manera clara en secciones como la realización de la logica de negocio para los eventos principales. Este enfoque contribuyó al éxito general del proyecto.</p>                    
                   </p>
                 </li>   
                 <li><strong>Alessandro Joaquin Bernardo Eusebio</strong>
@@ -169,16 +188,21 @@ En el marco del desarrollo del landing page de MyEvent y la creación de wirefra
             </ul>
         </td>
         <td>
-          <p>
-            <strong>TB1</strong>
-              <p>
-                  Nuestro equipo, compuesto por cinco integrantes, se embarcó en un proyecto ambicioso de desarrollo de un producto web utilizando Angular. Para abordar este desafío, llevamos a cabo una exhaustiva investigación con el objetivo de fundamentar de manera sólida la solución planteada al problema identificado. Este proceso de investigación incluyó un análisis detallado de los casos que afectan a dos segmentos clave: los clientes y los organizadores de eventos.
+          <p>        
+            <strong>TF</strong>
 
-Durante el transcurso de nuestra investigación, nos sumergimos en la comprensión de las necesidades y desafíos enfrentados por estos dos segmentos de usuarios. Esto nos permitió obtener una visión integral de los problemas existentes y nos proporcionó la base necesaria para desarrollar una solución efectiva y orientada a satisfacer las demandas de ambos grupos de manera simultánea.
+<p>
+  A lo largo de este proyecto, nuestro equipo, compuesto por cuatro integrantes, se embarcó en el ambicioso desafío de desarrollar un producto web utilizando Angular. Desde el inicio, llevamos a cabo una exhaustiva investigación para fundamentar sólidamente nuestra solución al problema identificado. Este proceso incluyó un análisis detallado de los casos que afectan a dos segmentos clave: los clientes y los organizadores de eventos.
+Nos sumergimos en la comprensión de las necesidades y desafíos enfrentados por estos dos segmentos, lo cual nos permitió obtener una visión integral de los problemas existentes. Esto fue fundamental para desarrollar una solución efectiva y orientada a satisfacer las demandas de ambos grupos de manera simultánea.
 
-Siguiendo las mejores prácticas de desarrollo de software, implementamos un enfoque iterativo y colaborativo en el desarrollo de la solución. Esto implicó la creación de diferentes iteraciones del producto, donde cada versión fue refinada y mejorada en respuesta a los comentarios y las necesidades emergentes de nuestros usuarios
-              </p>
-          </p>
+Siguiendo las mejores prácticas de desarrollo de software, implementamos un enfoque iterativo y colaborativo en el desarrollo de la solución. Esto implicó la creación de diferentes iteraciones del producto, donde cada versión fue refinada y mejorada en respuesta a los comentarios y las necesidades emergentes de nuestros usuarios.
+
+La dedicación y el esfuerzo continuo de nuestro equipo han resultado en un producto que no solo aborda las necesidades iniciales identificadas, sino que también se adapta y evoluciona conforme se presentan nuevos desafíos y oportunidades. Estamos orgullosos de los logros alcanzados y confiamos en que esta experiencia ha fortalecido nuestras habilidades y conocimientos, preparándonos para enfrentar futuros proyectos con la misma determinación y capacidad de adaptación.
+
+Agradecemos el apoyo y la retroalimentación recibida a lo largo de este proyecto, y esperamos que nuestra solución continúe aportando valor tanto a los clientes como a los organizadores de eventos.
+
+</p>
+</p>
         </td>
         <tr>
             <td><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</strong></td>
@@ -202,6 +226,10 @@ En el contexto del proyecto, desempeñé un papel fundamental en la elaboración
                     <p>De acuerdo al objetivo en las etapas de análisis de competidores y desarrollo de estrategias se mantuvo una presentación de la información óptima con los diversos usuarios involucrados en las etapas de investigación, análisis y estudio. Asimismo, se presentaron los resultados escritos de forma clara en las secciones de los empathy maps y as-is scenario mapping.</p>
                     <strong>TP</strong>
 <p>Durante el proyecto, me enfoqué en comunicar mis ideas y resultados de manera objetiva a diversas audiencias. Durante las etapas de corrección, desarrollo, implementación y despliegue, mantuve una comunicación efectiva con usuarios de diferentes especialidades y niveles jerárquicos. Destaqué los resultados de forma clara en secciones clave, como los apartados de visualización principales, adaptándome a las necesidades específicas de cada grupo. Este enfoque contribuyó significativamente al éxito general del proyecto.</p>
+                    <strong>TB2</strong>
+<p>Durante el proyecto, me enfoqué en comunicar mis ideas y resultados de manera objetiva a diversas audiencias. Durante las etapas de replanteo, desarrollo, implementación y despliegue, mantuve una comunicación efectiva con usuarios de diferentes especialidades y niveles jerárquicos. Destaqué los resultados de forma clara en secciones clave, como los apartados de visualización principales, adaptándome a las necesidades específicas de cada grupo. Este enfoque contribuyó significativamente al éxito general del proyecto.</p>
+                    <strong>TF</strong>
+<p>Durante la finalización del proyecto, me enfoqué en comunicar mis ideas y resultados de manera objetiva a diversas audiencias. Durante las etapas de desarrollo, implementación y despliegue, mantuve una comunicación efectiva con usuarios de diferentes especialidades y niveles jerárquicos. Destaqué los resultados de forma clara en secciones clave, como la implementación de la lógica de negocio. Este enfoque contribuyó significativamente al éxito general del proyecto.</p>
 
 </p>
                 </li>
@@ -242,8 +270,19 @@ En el marco del desarrollo del landing page y la creación de mockups, redacté 
         </td>
         <td>
             <p>
-            <strong>TB1</strong>
-              <p>Se realizó una investigación que sustente de forma concreta la solución planteada al problema y se analizaron los casos que afecta a dos segmentos (clientes y organizadores de eventos), de forma simultánea se fue desarrollando la solución y apartados del presente proyecto, manteniendo las buenas prácticas de escritura, presentación y entrega </p>
+            <strong>TF</strong>
+
+<p>
+  A lo largo de este proyecto, nuestro equipo, compuesto por cuatro miembros, asumió el reto de desarrollar un producto web utilizando Angular. Desde el inicio, realizamos una investigación minuciosa para fundamentar de manera sólida nuestra solución al problema identificado. Este proceso incluyó un análisis detallado de los casos que afectan a dos segmentos clave: los clientes y los organizadores de eventos.
+Nos adentramos en la comprensión de las necesidades y desafíos que enfrentan estos dos grupos, lo cual nos permitió obtener una visión completa de los problemas existentes. Esto fue esencial para crear una solución efectiva que satisficiera las demandas de ambos grupos simultáneamente.
+
+Siguiendo las mejores prácticas en el desarrollo de software, adoptamos un enfoque iterativo y colaborativo en el desarrollo de la solución. Esto implicó la creación de diversas iteraciones del producto, en las cuales cada versión fue refinada y mejorada según los comentarios y necesidades emergentes de nuestros usuarios.
+
+La dedicación y el esfuerzo continuo de nuestro equipo han dado como resultado un producto que no solo aborda las necesidades iniciales identificadas, sino que también se adapta y evoluciona conforme surgen nuevos desafíos y oportunidades. Estamos orgullosos de los logros alcanzados y creemos que esta experiencia ha fortalecido nuestras habilidades y conocimientos, preparándonos para futuros proyectos con la misma determinación y capacidad de adaptación.
+
+Agradecemos el apoyo y la retroalimentación recibida a lo largo de este proyecto, y esperamos que nuestra solución continúe aportando valor tanto a los clientes como a los organizadores de eventos.
+
+</p>
             </p>
 </table>
 
@@ -3229,7 +3268,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 <img src="./imagenes/sprint3/insights-sprint3.png">
 <h3>5.2.4 Sprint 4</h3>
 
-<h3>5.2.4.1 Sprint Planning 4</h3>
+<h3>5.2.3.1 Sprint Planning 4</h3>
 <table>
     <tr>
       <th>Sprint # </th>
@@ -3253,7 +3292,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
     </tr>
     <tr>
       <th>Prepared by</th>
-      <th>Piero Jhoynner Muñoz Salcedo</th>
+      <th>Luis Alejandro, Zárate Gamarra</th>
     </tr>
     <tr>
       <th>Attendess (to planning meeting)</th>
@@ -3270,7 +3309,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
     </tr>
     <tr>
       <th>Sprint 3 Retrospective Summary</th>
-      <th>Nueva delimitacion de User Storys. Escaso tiempo para el desarrollo del backend de todos los US planteados en el anterior sprint.</th>
+      <th>Nueva delimitacion de User Storys. Escaso tiempo para el desarrollo del backend de todos los US planteados.</th>
     </tr>
     <tr>
       <th>Sprint Goal & User Stories</th>
@@ -3289,155 +3328,6 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
       <th></th>
     </tr>
   </table>
-   <h3>5.2.4.2 Sprint Backlog 4</h3>
-<p>El principal objetivo de este Sprint es completar al 100% el backend de las US delimitadas para el correcto funcionamiento del producto</p>
-<table>
-    <tr>
-     <th>Sprint #</th>
-     <th>Sprint 2</th>
-   </tr>
-    <tr>
-     <th>User Story</th>
-     <th></th>
-     <th>Work-Item/Task</th>
-   </tr>
-   <tr>
-     <th>Id</th>
-     <th>Title</th>
-     <th>Id</th>
-     <th>Title </th>
-     <th>Description</th>
-     <th>Estimation(Hours)</th>
-     <th>Assigned To</th>
-     <th>Status (To-do / InProcess / ToReview / Done)</th>
-   </tr>
-   <tr>
-     <th>US03</th>
-     <th>Iniciar sesión con una cuenta</th>
-     <th>W-01</th>
-     <th>Validar datos de usuarios en el backend </th>
-     <th>Validación del usuario sea tanto administrador o comprador para el ingreso a la plataforma.
-     <th>2 hours</th>
-     <th>Michael</th>
-     <th>Done</th>
-   </tr>
-   <tr>
-     <th>US08</th>
-     <th>Compra de boletos</th>
-     <th>W-02</th>
-     <th>Validar datos de pago en el backend</th>
-     <th>Validación de datos y pago en el backend para la compra de boletos</th>
-     <th>2 hours</th>
-     <th>Alessandro</th>
-     <th>Done</th>
-   </tr>
-   <tr>
-     <th>US18</th>
-     <th>Crear evento /th>
-     <th>W-03</th>
-     <th>Validar los datos de creación de eventos en el backend</th>
-     <th>Validación de datos en el backend para la creación de eventos
-     <th>2 hours</th>
-     <th>Luis</th>
-     <th>Done</th>
-   </tr>
-   <tr>
-     <th></th>
-     <th></th>
-     <th>W-04</th>
-     <th>Implementar IAM</th>
-     <th>Implementación de IAM para garantizar la seguridad y el control de acceso adecuado a los recursos
-     </th>
-     <th>2 hours</th>
-     <th>Michael</th>
-     <th>Done</th>
-   </tr>
-   <tr>
-     <th></th>
-     <th></th>
-     <th>W-05</th>
-     <th>Integrar y desplegar el Backend y Frontend</th>
-     <th>Desarrollo y Despliegue de Función Integrada (Backend y Frontend)
-     <th>2 hours</th>
-     <th>Luis</th>
-     <th>Done</th>
-   </tr>
-   <tr>
-     <th></th>
-     <th></th>
-     <th>W-06</th>
-     <th>Elaborar la presentación final</th>
-     <th>Elaboración de presentación para la expocición final
-    </th>
-     <th>1 hours</th>
-     <th>Piero</th>
-     <th>Done</th>
-   </tr>
- 
-   <tr>
-     <th>US-07</th>
-     <th>Visualización de la notificacion de transacción</th>
-     <th>W-06</th>
-     <th>Notificación de transacción</th>
-     <th>Como usuario de la aplicación,
-        Quiero poder recibir y visualizar notificaciones de transacciones,
-        Para estar al tanto de las actualizaciones importantes relacionadas con mis actividades financieras, como pagos realizados, recibidos o cualquier otro tipo de transacción.
-    </th>
-     <th>1 hours</th>
-     <th>Luis</th>
-     <th>Done</th>
-   </tr>
-   <tr>
-     <th>US-08</th>
-     <th>Visualización de la confirmación de la compra del boleto</th>
-     <th>W-06</th>
-     <th>Confirmación de la compra del boleto</th>
-     <th>Como usuario que realiza la compra de un boleto,
-        Quiero poder ver la confirmación de la compra del boleto,
-        Para asegurarme de que la transacción se haya completado con éxito y tener un registro de mi compra.
-        <th>1 hours</th>
-     <th>Mario</th>
-     <th>Done</th>
-   </tr>
- </table>
- 
-<h3>5.2.4.3 Development Evidence for Sprint Review</h3>
-<table>
-    <tr>
-        <td>Repository</td>
-        <td>Branch</td>
-        <td>Commit Id</td>
-        <td>Commit Message</td>
-        <td>Commit Message Body</td>
-        <td>Commited on (Date)</td>
-    </tr>
-    <tr>
-        <td>WS52-Open-Source-Grupo-2-MyEvent-Frontend-Final</td>
-        <td>feature/login-register</td>
-        <td>988836a83e60f0373c74a16d4e65b8f7764944f3</td>
-        <td>feat: Implementación para que funcione con el backend</td>
-        <td>Arreglo en el manejo de datos</td>
-        <td>Commits on Jun 8, 2024</td>
-    </tr>
-    <tr>
-        <td>WS52-Open-Source-Grupo-2-MyEvent-Frontend-Final</td>
-        <td>feature/contact</td>
-        <td>30e9d005088ed29841f60e3c9a68746360db39c5</td>
-        <td>feat: Cambios en la estructura de la vista - Usuario</td>
-        <td>Reorganizacion de carpetas</td>
-        <td>Commits on May 30, 2024</td>
-    </tr>
-    <tr>
-        <td>WS52-Open-Source-Grupo-2-MyEvent-Backend</td>
-        <td>main</td>
-        <td>c33472470b7c2531d0b261984bac7ec876268814</td>
-        <td>feat: Creacion de las entidades event, user y sus respectivos archivos de configuracion</td>
-        <td>Creacion de la backend en general</td>
-        <td>Commits on May 30, 2024</td>
-    </tr>
-</table>
-
-<h3>5.2.4.4 Testin Suite Evidence for Sprint Review</h3>
 <h2>5.3 Validation Interviews</h2>
     <h3>5.3.1. Diseño de Entrevistas.</h3>
     <p><strong>Segmento Cliente:</strong></p>
