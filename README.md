@@ -3060,7 +3060,6 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
         <td>Commits on May 30, 2024</td>
     </tr>
 </table>
-
 <h3>5.2.3.4 Testin Suite Evidence for Sprint Review</h3>
 
 <h3>5.2.3.5 Execution Evidence for Sprint Review</h3>
@@ -3290,7 +3289,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
     </tr>
   </table>
    <h3>5.2.4.2 Sprint Backlog 4</h3>
-<p>El principal objetivo de este Sprint es completar al 100% el backend de las US delimitadas para el correcto funcionamiento del producto</p>
+<p>El principal objetivo de este Sprint es completar al 100% el backend de las US delimitadas para el correcto funcionamiento del producto.</p>
 <table>
     <tr>
      <th>Sprint #</th>
@@ -3333,7 +3332,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
    </tr>
    <tr>
      <th>US18</th>
-     <th>Crear evento /th>
+     <th>Crear evento </th>
      <th>W-03</th>
      <th>Validar los datos de creación de eventos en el backend</th>
      <th>Validación de datos en el backend para la creación de eventos
@@ -3402,6 +3401,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
  </table>
  
 <h3>5.2.4.3 Development Evidence for Sprint Review</h3>
+<p>Los principales avances fueron la elaboración del backend en su totalidad, junto a los endpoints respectivos.</p>
 <table>
     <tr>
         <td>Repository</td>
@@ -3413,30 +3413,29 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
     </tr>
     <tr>
         <td>WS52-Open-Source-Grupo-2-MyEvent-Frontend-Final</td>
-        <td>feature/login-register</td>
+        <td>main</td>
         <td>988836a83e60f0373c74a16d4e65b8f7764944f3</td>
-        <td>feat: Implementación para que funcione con el backend</td>
-        <td>Arreglo en el manejo de datos</td>
-        <td>Commits on Jun 8, 2024</td>
+        <td>feat: Creación de la entidad user y sus archivos de configuración, junto a la integración del IAM</td>
+        <td>Creacion del backend de validacion de usuarios</td>
+        <td>Commits on Jun 25, 2024</td>
     </tr>
     <tr>
         <td>WS52-Open-Source-Grupo-2-MyEvent-Frontend-Final</td>
-        <td>feature/contact</td>
+        <td>main</td>
         <td>30e9d005088ed29841f60e3c9a68746360db39c5</td>
-        <td>feat: Cambios en la estructura de la vista - Usuario</td>
-        <td>Reorganizacion de carpetas</td>
-        <td>Commits on May 30, 2024</td>
+        <td>feat: Creación de la entidad compra</td>
+        <td>Creacion del backend de validación de compra</td>
+        <td>Commits on Jun 25, 2024</td>
     </tr>
     <tr>
         <td>WS52-Open-Source-Grupo-2-MyEvent-Backend</td>
         <td>main</td>
         <td>c33472470b7c2531d0b261984bac7ec876268814</td>
-        <td>feat: Creacion de las entidades event, user y sus respectivos archivos de configuracion</td>
-        <td>Creacion de la backend en general</td>
-        <td>Commits on May 30, 2024</td>
+        <td>feat: Creacion de la entidad event y sus archivos de configuracion</td>
+        <td>Creacion del backend de validación de eventos</td>
+        <td>Commits on Jun 25, 2024</td>
     </tr>
 </table>
-
 <h3>5.2.4.4 Testin Suite Evidence for Sprint Review</h3>
 <h2>5.3 Validation Interviews</h2>
     <h3>5.3.1. Diseño de Entrevistas.</h3>
