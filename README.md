@@ -3486,7 +3486,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 </table>
 <h3>5.2.4.4 Testin Suite Evidence for Sprint Review</h3>
 
-<h3>5.2.3.5 Execution Evidence for Sprint Review</h3>
+<h3>5.2.4.5 Execution Evidence for Sprint Review</h3>
 <img src="./imagenes/sprint3/1.png">
 <img src="./imagenes/sprint3/2.png">
 <img src="./imagenes/sprint3/3.png">
@@ -3503,7 +3503,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 <img src="./imagenes/sprint3/14.png">
 <img src="./imagenes/sprint3/15.png">
 <img src="./imagenes/sprint3/16.png">
-<h3>5.2.3.6 Services Documentation Evidence for Sprint Review</h3>
+<h3>5.2.4.6 Services Documentation Evidence for Sprint Review</h3>
 
 <table>
   <thead>
@@ -3959,7 +3959,7 @@ Similar al problema de compra de suscripción, en la zona de renovación de susc
 <img src="./imagenes/sprint3/Compra.PNG">
 <p>Recomendación:<br>
 Corregir el proceso de validación de números de tarjeta en la zona de renovación de suscripción, asegurándose de que se acepten correctamente tarjetas de débito y crédito válidas. Realizar pruebas para asegurar la funcionalidad y proporcionar mensajes de error claros y útiles para guiar a los usuarios en caso de problemas.</p>
-
+<h3>5.4 Video About-the-Product</h3>
     
 <h1>CONCLUSIONES</h1>
 <p>Durante el desarrollo del front end para la aplicación de venta de entradas de eventos "MyEvent", se demostró un compromiso sólido con la implementación eficiente y efectiva de soluciones utilizando tecnología Angular. La elección de utilizar fake APIs a través de db.json para simular el comportamiento de las APIs reales fue una estrategia inteligente que permitió un desarrollo ágil y centrado en los requisitos del cliente. Esta decisión también facilitó la colaboración entre los desarrolladores al proporcionar un entorno controlado y predecible para probar y validar el front end.
@@ -3968,7 +3968,9 @@ El uso de Angular como framework de desarrollo web permitió la creación de una
 
 En resumen, el proyecto de desarrollo del front end para la aplicación de venta de entradas de eventos "MyEvent" fue un éxito gracias a la combinación de tecnología Angular y la implementación inteligente de fake APIs. Esta experiencia no solo demostró la capacidad del equipo para adaptarse y aprovechar las herramientas disponibles de manera efectiva, sino que también sentó las bases para futuros proyectos de desarrollo web con un enfoque similar.
 
-En el mismo tenor de éxito que se logró en el desarrollo del front end, la creación e implementación del backend para la aplicación "MyEvent" fue igualmente notable. Utilizando JPA (Java Persistence API), se estableció una base de datos robusta y eficiente que gestionó de manera efectiva la persistencia de datos y las operaciones CRUD (Crear, Leer, Actualizar, Borrar). El uso de JPA no solo facilitó la implementación de características críticas, como la gestión de usuarios y el seguimiento de eventos, sino que también aseguró que la aplicación fuera escalable y preparada para futuras expansiones.</p>
+En el mismo tenor de éxito que se logró en el desarrollo del front end, la creación e implementación del backend para la aplicación "MyEvent" fue igualmente notable. Utilizando JPA (Java Persistence API), se estableció una base de datos robusta y eficiente que gestionó de manera efectiva la persistencia de datos y las operaciones CRUD (Crear, Leer, Actualizar, Borrar). El uso de JPA no solo facilitó la implementación de características críticas, como la gestión de usuarios y el seguimiento de eventos, sino que también aseguró que la aplicación fuera escalable y preparada para futuras expansiones.
+
+En conclusion, el equipo demostró una exelente comunicación y coordialidad durante lo largo del proyecto, en la documentación se vió reflejado la objetividad y claridad, tanto como en el despliegue del sistema de gestion de identidades y accesos(IAM) para las funcionalidades de login y sign up, como en la implementación del backend y su integración con el frontend. </p>
 <h1>ANEXOS</h1>
 <ul>
     <li>Marches Parra, J., & Granados Romero, A. (2022). Plataforma de compra y venta de entradas para eventos integrada en la tecnología blockchain. [Trabajo final de grado, Grau en Enginyeria Informàtica (Pla 2018), Escola Politècnica Superior d'Enginyeria de Vilanova i la Geltrú]. Universitat Politècnica de Catalunya. http://hdl.handle.net/2117/378090</li>
