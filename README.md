@@ -3855,6 +3855,9 @@ En el mismo tenor de éxito que se logró en el desarrollo del front end, la cre
 
 En conclusion, el equipo demostró una exelente comunicación y coordialidad durante lo largo del proyecto, en la documentación se vió reflejado la objetividad y claridad, tanto como en el despliegue del sistema de gestion de identidades y accesos(IAM) para las funcionalidades de login y sign up, como en la implementación del backend y su integración con el frontend. </p>
 <h1>Video About-the-Team</h1>
+<p>En resumen, el grupo evidenció una adecuada coordialidad y comunicación conjunta, lo cual permitió llegar exitosamente a la etapa final del proyecto a pesar de contar con inconvenientes por incumplimientos por parte de algunos integrantes. Ademas, un aspecto a tomar en cuenta es la falta de consulta por parte de los integrantes del equipo en cuanto a los frameworks y diversas herramientas que se usaron durante el desarrollo del proyecto, el cual llevo al replanteo del proyecto de cara a la entrega final. Sin embargo, esto sin duda nos sirvirá como aprendizaje para entregas futuras. </p>
+ <td><img src="./imagenes/about-the-team.PNG" alt="Descripción de la imagen"></td>
+    <td>Link del video: <a href="https://www.youtube.com/watch?v=k4VuP4pdqqo">https://www.youtube.com/watch?v=k4VuP4pdqqo</a></td>
 <h1>ANEXOS</h1>
 <ul>
     <li>Marches Parra, J., & Granados Romero, A. (2022). Plataforma de compra y venta de entradas para eventos integrada en la tecnología blockchain. [Trabajo final de grado, Grau en Enginyeria Informàtica (Pla 2018), Escola Politècnica Superior d'Enginyeria de Vilanova i la Geltrú]. Universitat Politècnica de Catalunya. http://hdl.handle.net/2117/378090</li>
