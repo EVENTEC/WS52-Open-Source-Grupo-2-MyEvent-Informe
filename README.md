@@ -3641,8 +3641,9 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 <img src="./imagenes/sprint3/SoftwareDeploymentEvidence.png">
 
 <h3>5.2.4.8 Team Collaboration Insights during Sprint</h3>
-<p>Para el trabajo colaborativo nos ayudamos de la herramienta Github y de las ramas y commits que se podían hacer. Además de los merge que unen toda nuestra parte del trabajo.</p>
-<img src="./imagenes/sprint3/insights-sprint3.png">
+<p>Para el trabajo colaborativo nos ayudamos de la herramienta Github y de las ramas y commits que se podían hacer. Además de los merge que unen toda nuestra parte del trabajo, tanto en el backend como en el frontend.</p>
+<img src="./imagenes/sprint3/git 1.PNG">
+<img src="./imagenes/sprint3/git 2.PNG">
 
 
 <h2>5.3 Validation Interviews</h2>
