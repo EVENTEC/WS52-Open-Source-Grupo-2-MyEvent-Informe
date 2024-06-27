@@ -3481,6 +3481,170 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
     </tr>
 </table>
 <h3>5.2.4.4 Testin Suite Evidence for Sprint Review</h3>
+
+<h3>5.2.3.5 Execution Evidence for Sprint Review</h3>
+<img src="./imagenes/sprint3/1.png">
+<img src="./imagenes/sprint3/2.png">
+<img src="./imagenes/sprint3/3.png">
+<img src="./imagenes/sprint3/4.png">
+<img src="./imagenes/sprint3/5.png">
+<img src="./imagenes/sprint3/6.png">
+<img src="./imagenes/sprint3/7.png">
+<img src="./imagenes/sprint3/8.png">
+<img src="./imagenes/sprint3/9.png">
+<img src="./imagenes/sprint3/10.png">
+<img src="./imagenes/sprint3/11.png">
+<img src="./imagenes/sprint3/12.png">
+<img src="./imagenes/sprint3/13.png">
+<img src="./imagenes/sprint3/14.png">
+<img src="./imagenes/sprint3/15.png">
+<img src="./imagenes/sprint3/16.png">
+<h3>5.2.3.6 Services Documentation Evidence for Sprint Review</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Verbo HTTP</th>
+      <th>Enlace</th>
+      <th>Parámetros</th>
+      <th>Response</th>
+      <th>Explicación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/api/v1/users/1</td>
+      <td>GET</td>
+      <td><a href="http://localhost:8080/api/v1/users/1">http://localhost:8080/api/v1/users/1</a></td>
+      <td>N/A</td>
+      <td>{"id": 1, "name": "John Doe", "email": "john.doe@example.com"}</td>
+      <td>Obtiene el usuario por ID</td>
+    </tr>
+    <tr>
+      <td>/api/v1/users/correo/ianpe@example.com</td>
+      <td>GET</td>
+      <td><a href="http://localhost:8080/api/v1/users/correo/ianpe@example.com">http://localhost:8080/api/v1/users/correo/ianpe@example.com</a></td>
+      <td>N/A</td>
+      <td>{"id": 2, "name": "Ian Perez", "email": "ianpe@example.com"}</td>
+      <td>Obtiene el usuario por correo</td>
+    </tr>
+    <tr>
+      <td>/api/v1/users/name/Emily/surname/Davis</td>
+      <td>GET</td>
+      <td><a href="http://localhost:8080/api/v1/users/name/Emily/surname/Davis">http://localhost:8080/api/v1/users/name/Emily/surname/Davis</a></td>
+      <td>N/A</td>
+      <td>{"id": 3, "name": "Emily Davis", "email": "emily.davis@example.com"}</td>
+      <td>Obtiene el usuario por nombre y apellido</td>
+    </tr>
+    <tr>
+      <td>/api/v1/users</td>
+      <td>GET</td>
+      <td><a href="http://localhost:8080/api/v1/users">http://localhost:8080/api/v1/users</a></td>
+      <td>N/A</td>
+      <td>[{"id": 1, "name": "John Doe", "email": "john.doe@example.com"}, {"id": 2, "name": "Ian Perez", "email": "ianpe@example.com"}]</td>
+      <td>Obtiene todos los usuarios</td>
+    </tr>
+    <tr>
+      <td>/correo/ianpe@example.2</td>
+      <td>DELETE</td>
+      <td><a href="http://localhost:8080/correo/ianpe@example.2">http://localhost:8080/correo/ianpe@example.2</a></td>
+      <td>{"name": "Ian Perez", "password": "examplePassword"}</td>
+      <td>{"message": "Usuario eliminado exitosamente"}</td>
+      <td>Elimina el usuario por nombre y contraseña</td>
+    </tr>
+    <tr>
+      <td>/api/v1/users/change-password/3/emilyfddfdavis@example.com</td>
+      <td>PUT</td>
+      <td><a href="http://localhost:8080/api/v1/users/change-password/3/emilyfddfdavis@example.com">http://localhost:8080/api/v1/users/change-password/3/emilyfddfdavis@example.com</a></td>
+      <td>{"password": "nuevaContra2"}</td>
+      <td>{"message": "Contraseña actualizada exitosamente"}</td>
+      <td>Actualiza la contraseña por ID y correo</td>
+    </tr>
+    <tr>
+      <td>/api/v1/users/change-name/9/jesus@gmail.com</td>
+      <td>PUT</td>
+      <td><a href="http://localhost:8080/api/v1/users/change-name/9/jesus@gmail.com">http://localhost:8080/api/v1/users/change-name/9/jesus@gmail.com</a></td>
+      <td>{"password": "huawei", "name": "Enrique"}</td>
+      <td>{"message": "Nombre actualizado exitosamente"}</td>
+      <td>Cambia el nombre del usuario</td>
+    </tr>
+    <tr>
+      <td>/api/v1/events/create</td>
+      <td>POST</td>
+      <td><a href="http://localhost:8080/api/v1/events/create">http://localhost:8080/api/v1/events/create</a></td>
+      <td>
+        {"name": "Concierto de Rock", "date": "2024-06-15", "organizer": "Rock Productions", "location": "Estadio Central", "resale": true, "description": "¡Ven y disfruta de una noche llena de música rockera!", "price": 25.99, "capacity": 1000, "image": "https://ejemplo.com/imagen.jpg", "category": "Conciertos", "eventApiKey": "tu_clave_de_API"}
+      </td>
+      <td>{"message": "Evento creado exitosamente"}</td>
+      <td>Inserta un nuevo evento</td>
+    </tr>
+    <tr>
+      <td>/api/v1/events</td>
+      <td>GET</td>
+      <td><a href="http://localhost:8080/api/v1/events">http://localhost:8080/api/v1/events</a></td>
+      <td>N/A</td>
+      <td>
+        [
+          {"id": 1, "name": "Concierto de Rock", "date": "2024-06-15", "organizer": "Rock Productions", "location": "Estadio Central"},
+          {"id": 2, "name": "Festival de Jazz", "date": "2024-07-10", "organizer": "Jazz Fest", "location": "Parque Central"}
+        ]
+      </td>
+      <td>Obtiene todos los eventos</td>
+    </tr>
+    <tr>
+      <td>/api/v1/events/name/Concierto de Rock</td>
+      <td>GET</td>
+      <td><a href="http://localhost:8080/api/v1/events/name/Concierto%20de%20Rock">http://localhost:8080/api/v1/events/name/Concierto%20de%20Rock</a></td>
+      <td>N/A</td>
+      <td>{"id": 1, "name": "Concierto de Rock", "date": "2024-06-15", "organizer": "Rock Productions", "location": "Estadio Central"}</td>
+      <td>Obtiene evento por nombre</td>
+    </tr>
+    <tr>
+      <td>/api/v1/events/name/Concierto de Rock/organizer/Rock Productions</td>
+      <td>GET</td>
+      <td><a href="http://localhost:8080/api/v1/events/name/Concierto%20de%20Rock/organizer/Rock%20Productions">http://localhost:8080/api/v1/events/name/Concierto%20de%20Rock/organizer/Rock%20Productions</a></td>
+      <td>N/A</td>
+      <td>{"id": 1, "name": "Concierto de Rock", "date": "2024-06-15", "organizer": "Rock Productions", "location": "Estadio Central"}</td>
+      <td>Obtiene evento por nombre y organizador</td>
+    </tr>
+    <tr>
+      <td>/api/v1/events/3</td>
+      <td>DELETE</td>
+      <td><a href="http://localhost:8080/api/v1/events/3">http://localhost:8080/api/v1/events/3</a></td>
+      <td>N/A</td>
+      <td>{"message": "Evento eliminado exitosamente"}</td>
+      <td>Elimina el evento por ID</td>
+    </tr>
+    <tr>
+      <td>/api/v1/events/6</td>
+      <td>PUT</td>
+      <td><a href="http://localhost:8080/api/v1/events/6">http://localhost:8080/api/v1/events/6</a></td>
+      <td>
+        {"name": "Concierto de Rock Actualizado", "date": "2024-06-20", "organizer": "Rock Productions Actualizado", "location": "Estadio Central Actualizado", "resale": false, "description": "¡Ven y disfruta de una noche llena de música rockera actualizada!", "price": 35.99, "capacity": 1500, "image": "https://ejemplo.com/imagen_actualizada.jpg", "category": "Conciertos Actualizados", "eventApiKey": "tu_clave_de_API_actualizada"}
+      </td>
+      <td>{"message": "Evento actualizado exitosamente"}</td>
+      <td>Actualiza un evento</td>
+    </tr>
+    <tr>
+      <td>/new-request</td>
+      <td>GET</td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>{"message": "Nueva solicitud realizada exitosamente"}</td>
+      <td>Nueva solicitud</td>
+    </tr>
+  </tbody>
+</table>
+<h3>5.2.4.7 Software Deployment Evidence for Sprint Review</h3>
+<p>Hemos deployeado nuestra base de datos y logramos hacer un post dentro de la base de datos deployeada.</p>
+<img src="./imagenes/sprint3/SoftwareDeploymentEvidence.png">
+
+<h3>5.2.4.8 Team Collaboration Insights during Sprint</h3>
+<p>Para el trabajo colaborativo nos ayudamos de la herramienta Github y de las ramas y commits que se podían hacer. Además de los merge que unen toda nuestra parte del trabajo.</p>
+<img src="./imagenes/sprint3/insights-sprint3.png">
+
+
 <h2>5.3 Validation Interviews</h2>
     <h3>5.3.1. Diseño de Entrevistas.</h3>
     <p><strong>Segmento Cliente:</strong></p>
