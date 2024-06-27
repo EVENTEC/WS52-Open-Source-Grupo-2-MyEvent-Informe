@@ -3601,7 +3601,7 @@ Además, Rodrigo ha mencionado la importancia de incorporar una función de reve
     <tr>
         <td><img src="./imagenes/entrevista 6.PNG" alt="Descripción de la imagen"></td>
     </tr>
-    <tr><td class="justificado">El entrevistado comenta que la plataforma le parece algo innovador y con exelente diseño, tambien comenta que le resulta facil iniciar sesion como cualquier otra pagina.Ademas, indica que le parece bien que le informen sobre los beneficios adicionales por subscripcion. Comenta que puede acceder intuitivamente a la informacion y a la compra relacionado al evento que desea asistir. Nos cuenta que no ah pasado por la necesidad de transferir alguna de sus entradas pero en caso sucede qusiera que fuese de la manera mas segura. Por ultimo, comento que si bien no encuentra fallas, le gustaria que la plataforma tenga un modo nocturno u otro color de fondo.
+    <tr><td class="justificado">El entrevistado comenta que la plataforma le parece algo innovador y con exelente diseño, tambien comenta que le resulta facil iniciar sesion como cualquier otra pagina. Ademas, indica que le parece bien que le informen sobre los beneficios adicionales por subscripcion. Comenta que puede acceder intuitivamente a la informacion y a la compra relacionado al evento que desea asistir. Nos cuenta que no ha pasado por la necesidad de transferir alguna de sus entradas pero en caso suceda quisiera que fuese de la manera mas segura. Por ultimo, comentó que si bien no encuentra fallas en la plataforma, le gustaría que tenga un modo nocturno u otro color de fondo.
         
 </td></tr>
     <tr><td>Link de la entrevista: <a href="https://youtu.be/HSkimzoH1ag">https://youtu.be/HSkimzoH1ag</a></td></tr>
