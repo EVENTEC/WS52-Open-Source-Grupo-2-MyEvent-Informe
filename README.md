@@ -2101,7 +2101,8 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
 <h2>4.8 Database Design</h2>
 <h3>4.8.1 Database Diagram</h3>
 <img src="./imagenes/DiagramaBaseDatos2.png"/>
-    
+<p>Base de datos reestructurado:</p>
+<img src="./imagenes/base de datos.jpeg"/>
 <h1>CAPÍTULO V: PRODUCT IMPLEMENTATION</h1>
 <h2>5.1 Software Configuration Management</h2>
 <h3>5.1.1 Software Development Environment Configuration</h3>
