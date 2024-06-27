@@ -3333,7 +3333,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
     </tr>
     <tr>
       <th>Sum of Story Point</th>
-      <th></th>
+      <th>5</th>
     </tr>
   </table>
   <h3>5.2.4.2 Sprint Backlog 4</h3>
@@ -3418,32 +3418,6 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
     </th>
      <th>1 hours</th>
      <th>Piero</th>
-     <th>Done</th>
-   </tr>
- 
-   <tr>
-     <th>US-07</th>
-     <th>Visualización de la notificacion de transacción</th>
-     <th>W-06</th>
-     <th>Notificación de transacción</th>
-     <th>Como usuario de la aplicación,
-        Quiero poder recibir y visualizar notificaciones de transacciones,
-        Para estar al tanto de las actualizaciones importantes relacionadas con mis actividades financieras, como pagos realizados, recibidos o cualquier otro tipo de transacción.
-    </th>
-     <th>1 hours</th>
-     <th>Luis</th>
-     <th>Done</th>
-   </tr>
-   <tr>
-     <th>US-08</th>
-     <th>Visualización de la confirmación de la compra del boleto</th>
-     <th>W-06</th>
-     <th>Confirmación de la compra del boleto</th>
-     <th>Como usuario que realiza la compra de un boleto,
-        Quiero poder ver la confirmación de la compra del boleto,
-        Para asegurarme de que la transacción se haya completado con éxito y tener un registro de mi compra.
-        <th>1 hours</th>
-     <th>Mario</th>
      <th>Done</th>
    </tr>
  </table>
@@ -3533,7 +3507,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
   </tbody>
 </table>
 <h3>5.2.4.7 Software Deployment Evidence for Sprint Review</h3>
-<p>Hemos deployeado nuestra base de datos y logramos hacer un post dentro de la base de datos deployeada.</p>
+<p>Hemos deployeado con exito nustra version final de backend integrado al frontend, logrando ...</p>
 <img src="./imagenes/sprint3/SoftwareDeploymentEvidence.png">
 
 <h3>5.2.4.8 Team Collaboration Insights during Sprint</h3>
@@ -3863,6 +3837,7 @@ En resumen, el proyecto de desarrollo del front end para la aplicación de venta
 En el mismo tenor de éxito que se logró en el desarrollo del front end, la creación e implementación del backend para la aplicación "MyEvent" fue igualmente notable. Utilizando JPA (Java Persistence API), se estableció una base de datos robusta y eficiente que gestionó de manera efectiva la persistencia de datos y las operaciones CRUD (Crear, Leer, Actualizar, Borrar). El uso de JPA no solo facilitó la implementación de características críticas, como la gestión de usuarios y el seguimiento de eventos, sino que también aseguró que la aplicación fuera escalable y preparada para futuras expansiones.
 
 En conclusion, el equipo demostró una exelente comunicación y coordialidad durante lo largo del proyecto, en la documentación se vió reflejado la objetividad y claridad, tanto como en el despliegue del sistema de gestion de identidades y accesos(IAM) para las funcionalidades de login y sign up, como en la implementación del backend y su integración con el frontend. </p>
+<h1>Video About-the-Product</h1>
 <h1>ANEXOS</h1>
 <ul>
     <li>Marches Parra, J., & Granados Romero, A. (2022). Plataforma de compra y venta de entradas para eventos integrada en la tecnología blockchain. [Trabajo final de grado, Grau en Enginyeria Informàtica (Pla 2018), Escola Politècnica Superior d'Enginyeria de Vilanova i la Geltrú]. Universitat Politècnica de Catalunya. http://hdl.handle.net/2117/378090</li>
