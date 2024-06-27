@@ -3534,7 +3534,31 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 </td></tr>
     <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=zWS4qhYYFmY">https://www.youtube.com/watch?v=zWS4qhYYFmY</a></td></tr>
   </table>  
-    <h4>Segmento Organizador de eventos</h4>
+
+<h4>Nombre: Rodrigo Quispe</h4>
+<h4>Entrevistador: Michael Stefano Carmelino Dueñas</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 20 años</li>
+    <li>Ubicación: Cercado de Lima</li>
+  </ul>
+</details><br>
+
+  <table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/rodrigo.png" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado"> Rodrigo ha expresado una opinión favorable sobre la plataforma, destacando su intuición y facilidad de uso, así como la variedad de opciones disponibles para crear eventos únicos. Sin embargo, también ha señalado áreas de mejora, como la visualización de estadísticas relacionadas con la participación en los eventos. Considera que contar con datos más detallados y análisis en tiempo real podría ofrecer a los organizadores una mejor perspectiva sobre el rendimiento de sus eventos y la satisfacción de los asistentes.
+
+Además, Rodrigo ha mencionado la importancia de incorporar una función de reventa de entradas en la plataforma. Esta característica podría impactar positivamente en la gestión de entradas para los eventos organizados, al permitir a los usuarios revender o transferir sus entradas de manera segura y conveniente. Rodrigo sugiere que esta opción podría incrementar la asistencia a los eventos al facilitar a los asistentes la posibilidad de compartir sus entradas con amigos o revenderlas en caso de imprevistos. En resumen, Rodrigo valora la plataforma pero considera que mejoras en estos aspectos podrían potenciar su utilidad para los organizadores.
+</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=fdC4Wm_SxVw">https://www.youtube.com/watch?v=fdC4Wm_SxVw</a></td></tr>
+  </table>  
+
+  
+<h4>Segmento Organizador de eventos</h4>
     <h4>Nombre: Joaquin Paredes</h4>
     <img src="./imagenes/VI1.png" width="400" height="200">
     <p><strong>Link del video: </strong> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113640_upc_edu_pe/EYxoxcwfW-xGstj_LsHO4OAB-mEsaPiV-p0wKHfwKRk-8w?e=ofvHp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</p>
