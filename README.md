@@ -160,6 +160,8 @@ En el marco del desarrollo del landing page de MyEvent y la creación de wirefra
                  <p>
                     <strong>TB2</strong>
                     <p>En el proyecto, mi responsabilidad principal fue desarrollar y comunicar los aspectos técnicos relacionados con el acceso a la membresía premium. Esto implicó diseñar y programar la interfaz de usuario (UI) y la experiencia de usuario (UX) específica para la membresía premium. También fui responsable de explicar la lógica de acceso y sus beneficios a diversas audiencias, demostrando habilidades de comunicación efectiva en un contexto técnico.</p>
+                <strong>TF</strong>
+                    <p>En la etapa final del presente proyecto, pude comunicar eficientemente mis ideas con respecto al negocio a tratar en el proyecto, analizando las posibilidades del grupo en relacion a las epics a trabajar, de cara a la ultima presentacion del curso, esto ayudo a que se mantenga la coordialidad y el compromiso, y por ende se pueda concluir el trabajo con exito</p>
               </p>   
             </p>
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
@@ -269,6 +271,8 @@ En el marco del desarrollo del landing page y la creación de mockups, redacté 
                     <p>Durante la definición y desarrollo de las epics de las User Stories, se comunicó de manera efectiva y objetiva las metas, funcionalidades y requisitos de cada epic a todo el equipo. Esto aseguró una comprensión clara y alineada con los objetivos del proyecto en cada fase de desarrollo, facilitando la planificación, implementación y evaluación de las User Stories asociadas a cada epic.</p>
                     <strong>TB2</strong>
                     <p>En el proyecto MyEvent, el equipo demostró una excepcional capacidad para comunicar de manera clara y objetiva los avances y las decisiones tomadas en el desarrollo del backend. La documentación técnica elaborada fue fundamental para garantizar una comprensión adecuada entre los integrantes del equipo, facilitando así la colaboración efectiva y la toma de decisiones informadas.</p>
+                     <strong>TF</strong>
+<p>En la ultima etapa del proyecto, me encargué de comunicar de manera eficiente diversos conceptos aplicados en relacion al negocio, especificando y añadiendo las evidencias trabajadas en el backend dentro del informe final.</p>
     </li>
                 </ul>
         </td>
