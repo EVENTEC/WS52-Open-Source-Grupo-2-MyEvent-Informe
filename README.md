@@ -3485,7 +3485,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
     </tr>
 </table>
 <h3>5.2.4.5 Execution Evidence for Sprint Review</h3>
-<h4>Prueba de Sign Up</h4>
+<h4>Prueba de Sign-Up y Sign-In</h4>
 <img src="./imagenes/evidence 1.jfif">
 <img src="./imagenes/evidence 2.jfif">
 <img src="./imagenes/evidence 2.jfif">
@@ -3507,125 +3507,28 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
   </thead>
   <tbody>
     <tr>
-      <td>/api/v1/users/1</td>
-      <td>GET</td>
-      <td><a href="http://localhost:8080/api/v1/users/1">http://localhost:8080/api/v1/users/1</a></td>
-      <td>N/A</td>
-      <td>{"id": 1, "name": "John Doe", "email": "john.doe@example.com"}</td>
-      <td>Obtiene el usuario por ID</td>
-    </tr>
-    <tr>
-      <td>/api/v1/users/correo/ianpe@example.com</td>
-      <td>GET</td>
-      <td><a href="http://localhost:8080/api/v1/users/correo/ianpe@example.com">http://localhost:8080/api/v1/users/correo/ianpe@example.com</a></td>
-      <td>N/A</td>
-      <td>{"id": 2, "name": "Ian Perez", "email": "ianpe@example.com"}</td>
-      <td>Obtiene el usuario por correo</td>
-    </tr>
-    <tr>
-      <td>/api/v1/users/name/Emily/surname/Davis</td>
-      <td>GET</td>
-      <td><a href="http://localhost:8080/api/v1/users/name/Emily/surname/Davis">http://localhost:8080/api/v1/users/name/Emily/surname/Davis</a></td>
-      <td>N/A</td>
-      <td>{"id": 3, "name": "Emily Davis", "email": "emily.davis@example.com"}</td>
-      <td>Obtiene el usuario por nombre y apellido</td>
-    </tr>
-    <tr>
-      <td>/api/v1/users</td>
-      <td>GET</td>
-      <td><a href="http://localhost:8080/api/v1/users">http://localhost:8080/api/v1/users</a></td>
-      <td>N/A</td>
-      <td>[{"id": 1, "name": "John Doe", "email": "john.doe@example.com"}, {"id": 2, "name": "Ian Perez", "email": "ianpe@example.com"}]</td>
-      <td>Obtiene todos los usuarios</td>
-    </tr>
-    <tr>
-      <td>/correo/ianpe@example.2</td>
-      <td>DELETE</td>
-      <td><a href="http://localhost:8080/correo/ianpe@example.2">http://localhost:8080/correo/ianpe@example.2</a></td>
-      <td>{"name": "Ian Perez", "password": "examplePassword"}</td>
-      <td>{"message": "Usuario eliminado exitosamente"}</td>
-      <td>Elimina el usuario por nombre y contraseña</td>
-    </tr>
-    <tr>
-      <td>/api/v1/users/change-password/3/emilyfddfdavis@example.com</td>
-      <td>PUT</td>
-      <td><a href="http://localhost:8080/api/v1/users/change-password/3/emilyfddfdavis@example.com">http://localhost:8080/api/v1/users/change-password/3/emilyfddfdavis@example.com</a></td>
-      <td>{"password": "nuevaContra2"}</td>
-      <td>{"message": "Contraseña actualizada exitosamente"}</td>
-      <td>Actualiza la contraseña por ID y correo</td>
-    </tr>
-    <tr>
-      <td>/api/v1/users/change-name/9/jesus@gmail.com</td>
-      <td>PUT</td>
-      <td><a href="http://localhost:8080/api/v1/users/change-name/9/jesus@gmail.com">http://localhost:8080/api/v1/users/change-name/9/jesus@gmail.com</a></td>
-      <td>{"password": "huawei", "name": "Enrique"}</td>
-      <td>{"message": "Nombre actualizado exitosamente"}</td>
-      <td>Cambia el nombre del usuario</td>
-    </tr>
-    <tr>
-      <td>/api/v1/events/create</td>
+      <td>/api/v1/authentication/sign-up</td>
       <td>POST</td>
-      <td><a href="http://localhost:8080/api/v1/events/create">http://localhost:8080/api/v1/events/create</a></td>
-      <td>
-        {"name": "Concierto de Rock", "date": "2024-06-15", "organizer": "Rock Productions", "location": "Estadio Central", "resale": true, "description": "¡Ven y disfruta de una noche llena de música rockera!", "price": 25.99, "capacity": 1000, "image": "https://ejemplo.com/imagen.jpg", "category": "Conciertos", "eventApiKey": "tu_clave_de_API"}
-      </td>
-      <td>{"message": "Evento creado exitosamente"}</td>
-      <td>Inserta un nuevo evento</td>
+      <td><a href="http://localhost:8080/api/v1/authentication/sign-up">http://localhost:8080/api/v1/authentication/sign-up</a></td>
+      <td>N/A</td>
+      <td>{"id": 4, "name": "user5name", "correo": "user5@gmail.com", "phone": "963693893", "dni": "04014004", "tipoDeCuenta": "user", "premium": "false", "roles": "ROLE_USER"}</td>
+      <td>Envia datos del usuario registrado</td>
     </tr>
     <tr>
-      <td>/api/v1/events</td>
+      <td>/api/v1/authentication/sign-in</td>
+      <td>POST</td>
+      <td><a href="http://localhost:8080/api/v1/authentication/sign-in">http://localhost:8080/api/v1/authentication/sign-in</a></td>
+      <td>N/A</td>
+      <td>{"id": 4, "correo": "user5@gmail.com", "token": "eyJhbGciOiJIUzM4NCJ9.eyJzdWIioiJ1c2VyNW5hbWUiLCJpYXQiOjE3MTk0Njc0NDIsImV4cCI6MTcyMDA3MjI0Mn0.4ZA1jmU1ZGw1k0-2hBBHPaLK9X5BWT8b29A89zkZaCVGPpdidZCPwWLL1GTp9Ig"}</td>
+      <td>Envia datos del usuario</td>
+    </tr>
+    <tr>
+      <td>/ap/v1/roles</td>
       <td>GET</td>
-      <td><a href="http://localhost:8080/api/v1/events">http://localhost:8080/api/v1/events</a></td>
-      <td>N/A</td>
-      <td>
-        [
-          {"id": 1, "name": "Concierto de Rock", "date": "2024-06-15", "organizer": "Rock Productions", "location": "Estadio Central"},
-          {"id": 2, "name": "Festival de Jazz", "date": "2024-07-10", "organizer": "Jazz Fest", "location": "Parque Central"}
-        ]
-      </td>
-      <td>Obtiene todos los eventos</td>
-    </tr>
-    <tr>
-      <td>/api/v1/events/name/Concierto de Rock</td>
-      <td>GET</td>
-      <td><a href="http://localhost:8080/api/v1/events/name/Concierto%20de%20Rock">http://localhost:8080/api/v1/events/name/Concierto%20de%20Rock</a></td>
-      <td>N/A</td>
-      <td>{"id": 1, "name": "Concierto de Rock", "date": "2024-06-15", "organizer": "Rock Productions", "location": "Estadio Central"}</td>
-      <td>Obtiene evento por nombre</td>
-    </tr>
-    <tr>
-      <td>/api/v1/events/name/Concierto de Rock/organizer/Rock Productions</td>
-      <td>GET</td>
-      <td><a href="http://localhost:8080/api/v1/events/name/Concierto%20de%20Rock/organizer/Rock%20Productions">http://localhost:8080/api/v1/events/name/Concierto%20de%20Rock/organizer/Rock%20Productions</a></td>
-      <td>N/A</td>
-      <td>{"id": 1, "name": "Concierto de Rock", "date": "2024-06-15", "organizer": "Rock Productions", "location": "Estadio Central"}</td>
-      <td>Obtiene evento por nombre y organizador</td>
-    </tr>
-    <tr>
-      <td>/api/v1/events/3</td>
-      <td>DELETE</td>
-      <td><a href="http://localhost:8080/api/v1/events/3">http://localhost:8080/api/v1/events/3</a></td>
-      <td>N/A</td>
-      <td>{"message": "Evento eliminado exitosamente"}</td>
-      <td>Elimina el evento por ID</td>
-    </tr>
-    <tr>
-      <td>/api/v1/events/6</td>
-      <td>PUT</td>
-      <td><a href="http://localhost:8080/api/v1/events/6">http://localhost:8080/api/v1/events/6</a></td>
-      <td>
-        {"name": "Concierto de Rock Actualizado", "date": "2024-06-20", "organizer": "Rock Productions Actualizado", "location": "Estadio Central Actualizado", "resale": false, "description": "¡Ven y disfruta de una noche llena de música rockera actualizada!", "price": 35.99, "capacity": 1500, "image": "https://ejemplo.com/imagen_actualizada.jpg", "category": "Conciertos Actualizados", "eventApiKey": "tu_clave_de_API_actualizada"}
-      </td>
-      <td>{"message": "Evento actualizado exitosamente"}</td>
-      <td>Actualiza un evento</td>
-    </tr>
-    <tr>
-      <td>/new-request</td>
-      <td>GET</td>
+      <td><a href="http://localhost:8080/api/v1/roles">http://localhost:8080/api/v1/roles</a></td>
       <td>N/A</td>
       <td>N/A</td>
-      <td>{"message": "Nueva solicitud realizada exitosamente"}</td>
-      <td>Nueva solicitud</td>
+      <td>Prueba de proteccion por un authorized</td>
     </tr>
   </tbody>
 </table>
