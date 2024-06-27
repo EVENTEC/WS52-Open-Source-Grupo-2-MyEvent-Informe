@@ -3530,9 +3530,11 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
   </tbody>
 </table>
 <h3>5.2.4.7 Software Deployment Evidence for Sprint Review</h3>
-<p>Logramos deployar con exito nuestra version final del backend integrado al frontend.</p>
+<p>Logramos deployar con exito nuestra version final del backend integrado al frontend. Para Ello usamos phpMyAdmin.</p>
 <img src="./imagenes/deploy1.jpeg">
 <img src="./imagenes/deploy2.jpeg">
+<img src="./imagenes/deploy3.jpeg.jpeg">
+<img src="./imagenes/deploy5.PNG.jpeg">
 
 <h3>5.2.4.8 Team Collaboration Insights during Sprint</h3>
 <p>Para el trabajo colaborativo nos ayudamos de la herramienta Github y de las ramas y commits que se podían hacer. Además de los merge que unen toda nuestra parte del trabajo, tanto en el backend como en el frontend.</p>
