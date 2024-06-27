@@ -3484,25 +3484,14 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
         <td>Commits on Jun 25, 2024</td>
     </tr>
 </table>
-<h3>5.2.4.4 Testin Suite Evidence for Sprint Review</h3>
-
 <h3>5.2.4.5 Execution Evidence for Sprint Review</h3>
-<img src="./imagenes/sprint3/1.png">
-<img src="./imagenes/sprint3/2.png">
-<img src="./imagenes/sprint3/3.png">
-<img src="./imagenes/sprint3/4.png">
-<img src="./imagenes/sprint3/5.png">
-<img src="./imagenes/sprint3/6.png">
-<img src="./imagenes/sprint3/7.png">
-<img src="./imagenes/sprint3/8.png">
-<img src="./imagenes/sprint3/9.png">
-<img src="./imagenes/sprint3/10.png">
-<img src="./imagenes/sprint3/11.png">
-<img src="./imagenes/sprint3/12.png">
-<img src="./imagenes/sprint3/13.png">
-<img src="./imagenes/sprint3/14.png">
-<img src="./imagenes/sprint3/15.png">
-<img src="./imagenes/sprint3/16.png">
+<h4>Prueba de Sign Up</h4>
+<img src="./imagenes/evidence 1.jfif">
+<img src="./imagenes/evidence 2.jfif">
+<img src="./imagenes/evidence 2.jfif">
+<img src="./imagenes/evidence 4.jfif">
+<h4>Prueba de la proteccion de un endpoint por un authorized</h4>
+<img src="./imagenes/Evidence 5.jfif">
 <h3>5.2.4.6 Services Documentation Evidence for Sprint Review</h3>
 
 <table>
