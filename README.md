@@ -3457,6 +3457,22 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
         <td>Creacion del backend de validación de eventos</td>
         <td>Commits on Jun 25, 2024</td>
     </tr>
+     <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Frontend-Final</td>
+        <td>feat/security</td>
+        <td>c56452470b7c2531d0b207382bac7ec876254267</td>
+        <td>feat: register form working with backend endpoints</td>
+        <td>Creacion de la rama security para el authorized</td>
+        <td>Commits on Jun 26, 2024</td>
+    </tr>
+    <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Frontend-Final</td>
+        <td>feature/backupmain</td>
+        <td>t6375920b7c2531d0b207382bac7ec746361937</td>
+        <td>feat:implementacion de backup</td>
+        <td>implementacion de backup</td>
+        <td>Commits on Jun 26, 2024</td>
+    </tr>
 </table>
 <h3>5.2.4.5 Execution Evidence for Sprint Review</h3>
 <h4>Prueba de Sign-Up y Sign-In</h4>
