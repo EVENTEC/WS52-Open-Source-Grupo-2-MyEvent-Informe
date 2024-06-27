@@ -138,6 +138,9 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
                 <strong>TB2</strong>
                     <p>Durante el proyecto, logré la corrección de ciertos apartados del Front-end que nos pidieron hacer después de la entrega del TP, En el apartado del Back-end, me encargué de la creación de la tabla User y las peticiones que se podían realizar en el Postman, tanto como Post, Get, Delete y Put. Logré realizar cambios en el informe y organización de reuniones para verificar los procesos de mis compañeros
                     </p>
+                <strong>TF</strong>
+                    <p>En la etapa final del presente proyecto, terminamos de implementar el iam con el front end para lo que era mi épica, logrando poder registrarse e iniciar sesión de forma satisfactoria. Realicé 2 entrevistas para el informe del proyecto y pude organizar reuniones para poder gestionar avances del proyecto</p>
+              </p> 
                 <li><strong>Luis Mario Gonzales Anaya</strong></li>
                 <p>
                     <strong>TB1</strong>
@@ -223,6 +226,10 @@ En el contexto del proyecto, desempeñé un papel fundamental en la elaboración
 <strong>TB2</strong>
                     <p>En el contexto de proyecto, realicé un aporte importante en el apartado del Backend, ya que ahora tenmos los registros de los usuarios los cuales se quieran registrar en nuestro aplicativo web, durante el proceso, demostre mis habilidades de aprendizaje rápido y adaptación para los problemas que tuvimos durante las semanas.
                     </p>
+                    <strong>TF</strong>
+<p>Durante la finalización del proyecto, le tomé prioridad en mejorar los resultados visuales que teníamos, logrando hacer que la vista se vea atractiva y pueda tener una relación con respecto a la paleta de colores. Mejoré mi comunicación con mis compañeros para así poder lograr una buena organización de este último entregable</p>
+
+</p>
                 </li>
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
                 <p>
