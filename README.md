@@ -3586,6 +3586,26 @@ Además, Rodrigo ha mencionado la importancia de incorporar una función de reve
 </td></tr>
     <tr><td>Link de la entrevista: <a href="https://youtu.be/pt136hPLp-A">https://youtu.be/pt136hPLp-A</a></td></tr>
   </table>
+  <h4>Nombre: Jordy Muñoz Salcedo</h4>
+<h4>Entrevistador: Piero Jhoynner Muñoz Salcedo</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 24 años</li>
+    <li>Ubicación: Cercado de Lima</li>
+  </ul>
+</details><br>
+
+  <table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/entrevista B.PNG" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">El entrevistado comenta que la plataforma le parece algo innovador y con exelente diseño, tambien comenta que le resulta facil iniciar sesion como cualquier otra pagina.Ademas, indica que le parece bien que le informen sobre los beneficios adicionales por subscripcion. Comenta que puede acceder intuitivamente a la informacion y a la compra relacionado al evento que desea asistir. Nos cuenta que no ah pasado por la necesidad de transferir alguna de sus entradas pero en caso sucede qusiera que fuese de la manera mas segura. Por ultimo, comento que si bien no encuentra fallas, le gustaria que la plataforma tenga un modo nocturno u otro color de fondo.
+        
+</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://youtu.be/HSkimzoH1ag">https://youtu.be/HSkimzoH1ag</a></td></tr>
+  </table>
 
 
   <h4>Nombre: Ian Maqcavilca</h4>
