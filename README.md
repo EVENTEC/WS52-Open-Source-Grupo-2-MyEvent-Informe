@@ -3564,6 +3564,28 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
   </table>
 
 
+  <h4>Nombre: Ian Maqcavilca</h4>
+<h4>Entrevistador: Michael Stefano Carmelino Dueñas</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 20 años</li>
+    <li>Ubicación: San Juan de Miraflores</li>
+  </ul>
+</details><br>
+
+  <table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/ianentre.png" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">En la entrevista sale que le gusta nuestra plataforma, que le gusta la paleta de colores, la facilidad y claridad en el proceso de registro, inicio de sesión y compra de entradas para mejorar la experiencia del usuario. Nos sugiere implementar una opción de modo oscuro en la plataforma como mejora adicional para adaptarse a las preferencias de los usuarios.
+        
+</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=waWT8DyTAdw">https://www.youtube.com/watch?v=waWT8DyTAdw</a></td></tr>
+  </table>
+
+
 <h3>5.3.3 Evaluaciones según heurísticas</h3>
 </head>
 <body>
